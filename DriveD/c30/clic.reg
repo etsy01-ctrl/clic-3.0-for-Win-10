@@ -1,0 +1,63 @@
+REGEDIT4
+
+[HKEY_CLASSES_ROOT\Clic.Document]
+"EditFlags"=hex:00,00,01,00
+@="Clic"
+
+[HKEY_CLASSES_ROOT\Clic.Document\DefaultIcon]
+@="c:\\clic\\clic.exe,0"
+
+[HKEY_CLASSES_ROOT\Clic.Document\shell]
+
+[HKEY_CLASSES_ROOT\Clic.Document\shell\open]
+@=""
+
+[HKEY_CLASSES_ROOT\Clic.Document\shell\open\command]
+@="C:\\CLIC\\CLIC.EXE %1"
+
+[HKEY_CLASSES_ROOT\.pcc]
+@="Clic.Document"
+"EditFlags"=hex:00,00,01,00
+"Content Type"="application/clic"
+
+[HKEY_CLASSES_ROOT\.pac]
+@="Clic.Document"
+"EditFlags"=hex:00,00,01,00
+"Content Type"="application/clic"
+
+[HKEY_CLASSES_ROOT\.ass]
+@="Clic.Document"
+"EditFlags"=hex:00,00,01,00
+"Content Type"="application/clic"
+
+[HKEY_CLASSES_ROOT\.puz]
+@="Clic.Document"
+"EditFlags"=hex:00,00,01,00
+"Content Type"="application/clic"
+
+[HKEY_CLASSES_ROOT\.sop]
+@="Clic.Document"
+"EditFlags"=hex:00,00,01,00
+"Content Type"="application/clic"
+
+[HKEY_CLASSES_ROOT\.crw]
+@="Clic.Document"
+"EditFlags"=hex:00,00,01,00
+"Content Type"="application/clic"
+
+[HKEY_CLASSES_ROOT\.txa]
+@="Clic.Document"
+"EditFlags"=hex:00,00,01,00
+"Content Type"="application/clic"
+
+
+[HKEY_CLASSES_ROOT\MIME\Database\Content Type\application/clic]
+"Extension"=".pcc"
+
+
+[HKEY_CURRENT_USER\Software\Netscape\Netscape Navigator\Suffixes]
+"application/clic"="pcc,pac,ass,puz,sop,crw,txa"
+
+[HKEY_CURRENT_USER\Software\Netscape\Netscape Navigator\Viewers]
+"application/clic"="c:\\clic\\clic.exe %1"
+

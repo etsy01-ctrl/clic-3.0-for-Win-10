@@ -1,0 +1,4 @@
+bicicleta|bici
+coche|automovil|auto
+camión|furgoneta
+moto|motocicleta

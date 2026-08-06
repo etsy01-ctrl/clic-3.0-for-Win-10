@@ -1,0 +1,52 @@
+119
+
+‡
+18,9,0,0,400,0,0,0,0,3,2,1,34,Arial
+80FFFF,800000,C0C0C0,0
+15,5,0,0,400,0,0,0,0,3,2,1,34,Arial
+80FFFF,000080,FFFFFF,0
+27,11,0,0,700,0,0,0,0,3,2,1,34,Arial
+80FFFF,800000,C0C0C0,0
+0,0,0,1,80FFFF,FFFFFF,-1,-1,1,0,0
+
+Multimedia-edukin berriak eta agiente bereziak dituzten gelaxkak.
+
+18759
+620;66
+456;42
+0
+
+
+0
+
+
+28,11,0,0,400,0,0,0,0,3,2,1,34,Arial
+80FFFF,008000,808080,0
+FF0000,C0C0C0,FFFFFF,0000FF
+0,918,3,6,0,30,16
+Avaluació
+Gelaxkak multimedia-edukin berriekin eta aginte bereziekin lotuta egon daitezke.
+
+Soinuen grabaketa eta erreprokduzioa.
+
+Ž185,42,0,1,Mikrofonoa konektaturik baduzu, gelaxka honetan sakatuz, hitz bat grabatzera frogatzen ahal zara.Ž  Ž66,42,1,0,{rec0 5}Ž Ž120,42,0,1,Gero, hemen sakatuz, emaitza entzun.Ž  Ž66,42,1,0,{rec0 play}Ž
+
+Ž185,42,0,1,Gehienez, ariketa bakoitzean aldibereko 10 grabazio entzun daitezke.Ž  Ž66,42,1,0,{rec1 5}Ž Ž66,42,1,0,{rec1 play}Ž      Ž66,42,1,0,{rec2 5}Ž Ž66,42,1,0,{rec2 play}Ž
+
+Multimedia-fitxategiak zatika erreproduzituak:
+
+Ž185,42,0,1,Gelaxka honen MIDI fitxategi baten 20.etik 30.erainoko konpasak erreproduzitzen ditu:Ž  Ž66,42,1,0,{mozart.mid from 288 to 347}Ž Ž160,42,0,1,... beste honek WAV fitxategi luze baten bi hitz: Ž Ž66,42,1,0,{Aezkoa.wav from 24100 to 25900}Ž
+
+Kanpoko programekiko lotura:
+
+Ž185,42,0,1,Hemen sakatuz, Windows-en kalkulagailua martxan jarriko dugu:Ž  Ž66,42,1,0,{calc.exe}Ž
+
+Klik-etik ateratzea:
+
+Ž185,70,0,1,Beste aldetik, gelaxaka bat sakatuz, klik-etik atera gaitezke. Ariketa baten azkeneko mezuan lotura jarriz gero, modu honetaz ere klik-etik aterako gara:Ž  Ž66,42,1,0,{exit}Ž
+
+‡
+
+‡
+
+‡

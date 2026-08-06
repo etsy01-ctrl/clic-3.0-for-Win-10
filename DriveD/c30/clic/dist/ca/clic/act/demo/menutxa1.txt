@@ -1,0 +1,4 @@
+Les activitats de text són exercicis consistents a corregir, completar, ordenar o identificar determinats elements d'un text.
+Hi ha sis modalitats diferents d'activitat de text: omplir forats, completar text, identificar lletres o paraules i ordenar paraules o paràgrafs.
+Els exercicis poden incloure objectes gràfics i sonors, així com diversos elements d'ajuda.
+Per veure com han estat fetes les activitats que formen el paquet podeu prémer [CTRL]+E

@@ -1,0 +1,4 @@
+El objetivo de las actividades de asociación es descubrir las relaciones entre los elementos de dos conjuntos distintos de información.
+La información a relacionar puede presentarse en forma de texto, gráficos, sonidos, animaciones, video... o cualquier otro tipo de recurso multimedia.
+También se incluyen en este apartado algunas actividades especiales, como las pantallas de información o las de respuesta escrita.
+Para ver como se han hecho las actividades que forman el paquete puedes pulsar [CTRL]+E

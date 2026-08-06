@@ -1,0 +1,4 @@
+{elefant.wav}
+{lleopard.wav}
+{llop.wav}
+{dofi.wav}

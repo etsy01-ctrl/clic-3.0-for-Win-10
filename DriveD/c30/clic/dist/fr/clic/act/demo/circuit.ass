@@ -1,0 +1,38 @@
+120
+Association complexe texte-texte
+‡
+22,8,0,0,400,0,0,0,0,3,2,1,34,Arial
+FFFFFF,FF0000,808080,0
+22,8,0,0,700,0,0,0,0,3,2,1,34,Arial
+FFFFFF,000000,808080,0
+21,8,0,0,700,0,0,0,0,3,2,1,34,Arial
+C0C0C0,000000,808080,0
+1,1,1,1,C0C0C0,C0C0C0,0,-1,0,0,0
+
+Choisissez le générateur pour allumer les lampes.
+Bien, tu es au courant.
+2439
+210;100
+150;90
+0
+
+
+0
+
+
+1
+2
+2
+circuit.txt
+gene.txt
+1
+0
+1
+cirsol.txt
+1
+1
+3
+1
+0
+0
+2

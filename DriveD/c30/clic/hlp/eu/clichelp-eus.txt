@@ -1,0 +1,3559 @@
+#$K+
+{bmr mapa.bmp}MAPA_ACTIV>wmapa{bmc disc1.bmp}   Nola dabil KLIK?
+Ikusi...MORE_HELP_CFEC
+
+
+Laguntzaren atal honetan honako gai hauei buruzko informazioa aurkituko duzue:
+
+Nola kargatu ariketa bat ala diskoaren paketea?HELP_CARREGA
+Ariketa motakHELP_TIPUSACT
+BuruhausgarriakHELP_PUZZLE
+Buruhausgarri motakHELP_TIPUSPUZ
+ElkarketakHELP_ASSOCIA
+Elkarketa arruntaHELP_ASSNORM
+Elkarketa konplexuaHELP_ASSREL
+Identifikazio ariketaHELP_IDENT
+Araketa ariketaHELP_EXPLORE
+Idatzizko erantzuna ariketaHELP_ESCRIU
+Argibide pantailaHELP_INFO
+Letra zopakHELP_SOPA
+GurutzegramakHELP_CREUATS
+Testu ariketakHELP_TXA
+Hutsuneak beteHELP_TXFORAT
+Testua osatuHELP_TXCOMPL
+Letrak identifikatuHELP_TXIDLLETRA
+Hitzak identifikatuHELP_TXIDPARAULA
+Hitzak ordenatuHELP_TXORDPARAULA
+Parrafoak ordenatuHELP_TXORDPARAGRAF
+Nola errepikatu Ariketa bera behin eta berriro?HELP_INIT
+Nola pasatu beste ariketa batetara?HELP_PASS
+Ariketa ebazteko laguntza nola eskatu?HELP_AJUDA
+Programatik nola atera?HELP_EXIT
+
+#$K+
+{bmr mapa.bmp}MAPA_ACTIV>wmapa{bmc clic.bmp}   Nola kargatu ariketa ala diskoaren paketea?
+Ikusi...MORE_HELP_CARREGA
+
+
+Botoi hau sakatuz ariketa eta pakete hautaketa-dialogora pasatzen da.
+
+Pakete edo ariketa bat kargatzeko programak erabiltzen dituen artxibo motak identifikatzen dituen botoiren bat sagutxoz hautatu behar da:
+
+
+{bmc paquet1.bmp}TOPIC_PAQUET   ARIKETEN PAKETEAKTOPIC_PAQUET 
+{bmc sopa1.bmp}TOPIC_SOPA   LETRA ZOPAKTOPIC_SOPA 
+{bmc puzzle1.bmp}TOPIC_PUZZLE BURUHAUSGARRIAKTOPIC_PUZZLE 
+{bmc creuats1.bmp}TOPIC_CREUATS   GURUTZEGRAMAKTOPIC_CREUATS 
+{bmc associa1.bmp}TOPIC_ASSOCIA   ELKARKETAKTOPIC_ASSOCIA 
+{bmc txtact1.bmp}TOPIC_TXA   TESTU ARIKETAKTOPIC_TXA
+
+Fitxategia zerrendako elementuetan klik eginez gero, "info" arloan ariketa edo paketeen deskribapena ikusiko dugu.
+
+#$K+
+{bmr mapa.bmp}MAPA_ACTIV_TIPUS>wmapa {bmc clic.bmp}   Ariketa motak
+Ikusi...MORE_HELP_TIPUS
+
+
+KLIK-en bidez lau aktibitate mota egin daitezke:
+
+{bmc puzzle1.bmp}HELP_PUZZLE   BURUHAUSGARRIAKHELP_PUZZLE
+{bmc associa1.bmp}HELP_ASSOCIA   ELKARKETAKHELP_ASSOCIA
+{bmc sopa1.bmp}HELP_SOPA   LETRA ZOPAKHELP_SOPA
+{bmc creuats1.bmp}HELP_CREUATS   GURUTZEGRAMAHELP_CREUATS
+{bmc txtact1.bmp}HELP_TXA   TESTU ARIKETAKHELP_TXA
+
+Ariketak paketetanTOPIC_PAQUET elkarturik aurki daitezke
+
+#$K+
+{bmr mapa.bmp}MAPA_ACTIV_TIPUS>wmapa {bmc puzzle1.bmp}   Buruhausgarriak
+Ikusi...MORE_HELP_PUZZLE
+
+
+Ariketa mota honen helburua testu edo irudi bat berrosatzea da.
+
+
+Botoiak {bmc puzzle1.bmp}HELP_TIPUSPUZ buruhausgarri motaHELP_TIPUSPUZ zehaztea onartzen du  HELP_TIPUSPUZ edo gelaxka kopurua.
+
+Botoiak {bmc AJUDA1.BMP}HELP_AJUDA berrosatu beharreko irudi osoa erakusten du.
+
+Hurrengo pantailan buruhausgarri mota guztiak azaltzen dira
+
+
+#$K+ 
+{bmr mapa.bmp}MAPA_ACTIV_TIPUS>wmapa {bmc puzzle1.bmp}   Buruhausgarri mota
+Ikusi...MORE_HELP_TIPUSPUZ
+
+
+KLIK-ek lau buruhausgarri mota egitea onartzen du:
+
+{bml puzzle1.bmp}ELKARTRUKEA: Buruhausgarria osatu behar da, gelasken posizioa leiho bakar batean aldatuz.
+Elkartruke-buruhausgarri baten adibidea ikusteko sakatu hemen.!EP("clic.exeCLIC:\\act\\demo\\puz02.puz",0)
+
+{bml doble1.bmp}BIKOITZA:Buruhausgarria ezkerreko leihoan osatu behar da, piezak eskuineko leihotik eramanez.
+Buruhausgarri bikoiztu baten adibidea ikusteko sakatu hemen.!EP("clic.exeCLIC:\\act\\demo\\puz01.puz",0)
+
+{bml forat1.bmp}HUTSUNEA: Pieza bat leihotik dasagertzen da zulo bat utziz. Ondoko piezetan sakatuz gero, zuloaren kokapenera pasarazteko dituzue.
+Hutsune-buruhausgarri baten adibidea ikusteko sakatu hemen.!EP("clic.exeCLIC:\\act\\demo\\puz03.puz",0)
+
+{bml memory1.bmp}MEMORIA: Leiho bakar batean buruhausgarriaren pieza guztiak bikoizturik aurkituko dituzue. Saio bakoitzean bi pieza agerarazi behar dira. bi pieza berdinek osaturiko bikotea agertarazten bada, buruturik dago. Elkartzen diren bi piezak ezberdinak badira, beren edukina gogoan hartuko dugu ahalik eta saio gutxienekin buruhausgarria burutzeko.
+Memoria-buruhausgarri baten adibidea ikusteko hemen sakatu.!EP("clic.exeCLIC:\\act\\demo\\puz06.puz",0)
+
+Ohiko balioak botoiak ohiko balioak hautatzen ditu.
+
+Irudia trinkotu aukerak irudiaren bits-mapaTOPIC_BITMAP konprimitzen du leihoetan agertzeko handiegia bada.aukera hau desaktibaturik badago, irudia moztuko da. Windows-en pantaila-kontrolatzaile batzuren bitartez 16 kolore baino gehigoko irudia konprimitzen saiatuz gero arazorik ager daiteke.
+
+#$K+
+{bmr mapa.bmp}MAPA_ACTIV_TIPUS>wmapa {bmc associa1.bmp}   Elkarketak
+Ikusi...MORE_HELP_ASSOCIA
+
+
+KLIK-en elkarketa ariketa mota ezberdinak eskeintzen ditu.
+
+{bml mboff.bmp}HELP_ASSNORM	Elkarketa arrunta
+{bml mboff.bmp}HELP_ASSREL	Elkarketa konplexua
+{bml mboff.bmp}HELP_IDENT	Identifikazio ariketak
+{bml mboff.bmp}HELP_EXPLORE	Arakatze ariketa
+{bml mboff.bmp}HELP_ESCRIU	Idatzizko erantzuna ariketa
+{bml mboff.bmp}HELP_INFO	Argibide pantaila
+
+Mota honetako ariketen helburu orokorra pantailan agertzen diren leihoetako elementuak erlazionatu, identifikatu edo aztertzea da. Leihoen edukina irudiaTOPIC_BITMAP edo testuaTOPIC_TEXT.
+
+Ariketan botoia agertzen bada {bmc AJUDA1.BMP} laguntza pantaila aktibatzen ahal duzue. Ariketen botoia agertzen bada laguntza-pantaila aktibatzen ahal duzue. Laguntza pantailako elementuetan klik TOPIC_CLIC eginez beste aldeko pantailan dagozkien zatiak markatzen dira.
+
+
+#$K
+{bmr mapa.bmp}MAPA_ACTIV_TIPUS>wmapa {bmc associa1.bmp}   Elkarketak
+Ikusi...MORE_HELP_ASSOCIA
+
+
+Klik-ek elkarketa ariketa mota ezberdinak aurkezten ditu.
+
+{bml mbon.bmp}HELP_ASSOCIA	Elkarketa arrunta
+Elkarketa mota honetan bi leihoek elementu kopuru bera daukate, elkarren artean egokitu behar direlarik. Bi leihoetako elementuak parekatu behar dira konpondurik ez dagoen gelaska baten gainean klik egiterakoan agertzen den hariarekin lotuz.
+Egin klik hemen elkarketa arruntaren adibide bat ikusteko!EP("clic.exeCLIC:\\act\\demo\\ass01.ass",0)
+{bml mboff.bmp}HELP_ASSREL	Elkarketa konplexua
+{bml mboff.bmp}HELP_IDENT	Identifikazio ariketa
+{bml mboff.bmp}HELP_EXPLORE	Arakatze ariketa
+{bml mboff.bmp}HELP_ESCRIU	Idatzizko erantzuna ariketa
+{bml mboff.bmp}HELP_INFO	Argibide pantaila
+
+Mota honetako ariketeen helburu orokorra pantailan agertzen diren leihoetako elementuak erlazionatu, identifikatu edo aztertzea da. Leihoen edukina irudiaTOPIC_BITMAP edo testuaTOPIC_TEXT.
+
+Ariketan botoia agertzen bada {bmc AJUDA1.BMP} laguntza-pantaila aktibatzen ahal duzue. . Laguntza-pantailako elementuetan klikTOPIC_CLIC eginez beste aldeko pantailan dagozkien zatiak markatzen dira.
+
+
+#$K
+{bmr mapa.bmp}MAPA_ACTIV_TIPUS>wmapa {bmc associa1.bmp}   Elkarketak
+Ikusi...MORE_HELP_ASSOCIA
+
+
+Klik-ek elkarketa ariketa mota ezberdinak aukezten ditu.
+
+{bml mboff.bmp}HELP_ASSNORM	Elkarketa arrunta
+{bml mbon.bmp}HELP_ASSOCIA	Elkarketa konplexua
+Ariketa mota honetan bi leihoek gelaska kopuru ezberdina izan dezkete.
+Helburu leihoan, jatorrizko elementuekin egokitzen ez diren gelaskak izan daitezke, baita ere gerta daiteke jatorrizko elementu batzuk helburu gelaska berdinarekin egoki daitezkela. Hau dela eta, helburu leihoan dauden elementuak ez dira desagertzen parekatzea burutzen denean.
+Egin klik hemen elkarketa konplexuaren Ariketa bat ikusteko!EP("clic.exeCLIC:\\act\\demo\\ass02.ass",0)
+{bml mboff.bmp}HELP_IDENT	Identifikazio ariketa
+{bml mboff.bmp}HELP_EXPLORE	Arakatze ariketa
+{bml mboff.bmp}HELP_ESCRIU	Idatzizko erantzuna ariketa
+{bml mboff.bmp}HELP_INFO	Argibide pantaila
+
+Mota honetako ariketeen helburu orokorra pantailan agertzen diren leihoetako elementuak erlazionatu, identifikatu edo aztertzea. Leihoen edukina irudiaTOPIC_BITMAP edo testuaTOPIC_TEXT.
+
+Ariketan botoia agertzen bada {bmc AJUDA1.BMP} laguntza pantaila aktibatzen ahal duzue. Laguntza-pantailako elementuetan klik TOPIC_CLIC eginez beste aldeko pantailan dagozkien zatiak markatzen dira.
+
+
+#$K
+{bmr mapa.bmp}MAPA_ACTIV_TIPUS>wmapa {bmc associa1.bmp}   Elkarketak
+Ikusi...MORE_HELP_ASSOCIA
+
+
+Klik-ek elkarketa ariketa mota ezberdinak aurkezten ditu.
+
+{bml mboff.bmp}HELP_ASSNORM	Elkarketa arrunta
+{bml mboff.bmp}HELP_ASSREL	Elkarketa konplexua
+{bml mbon.bmp}HELP_ASSOCIA	Identifikazio ariketa
+Ariketa honetan bi elementu ez dira erlazionatu behar, baizik eta zuzen aukeratu behar dira ariketaren mezu-kaxan egindako galdera betetzen duten elementuak. Ariketa amaitzen da elementu zuzen guztiak aukitu direnean.
+Egin klik hemen identifikazio Ariketa bat ikusteko!EP("clic.exeCLIC:\\act\\demo\\ass04.ass",0)
+{bml mboff.bmp}HELP_EXPLORE	Arakatze ariketa
+{bml mboff.bmp}HELP_ESCRIU	Idatzizko erantzun ariketa
+{bml mboff.bmp}HELP_INFO	Argibide pantaila
+
+Mota honetako ariketeen helburu orokorra pantailan agertzen diren leihoetako elementuak erlazionatu, identifikatu edo aztertzea da.leihoen edukina  izan daiteke irudiaTOPIC_BITMAP edo testuaTOPIC_TEXT.
+
+Ariketan botoia agertzen bada  {bmc AJUDA1.BMP} laguntza-pantaila aktibatzen ahal duzue. Laguntza-pantailako elementuetan klikTOPIC_CLIC eginez beste aldeko pantailan dagozkien zatiak markatzen dira.
+
+
+#$K
+{bmr mapa.bmp}MAPA_ACTIV_TIPUS>wmapa {bmc associa1.bmp}   Elkarketak
+Ikusi...MORE_HELP_ASSOCIA
+
+
+Klik-ek elkarketa ariketa mota ezberdinak aurkezten ditu.
+
+{bml mboff.bmp}HELP_ASSNORM	Elkarketa arrunta
+{bml mboff.bmp}HELP_ASSREL	Elkarketa konplexua
+{bml mboff.bmp}HELP_IDENT	Identifikazio ariketa
+{bml mbon.bmp}HELP_ASSOCIA	Arakatze ariketa
+Hau da burutu behar ez den Ariketa bat. Leiho nagusian dauden elementu ezberdinetan klik egiterakoan, dagokien informazioa ikus daiteke.Behin leihoaren edukina aztertu ondoren, egin klik hurrengo ariketa botoietanHELP_PASS ( ariketa paketean TOPIC_PAQUETaritzen bazarete) edo kargatu diskatik beste ariketa edo paketea.
+Egin klik azterketa ariketaren adibide bat ikusteko!EP("clic.exeCLIC:\\act\\demo\\ass09.ass",0)
+{bml mboff.bmp}HELP_ESCRIU	Idatzizko erantzuna ariketa
+{bml mboff.bmp}HELP_INFO	Argibide pantaila
+
+Mota honetako ariketeen helburu orokorra pantailan agertzen diren leihoetako elementuak erlazionatu, identifikatu edo aztertzea da. Leihoen edukina irudiaTOPIC_BITMAP edo testuaTOPIC_TEXT.izan daiteke.
+
+Ariketan botoia agertzen bada {bmc AJUDA1.BMP} laguntza-pantaila aktibatzen ahal duzue. Laguntza-pantailako elementuetan klikTOPIC_CLIC eginez beste aldeko pantailan dagozkien zatiak markatzen dira
+
+
+#$K
+{bmr mapa.bmp}MAPA_ACTIV_TIPUS>wmapa {bmc associa1.bmp}   Elkarketak
+Ikusi...MORE_HELP_ASSOCIA
+
+
+Klik-ek elkarketa Ariketa mota ezberdinak aurkezten ditu.
+
+{bml mboff.bmp}HELP_ASSNORM	Elkarketa arrunta
+{bml mboff.bmp}HELP_ASSREL	Elkarketa konplexua
+{bml mboff.bmp}HELP_IDENT	Identifikazio ariketa
+{bml mboff.bmp}HELP_EXPLORE	Arakatze ariketa
+{bml mbon.bmp}HELP_ASSOCIA	Idatzizko erantzuna ariketa
+Mota honetako ariketa burutzeko leiho nagusian dauden gelaskan planteatutako galderei erantzuna zuzena idatzi behar da, ordenagailuaren teklatua erabiliz. Gelaskak edozein ordenean ebatzi daitezke.Ebatzi behar den elementua hautatzeko saguarekin markatu behar da leiho nagusian. 
+Egin klik hemen idatzizko erantzunaren ariketaren adibidea ikusteko!EP("clic.exeCLIC:\\act\\demo\\ass08.ass",0)
+{bml mboff.bmp}HELP_INFO	Argibide pantaila
+
+Mota honetako ariketeen helburu orokorra pantailan agertzen diren leihoetako elementuak erlazionatu, identifikatu edo aztertzea da. Leihoen edukina irudiaTOPIC_BITMAP edo testuaTOPIC_TEXT.
+
+Ariketan botoia {bmc AJUDA1.BMP} agertzen bada laguntza-pantaila aktubatzen ahal duzue. Laguntza-pantailako elementuetan klikTOPIC_CLIC eginez beste aldeko pantailan dagozkien zatiak markatzen dira.
+
+
+#$K
+{bmr mapa.bmp}MAPA_ACTIV_TIPUS>wmapa {bmc associa1.bmp}   Elkarketak
+Ikusi...MORE_HELP_ASSOCIA
+
+
+Klik-ek elkarketa Ariketa mota desberdinak eskeintzen ditu:
+{bml mboff.bmp}HELP_ASSNORM	Elkarketa arrunta
+{bml mboff.bmp}HELP_ASSREL	Elkarketa konplexua
+{bml mboff.bmp}HELP_IDENT	Identifikazio ariketa
+{bml mboff.bmp}HELP_EXPLORE	Arakatze ariketa
+{bml mboff.bmp}HELP_ESCRIU	Idatzizko erantzuna ariketa
+{bml mbon.bmp}HELP_ASSOCIA	Argibide pantaila
+Ariketa hau (Elkarketa ariketen taldean sartuta dagoena) ondoren agertuko den ariketa multzoaren aurkezpena edo sarrera besterik ez da.
+Behin ikusita edo irakurrita, ariketaz aldatzeko botoietan HELP_PASS klik egin(ariketa multzo batetanTOPIC_PAQUET baldin bazaudete) edo bestelaz diskotik beste ariketa edo ariketa multzo bat kargatu.
+Egin klik hemen argibide pantailaren ariketaren adibidea ikusteko!EP("clic.exeCLIC:\\act\\demo\\ass10.ass",0)
+
+Mota honetako ariketeen helburu orokorra pantailan agertzen diren leihoetako elementuak erlazionatu, identifikatu edo aztertzea da. Leihoen edukina irudiaTOPIC_BITMAP edo testuaTOPIC_TEXT.izan daiteke.
+
+Ariketan botoia {bmc AJUDA1.BMP} agertzen bada laguntza-pantaila aktibatzen ahal duzue. Laguntza-pantailako elementuetan klikTOPIC_CLIC eginez beste aldeko pantailan dagozkien zatiak markatzen dira.
+
+
+#$K+
+{bmr mapa.bmp}MAPA_ACTIV_TIPUS>wmapa {bmc sopa1.bmp}   Letra zopak
+Ikusi...MORE_HELP_SOPA
+
+
+Ariketa honetan, ezkerreko leihoan izkutatutako hitzak askatu behar dituzue. Hitz bat aurkitutakoan, lehenengo letran klikTOPIC_CLIC egin behar da, hariaTOPIC_FIL hitzaren bukaeraraino eraman eta azkenengo letran klik egin behar da berriro. Ariketak bi leiho izatekotan, hitzak askatzen dituzuen neurrian leihoaren zatiak irekiko zaizkizue ere.
+Hitzak zutik, zeharka edo saietsean ager daitezke, baita atzekoz aurrera ere.
+
+Bere botoian {bmc AJUDA1.BMP} klik eginez gero, izkutatutako hitzen zerrenda ikus dezakezue eta ariketak bi leiho izatekotan dagozkien gelaskak ere ikusiko dituzue.
+
+Egin klik hemen letra zoparen ariketaren adibidea ikusteko!EP("clic.exeCLIC:\\act\\demo\\sop02.sop",0)
+
+
+#$K+
+{bmr mapa.bmp}MAPA_ACTIV_TIPUS>wmapa {bmc creuats1.bmp}   Gurutzegramak
+Ikusi...MORE_HELP_CREUATS
+
+
+Ariketa honen helburua ezkerreko leihoa osatzen duten hitzak askatzea da ( bere definizioetatik abiatuta). Gelaska bakoitzan hitzak zutik eta zeharka gurutzatzen dira.
+
+Zutik et zeharkako definizioetan klikTOPIC_CLIC eginez, hitzak idazteko norantza aukeratu dezakezue. Momentu bakoitzeko norantza markatuta agertzen zaizue.
+
+Egin klik hemen gurutzegramaren ariketaren adibidea ikusteko!EP("clic.exeCLIC:\\act\\demo\\crw01.crw",0)
+
+
+#$K+
+{bmr mapa.bmp}MAPA_ACTIV_TIPUS>wmapa {bmc txtact1.bmp} Testu ariketak
+Ikusi...MORE_HELP_TXA
+
+
+Klik-ekin sei testu ariketa mota ezberdin egin daitezke
+
+{bml mboff.bmp}HELP_TXFORAT	Hutsuneak bete
+{bml mboff.bmp}HELP_TXCOMPL	Testua osatu
+{bml mboff.bmp}HELP_TXIDLLETRA	Letrak identifikatu
+{bml mboff.bmp}HELP_TXIDPARAULA	Hitzak identifikatu
+{bml mboff.bmp}HELP_TXORDPARAULA	Hitzak ordenatu
+{bml mboff.bmp}HELP_TXORDPARAGRAF	Parrafoak ordenatu
+
+Ariketak botoi {bmc AJUDA1.BMP} hau badu laguntza leihoa hautatu daiteke. Zenbait kasutan hasieran testu bat azaldu daiteke non orientabide edo pistak agertzen diren ariketa burutzen lagunduko duena.
+
+
+#$K
+{bmr mapa.bmp}MAPA_ACTIV_TIPUS>wmapa {bmc txtact1.bmp} Testu ariketa
+Ikusi MORE_HELP_TXA
+
+
+Klik-ekin sei testu ariketa mota ezberdin egin daitezke
+
+{bml mbon.bmp}HELP_TXA	Hutsuneak bete
+
+Ariketa honen helburua testuan agertzen diren hutsuneak zuzen betetzea da. Mota hauetakoak izan daitezke: Hutsuneak bete, aukeratzeko zerrendan espresioa hautatu, akatsak dituen testua zuzendu, soinu fitxategi batekin diktaketa egin...
+"Hutsuneak" ,modu ezberdinez ireki daitezkeen, laguntza leihoak izan dezakete: kurtsorea hutsunean kokatzean, erantzun okerra idatzi edo hautatzen denean, F1 tekla sakatzean edo denbora tartea igarotzean. Laguntza leiho hauek desager daitezke denbora tartea igarotzean edo ESC tekla sakatzean.
+Bi modutan egin daiteke ariketa honen ebaluaketa: berehalakoa (hutsune bakoitzean idatzitako adierazpena idatzi hala zuzenduko du) edo diferitua (ariketa osoa programak ebaluatu dezan leihoaren beheko aldean agertzen den botoian klik egin). Berehalako ebaluaketa duten ariketetan hurrengo hutsunera ezin daiteke pasa aurrekoa ongi erantzun bitartean.
+Erantzunen zuzenketa izan daiteke blokeka (hutsune bakoitzak zuzen ala akatsen bat duen adierazten du) edo letraz letra (programak erantzunen akatsak zehatz mehatz adieraten ditu).
+Klik hemen eginez  Hutsuneak betetzeko ariketa-eredu bat agertuko da!EP("clic.exe CLIC:\\act\\demo\\txa01.txa", 0)
+{bml mboff.bmp}HELP_TXCOMPL	Testua osatu
+{bml mboff.bmp}HELP_TXIDLLETRA	Letrak identifikatu
+{bml mboff.bmp}HELP_TXIDPARAULA	Hitzak identifikatu
+{bml mboff.bmp}HELP_TXORDPARAULA	Hitzak ordenatu
+{bml mboff.bmp}HELP_TXORDPARAGRAF	Parrafoak ordenatu
+
+Ariketak botoi {bmc AJUDA1.BMP} hau badu laguntza leihoa hautatu daiteke. Zenbait kasutan hasieran testu bat azaldu daiteke non orientabide edo pistak agertzen diren ariketa burutzen lagunduko duena.
+
+
+
+#$K
+{bmr mapa.bmp}MAPA_ACTIV_TIPUS>wmapa {bmc txtact1.bmp} Testu ariketa
+Ikusi...MORE_HELP_TXA
+
+
+Klik-ekin sei testu ariketa mota ezberdin egin daitezke
+
+{bml mboff.bmp}HELP_TXFORAT	Hutsuneak bete
+{bml mbon.bmp}HELP_TXA	Testua osatu
+Era honetako ariketetan kurtsorea eraman dezakezue testuaren edozein zatira falta zaiona idazteko
+Ariketaren ebaluaketa egingo da testu leihoan beheko aldean agertzen den botoian klik eginda: programak falta diren elementuak eta ongi ez dauden erantzunak ikustaraziko ditu.
+Klik hemen eginez Testua osatu!EP("clic.exe CLIC:\\act\\demo\\txa13.txa", 0)ariketa-eredu bat agertuko da.
+{bml mboff.bmp}HELP_TXIDLLETRA	Letrak identifikatu
+{bml mboff.bmp}HELP_TXIDPARAULA	Hitzak identifikatu
+{bml mboff.bmp}HELP_TXORDPARAULA	Hitzak ordenatu
+{bml mboff.bmp}HELP_TXORDPARAGRAF	Parrafoak ordenatu
+
+Ariketak botoi {bmc AJUDA1.BMP} hau badu laguntza leihoa hautatu daiteke. Zenbait kasutan hasieran testu bat azaldu daiteke non orientabide edo pistak agertzen diren ariketa burutzen lagunduko duena.
+
+
+
+#$K
+{bmr mapa.bmp}MAPA_ACTIV_TIPUS>wmapa {bmc txtact1.bmp} Testu ariketa
+Ikusi...MORE_HELP_TXA
+
+
+Klik-ekin sei testu ariketa mota ezberdin egin daitezke
+
+{bml mboff.bmp}HELP_TXFORAT	Hutsuneak bete
+{bml mboff.bmp}HELP_TXCOMPL	Testua osatu
+{bml mbon.bmp}HELP_TXA	Letrak identifikatu
+Ariketa honetan xagua erabili behar da eskatutako zatia letraz letra hautatzeko. Hautatutako letran beste klik egitean hautaketa deusezten da.
+Ariketaren ebaluaketa egingo da testu leihoan beheko aldean agertzen den botoia sakatzean. Progaramak falta diren letrak eta ongi ez dauden erantzunak ikustaraziko ditu.
+Klik hemen eginez Letrak identifikatzeko!EP("clic.exe CLIC:\\act\\demo\\txa09.txa", 0) ariketa-eredu bat agertuko da
+{bml mboff.bmp}HELP_TXIDPARAULA	Hitzak identifikatu
+{bml mboff.bmp}HELP_TXORDPARAULA	Hitzak ordenatu
+{bml mboff.bmp}HELP_TXORDPARAGRAF	Parrafoak ordenatu
+
+Ariketak botoi {bmc AJUDA1.BMP} hau badu laguntza leihoa hautatu daiteke. Zenbait kasutan hasieran testu bat azaldu daiteke non orientabide edo pistak agertzen diren ariketa burutzen lagunduko duena.
+
+
+
+#$K
+{bmr mapa.bmp}MAPA_ACTIV_TIPUS>wmapa {bmc txtact1.bmp} Testu ariketa
+Ikusi...MORE_HELP_TXA
+
+
+Klik-ekin sei testu ariketa mota ezberdin egin daitezke
+
+{bml mboff.bmp}HELP_TXFORAT	Hutsuneak bete
+{bml mboff.bmp}HELP_TXCOMPL	Testua osatu
+{bml mboff.bmp}HELP_TXIDLLETRA	Letrak identifikatu
+{bml mbon.bmp}HELP_TXA	Hitzak identifikatu
+Ariketa honetan xagua erabili behar da azalpeneko hitzak klik baten bidez seinalatzeko. Markatutako hitzari klik eginez desmarkatuko da.
+Ariketaren ebaluaketa egingo da testu leihoan beheko aldean agertzen den botoia sakatzean: programak falta diren hitzak  eta ongi ez dauden erantzunak ikustaraziko ditu. 
+Klik hemen eginez Hitzak identifikatzeko!EP("clic.exe CLIC:\\act\\demo\\txa10.txa", 0) ariketa-eredu bat agertuko da
+{bml mboff.bmp}HELP_TXORDPARAULA	Hitzak ordenatu
+{bml mboff.bmp}HELP_TXORDPARAGRAF	Parrafoak ordenatu
+
+Ariketak botoi {bmc AJUDA1.BMP} hau badu laguntza leihoa hautatu daiteke. Zenbait kasutan hasieran testu bat azaldu daiteke non orientabide edo pistak agertzen diren ariketa burutzen lagunduko duena.
+
+
+
+#$K
+{bmr mapa.bmp}MAPA_ACTIV_TIPUS>wmapa {bmc txtact1.bmp} Testu ariketa
+Ikusi...MORE_HELP_TXA
+
+
+Klik-ekin sei testu ariketa mota ezberdin egin daitezke
+
+{bml mboff.bmp}HELP_TXFORAT	Hutsuneak bete
+{bml mboff.bmp}HELP_TXCOMPL	Testua osatu
+{bml mboff.bmp}HELP_TXIDLLETRA	Letrak identifikatu
+{bml mboff.bmp}HELP_TXIDPARAULA	Hitzak identifikatu
+{bml mbon.bmp}HELP_TXA	Hitzak ordenatu
+Ariketa hau xagua edo [Retur] teklaz eta desplazamenduko gezien bidez egin daiteke. Beti bi elementuen posizioa trukatuz testuko hitzak ordenatu behar dira.
+Hitzak gehienetan parrafo berdineko hitzekin nahastuta daude; baina ariketa zailagoak planteia daitezke, hau da, parrafo desberdinetako hitzen nahasketa.
+Ariketaren ebaluaketa egingo da testu leihoan beheko aldean agertzen den botoia sakatzean: programak falta diren hitzak  eta ongi ez dauden erantzunak ikustaraziko ditu. 
+Klik hemen eginez Hitzak ordenatzeko!EP("clic.exe CLIC:\\act\\demo\\txa12.txa", 0)ariketa-eredu bat agertuko da 
+{bml mboff.bmp}HELP_TXORDPARAGRAF	Parrafoak ordenatu
+
+Ariketak botoi {bmc AJUDA1.BMP} hau badu laguntza leihoa hautatu daiteke. Zenbait kasutan hasieran testu bat azaldu daiteke non orientabide edo pistak agertzen diren ariketa burutzen lagunduko duena.
+
+
+#$K
+{bmr mapa.bmp}MAPA_ACTIV_TIPUS>wmapa {bmc txtact1.bmp} Testu ariketa
+Ikusi...MORE_HELP_TXA
+
+
+Clic permite realizar seis tipos distintos de actividades de texto:
+
+{bml mboff.bmp}HELP_TXFORAT	Hutsuneak bete
+{bml mboff.bmp}HELP_TXCOMPL	Testua osatu
+{bml mboff.bmp}HELP_TXIDLLETRA	Letrak identifikatu
+{bml mboff.bmp}HELP_TXIDPARAULA	Hitzak identifikatu
+{bml mboff.bmp}HELP_TXORDPARAULA	Hitzak ordenatu
+{bml mbon.bmp}HELP_TXA	Parrafoak ordenatu
+Esta actividad puede realizarse con el ratón o mediante las teclas [Retorno] y flechas de desplazamiento. Se trata de poner en orden los párrafos que se han mezclado en un texto, siempre conmutando la posición de dos elementos.
+Ariketaren ebaluaketa egingo da testu leihoan beheko aldean agertzen den botoia sakatzean: programak ongi kokatutako parrafoak  eta ongi kokatuta ez daudenak ikustaraziko ditu. 
+Klik hemen eginez Parrafoak ordenatzeko!EP("clic.exe CLIC:\\act\\demo\\txa11.txa", 0)ariketa-eredu bat agertuko da 
+
+Ariketak botoi {bmc AJUDA1.BMP} hau badu laguntza leihoa hautatu daiteke. Zenbait kasutan hasieran testu bat azaldu daiteke non orientabide edo pistak agertzen diren ariketa burutzen lagunduko duena.
+
+
+#$K+
+{bmr mapa.bmp}MAPA_ACTIV>wmapa {bmc inici1.bmp}   Nola errepikatu ariketa bera behin eta berriro?
+Ikusi...MORE_HELP_INIT
+
+
+Ohial berdeak egiten ari den Ariketa berriz ere hasteko balio du. Gelaskak berriro nahasiko dira eta denbora, saiakerak eta zuzenean kontagailuak hutsean jarriko dira berriro.
+
+
+#$K+
+{bmr mapa.bmp}MAPA_ACTIV>wmapa {bmc enrere1.bmp} {bmc avant1.bmp}   Nola pasatu beste ariketa batetara?
+Ikusi...MORE_HELP_PASS
+
+
+Ariketa pakete batTOPIC_PAQUET erabiltzean aurreko ariketara edo hurrengo ariketara pasa zaitezkete botoi hauetan klik eginez.
+
+{bmc enrere1.bmp}  Aurreko ariketara pasatzeko.
+
+{bmc avant1.bmp}  Hurrengo ariketara pasatzeko.
+
+#$K+
+{bmr mapa.bmp}MAPA_ACTIV>wmapa {bmc AJUDA1.BMP}   Ariketa ebazteko laguntza nola eskatu?
+Ikusi...MORE_HELP_AJUDA
+
+
+Botoi honetan klikTOPIC_CLIC eginez, egiten ari zaren ariketaren laguntza lortzen duzu. Larrialdietan bakarrik erabili!
+
+Ariketa mota bakoitzean ematen den laguntza honako hau da:
+
+{bml puzzle1.bmp}BuruhausgarriaTOPIC_PUZZLE Berregiteko dugun testu edo irudi osoa erakusten da. modalitate bikoitzeanTOPIC_DOBLE klikTOPIC_CLIC egin daiteke laguntzan zati bakoitzari dagokion lekua eskuineko leihoan ikusteko. MemoriaTOPIC_MEMORY.modalitaterako ez dago laguntzarik.
+
+{bml associa1.bmp}Elkarketa:TOPIC_ASSOCIA Laguntzak iturburuko leihoko edukina, ordenatuta erakusten du. Laguntzan klikTOPIC_CLIC eginez gero elementu bakoitzari irudi-leihoan dagokion tokia ikus daiteke. Ez dago laguntzarik miaketa, informazio-pantaila eta identifikazio modalitateetarako.
+
+{bml sopa1.bmp}Letra zopa:TOPIC_SOPA Laguntza eskatuz gero leihoan ezkutuan dauden hitzen zerrenda agertuko da. Ariketak bi leiho izanez gero zerrendan klikTOPIC_CLIC egin daiteke dagokion tokia ikusteko.
+
+{bml txtact1.bmp}Testu ariketa:TOPIC_TXA Laguntza eskatuz gero ariketa ongi burutzean azaldu behar den testua agertuko da.
+
+{bml creuats1.bmp}Gurutzegramak:TOPIC_CREUATS Gurutzegrametarako ez dago laguntzarik
+
+Laguntza botoia ariketan aktiba ala desaktiba daiteke ariketako aukerenHELP_CONFIelkarrizketan.
+
+
+#$+K
+{bmr mapa.bmp}MAPA_ACTIV>wmapa {bmc porta1.bmp}   Programatik nola atera?
+Ikusi...MORE_HELP_EXIT
+
+
+KlikTOPIC_CLIC eginez programatik irteteko da. Ariketa edo pakete berriak sortu badira edo ariketaren bat aldatu bada, KLIK-ek irten baino lehen gordetu nahi duzun galdetuko du.
+
+
+
+
+
+
+
+
+
+#$K+
+{bmr mapa.bmp}MAPA_CONFIG>wmapa {bmc clic.bmp} Programaren beste funtzioak
+Ikusi...MORE_HELP_CONFIGURE
+
+
+Laguntza atal hauetan honako gai hauen inguruko informazioa aurki dezakezue:
+
+Aukera orokorrakHELP_CONFI
+KLIK.INI fitxategiaHELP_CLICINI
+Fitxategien antolaketaHELP_ORGARX
+Ariketaren txostenaHELP_REPORT
+Txostenen datu baseaHELP_CLICDB
+Erabiltzailearen izenaHELP_PROMPTNAME
+Erakusle automatikoaHELP_AUTOCUR
+Ariketaren aukerakHELP_ACTOPT
+Ariketa sortzapen automatikoaHELP_AUTOGEN
+Ariketa sortzapen automatikoa sistemaren zehaztapenakHELP_TECHAUTO
+Klik parametroekin deituHELP_PARAM
+InprimatuHELP_PRINT
+Klik parametroekin deituHELP_PARAM
+InprimatuHELP_PRINT
+Klik parametroekin deituHELP_PARAM
+InprimatuHELP_PRINT
+
+
+#$K+
+{bmr mapa.bmp}MAPA_CONFIG>wmapa {bmc clic.bmp} Aukera orokorrak
+Ikusi...MORE_HELP_CONFI
+
+
+Aukera orokorrak menuaren elementuak honako hauek dira.
+
+{bml mboff.bmp}H_CONFI_BARR	Nahastu
+{bml mboff.bmp}H_CONFI_CUR	Erakusle automatikoa
+{bml mboff.bmp}H_CONFI_DIR	Lan direktorioa
+{bml mboff.bmp}H_CONFI_UTILS	Baliagarritasunak
+{bml mboff.bmp}H_CONFI_INF	Informeak
+{bml mboff.bmp}H_CONFI_HH	Laguntzaren laguntza
+{bml mboff.bmp}H_CONFI_MENU	Menu barra
+{bml mboff.bmp}H_CONFI_EXIT	Irtera baieztatu
+{bml mboff.bmp}H_CONFI_BLOCS	Blokeak arrastatu
+{bml mboff.bmp}H_CONFI_AVIS	Soinu deiak
+{bml mboff.bmp}H_CONFI_CURSORGRAN	Erakusle handia
+{bml mboff.bmp}H_CONFI_GRUIXFIL	Hari lodiera
+{bml mboff.bmp}H_CONFI_NORMAL	Ohiko balioak
+
+Ariketaren aukerak eta paketeen ezaugarriak beraien fitxategietan gordetzen dira. Aukera orokorrak berriz ordenagailu bakoitzeko funtzionamendu zehatzari eragiten dio eta KLIK.INIHELP_CLICINI fitxategian gordeko dira. Pantaila hau egokitzean programak aldaketak gordeta gelditzea nahi den galdetuko du, hurrengo lan saioetan erabilgarriak izan daitezen. Ezetz erantzuten bada aldaketa horiek saio horretan bakarrik erabilgarriak izango dira.
+
+
+#$K
+{bmr mapa.bmp}MAPA_CONFIG_OPG>wmapa {bmc clic.bmp}   Aukera orokorrak
+Ikusi...MORE_HELP_CONFI
+
+
+Aukera orokorrak menuaren elementuak honako hauek dira.
+
+{bml mbon.bmp}HELP_CONFI	Nahastu
+Atal honetan alda daiteke leihoen edukinaren nahastuko diren zenbaki kopurua. Zenbaki kopurua, hutsuneTOPIC_FORAT modalitatean, txikitzea interesgarri gerta dakizueke buruhausgarrieTOPIC_PUZZLE ebatziak errazteko. Berehala nahastu aukera aktibatzen gelaxkak berehala nahastuko dira, eta pantallan nahasketa dinamiko efektua kenduko da. Solik ordenagailu motela erabiltzen bada  aukera hau aktibatzea gomendatzen da.
+
+{bml mboff.bmp}H_CONFI_CUR	Erakusle automatikoa
+{bml mboff.bmp}H_CONFI_DIR	Lan direktorioa
+{bml mboff.bmp}H_CONFI_UTILS	Baliagarritasunak
+{bml mboff.bmp}H_CONFI_INF	Informeak
+{bml mboff.bmp}H_CONFI_HH	Laguntzaren laguntza
+{bml mboff.bmp}H_CONFI_MENU	Menu barra
+{bml mboff.bmp}H_CONFI_EXIT	Irtera baieztatu
+{bml mboff.bmp}H_CONFI_BLOCS	Blokeak arrastatu
+{bml mboff.bmp}H_CONFI_AVIS	Soinu deiak
+{bml mboff.bmp}H_CONFI_CURSORGRAN	Erakusle handia
+{bml mboff.bmp}H_CONFI_GRUIXFIL	Hari lodiera
+{bml mboff.bmp}H_CONFI_NORMAL	Ohiko balioak
+
+Ariketaren aukerak eta paketeen ezaugarriak beraien fitxategietan gordetzen dira. Aukera orokorrak berriz ordenagailu bakoitzeko funtzionamendu zehatzari eragiten dio eta KLIK.INIHELP_CLICINI fitxategian gordeko dira. Pantaila hau egokitzean programak aldaketak gordeta gelditzea nahi den galdetuko du, hurrengo lan saioetan erabilgarriak izan daitezen. Ezetz erantzuten bada aldaketa horiek saio horretan bakarrik erabilgarriak izango dira.
+
+
+#$K
+{bmr mapa.bmp}MAPA_CONFIG_OPG>wmapa {bmc clic.bmp}   Aukera orokorrak
+Ikusi...MORE_HELP_CONFI
+
+
+Aukera orokorrak menuaren elementuak honako hauek dira.
+
+{bml mboff.bmp}H_CONFI_BARR	Nahasi
+{bml mbon.bmp}HELP_CONFI	Erakusle automatikoa
+Arlo honetan cursor automáticoHELP_AUTOCUR aukera atibatua izan behar den ala ez adierazten da, eta zer atzerapen (segunndutan adierazita) erakuslearen salto banen artean mantendu behar den.
+
+{bml mboff.bmp}H_CONFI_DIR	Lan direktorioa
+{bml mboff.bmp}H_CONFI_DIR	Lan direktorioa
+{bml mboff.bmp}H_CONFI_UTILS	Baliagarritasunak
+{bml mboff.bmp}H_CONFI_INF	Informeak
+{bml mboff.bmp}H_CONFI_HH	Laguntzaren laguntza
+{bml mboff.bmp}H_CONFI_MENU	Menu barra
+{bml mboff.bmp}H_CONFI_EXIT	Irtera baieztatu
+{bml mboff.bmp}H_CONFI_BLOCS	Blokeak arrastatu
+{bml mboff.bmp}H_CONFI_AVIS	Soinu deiak
+{bml mboff.bmp}H_CONFI_CURSORGRAN	Erakusle handia
+{bml mboff.bmp}H_CONFI_GRUIXFIL	Hari lodiera
+{bml mboff.bmp}H_CONFI_NORMAL	Ohiko balioak
+
+Ariketaren aukerak eta paketeen ezaugarriak beraien fitxategietan gordetzen dira. Aukera orokorrak berriz ordenagailu bakoitzeko funtzionamendu zehatzari eragiten dio eta KLIK.INIHELP_CLICINI fitxategian gordeko dira. Pantaila hau egokitzean programak aldaketak gordeta gelditzea nahi den galdetuko du, hurrengo lan saioetan erabilgarriak izan daitezen. Ezetz erantzuten bada aldaketa horiek saio horretan bakarrik erabilgarriak izango dira.
+
+
+#$K
+{bmr mapa.bmp}MAPA_CONFIG_OPG>wmapa {bmc clic.bmp}   Aukera orokorrak
+Ikusi...MORE_HELP_CONFI
+
+
+Aukera orokorrak menuaren elementuak honako hauek dira.
+
+{bml mboff.bmp}H_CONFI_BARR	Nahasi
+{bml mboff.bmp}H_CONFI_CUR	Erakusle automatikoa
+{bml mbon.bmp}HELP_CONFI	Lan direktorioa
+Arlo honek unitatea eta lan direktoria aldatzea uzten du, pakete eta ariketa berriak sortzeko erabiltzen dena.
+
+{bml mboff.bmp}H_CONFI_UTILS	Baliagarritasunak
+{bml mboff.bmp}H_CONFI_INF	Informeak
+{bml mboff.bmp}H_CONFI_HH	Laguntzaren laguntza
+{bml mboff.bmp}H_CONFI_MENU	Menu barra
+{bml mboff.bmp}H_CONFI_EXIT	Irtera baieztatu
+{bml mboff.bmp}H_CONFI_BLOCS	Blokeak arrastatu
+{bml mboff.bmp}H_CONFI_AVIS	Soinu deiak
+{bml mboff.bmp}H_CONFI_CURSORGRAN	Erakusle handia
+{bml mboff.bmp}H_CONFI_GRUIXFIL	Hari lodiera
+{bml mboff.bmp}H_CONFI_NORMAL	Ohiko balioak
+
+Ariketaren aukerak eta paketeen ezaugarriak beraien fitxategietan gordetzen dira. Aukera orokorrak berriz ordenagailu bakoitzeko funtzionamendu zehatzari eragiten dio eta KLIK.INIHELP_CLICINI fitxategian gordeko dira. Pantaila hau egokitzean programak aldaketak gordeta gelditzea nahi den galdetuko du, hurrengo lan saioetan erabilgarriak izan daitezen. Ezetz erantzuten bada aldaketa horiek saio horretan bakarrik erabilgarriak izango dira.
+
+
+#$K
+{bmr mapa.bmp}MAPA_CONFIG_OPG>wmapa {bmc clic.bmp}   Aukera orokorrak
+Ikusi...MORE_HELP_CONFI
+
+
+Aukera orokorrak menuaren elementuak honako hauek dira.
+
+{bml mboff.bmp}H_CONFI_BARR	Nahastu
+{bml mboff.bmp}H_CONFI_CUR	Erakusle automatikoa
+{bml mboff.bmp}H_CONFI_DIR	Lan direktorioa
+{bml mboff.bmp}H_CONFI_UTILS	Baliogarritasunak
+Hemen zehaztu dezakezue zein izango den testu editorea eta grafiko editorea. Horiek  ariketen edizio dialogoan  EDUKIN editatu botoia sakatzean aktibatu dira. Berezko aukerak Windows-eko Block de notas delakoari (notepad.exe) eta Paintbrush grafiko editoreari (pbrush.exe) dagozkie. GIF motako grafiko trinkotuz lan egiten duzue irekitzea gai den beste editore bat aukeratu behar duzue, hala nola Paint Shop Pro, formato horretan Paintbrush lan egiten gai ez baita.
+
+{bml mboff.bmp}H_CONFI_INF	Informeak
+{bml mboff.bmp}H_CONFI_HH	Laguntzaren laguntza
+{bml mboff.bmp}H_CONFI_MENU	Menu barra
+{bml mboff.bmp}H_CONFI_EXIT	Irtera baieztatu
+{bml mboff.bmp}H_CONFI_BLOCS	Blokeak arrastatu
+{bml mboff.bmp}H_CONFI_AVIS	Soinu deiak
+{bml mboff.bmp}H_CONFI_CURSORGRAN	Erakusle handia
+{bml mboff.bmp}H_CONFI_GRUIXFIL	Hari lodiera
+{bml mboff.bmp}H_CONFI_NORMAL	Ohiko balioak
+
+Ariketaren aukerak eta paketeen ezaugarriak beraien fitxategietan gordetzen dira. Aukera orokorrak berriz ordenagailu bakoitzeko funtzionamendu zehatzari eragiten dio eta KLIK.INIHELP_CLICINI fitxategian gordeko dira. Pantaila hau egokitzean programak aldaketak gordeta gelditzea nahi den galdetuko du, hurrengo lan saioetan erabilgarriak izan daitezen. Ezetz erantzuten bada aldaketa horiek saio horretan bakarrik erabilgarriak izango dira.
+
+#$K
+{bmr mapa.bmp}MAPA_CONFIG_OPG>wmapa {bmc clic.bmp}   Aukera orokorrak
+Ikusi...MORE_HELP_CONFI
+
+
+Aukera orokorrak menuaren elementuak honako hauek dira.
+
+{bml mboff.bmp}H_CONFI_BARR	Nahastu
+{bml mboff.bmp}H_CONFI_CUR	Erakusle automatikoa
+{bml mboff.bmp}H_CONFI_DIR	Lan direktorioa
+{bml mboff.bmp}H_CONFI_UTILS	Baliagarritasunak
+{bml mbon.bmp}HELP_CONFI	Informeak
+Esparru honetan ariketa txostenenHELP_REPORT datu basean erabiltzailearen ariketa erregistratu behar den, programari adierazi behar zaio; baita datu txostenen izena eta kokagunea ere. Sarean dauden ordenagailuetan datu basea zerbitzailearen karpeta batetan egon dadila aholkatzen da.
+Datu basea begiratu eta mantenimendurako (erabiltzaile berriak, aldaketak, utzitakoak) KlikDB programa erabiltzea aholkatzen da. Saio bakoitzaren hasieran erabiltzailea identifikatzerakoan, ikasleei talde etaa erabiltzaile berriak osatzeko aukera ematen die. Baita ere Oraingo erabiltzaileen txostenak erabiliz, ikasleek beraien txostenak iku dezaketen kontrolatu daiteke.
+{bml mboff.bmp}H_CONFI_HH	Laguntzaren laguntza
+{bml mboff.bmp}H_CONFI_MENU	Menu barra
+{bml mboff.bmp}H_CONFI_EXIT	Irtera baieztatu
+{bml mboff.bmp}H_CONFI_BLOCS	Blokeak arrastatu
+{bml mboff.bmp}H_CONFI_AVIS	Soinu deiak
+{bml mboff.bmp}H_CONFI_CURSORGRAN	Erakusle handia
+{bml mboff.bmp}H_CONFI_GRUIXFIL	Hari lodiera
+{bml mboff.bmp}H_CONFI_NORMAL	Ohiko balioak
+
+Ariketaren aukerak eta paketeen ezaugarriak beraien fitxategietan gordetzen dira. Aukera orokorrak berriz ordenagailu bakoitzeko funtzionamendu zehatzari eragiten dio eta KLIK.INIHELP_CLICINI fitxategian gordeko dira. Pantaila hau egokitzean programak aldaketak gordeta gelditzea nahi den galdetuko du, hurrengo lan saioetan erabilgarriak izan daitezen. Ezetz erantzuten bada aldaketa horiek saio horretan bakarrik erabilgarriak izango dira.
+
+
+#$K
+{bmr mapa.bmp}MAPA_CONFIG_OPG>wmapa {bmc clic.bmp}   Aukera orokorrak
+Ikusi...MORE_HELP_CONFI
+
+
+Aukera orokorrak menuaren elementuak honako hauek dira.
+
+{bml mboff.bmp}H_CONFI_BARR	Nahastu
+{bml mboff.bmp}H_CONFI_CUR	Erakusle automatikoa
+{bml mboff.bmp}H_CONFI_DIR	Lan direktorioa
+{bml mboff.bmp}H_CONFI_UTILS	Baliagarritasunak
+{bml mboff.bmp}H_CONFI_INF	Informeak
+{bml mbon.bmp}HELP_CONFI	Laguntzaren laguntza
+Laguntza leihoetan galdera ikurra agertzen da, honek Klik-en laguntza nagusia irekiko du. Ikasleek ez irekitzeko nahi gabe baliogabetu daiteke. Hau eginez gero atearen botoia bakarrik azlduko da eta honek ixteko balio du.
+{bml mboff.bmp}H_CONFI_MENU	Menu barra
+{bml mboff.bmp}H_CONFI_EXIT	Irtera baieztatu
+{bml mboff.bmp}H_CONFI_BLOCS	Blokeak arrastatu
+{bml mboff.bmp}H_CONFI_AVIS	Soinu deiak
+{bml mboff.bmp}H_CONFI_CURSORGRAN	Erakusle handia
+{bml mboff.bmp}H_CONFI_GRUIXFIL	Hari lodiera
+{bml mboff.bmp}H_CONFI_NORMAL	Ohiko balioak
+
+Ariketaren aukerak eta paketeen ezaugarriak beraien fitxategietan gordetzen dira. Aukera orokorrak berriz ordenagailu bakoitzeko funtzionamendu zehatzari eragiten dio eta KLIK.INIHELP_CLICINI fitxategian gordeko dira. Pantaila hau egokitzean programak aldaketak gordeta gelditzea nahi den galdetuko du, hurrengo lan saioetan erabilgarriak izan daitezen. Ezetz erantzuten bada aldaketa horiek saio horretan bakarrik erabilgarriak izango dira.
+
+
+#$K
+{bmr mapa.bmp}MAPA_CONFIG_OPG>wmapa {bmc clic.bmp}   Aukera orokorrak
+Ikusi...MORE_HELP_CONFI
+
+
+Aukera orokorrak menuaren elementuak honako hauek dira.
+
+{bml mboff.bmp}H_CONFI_BARR	Nahastu
+{bml mboff.bmp}H_CONFI_CUR	Erakusle automatikoa
+{bml mboff.bmp}H_CONFI_DIR	Lan direktorioa
+{bml mboff.bmp}H_CONFI_UTILS	Baliagarritasunak
+{bml mboff.bmp}H_CONFI_INF	Informeak
+{bml mboff.bmp}H_CONFI_HH	Laguntzaren laguntza
+{bml mbon.bmp}HELP_CONFI	Menu barra
+Gelaska hau baliogabetzean Klik-eko hurrengo saioan menu barra hautatu gabe geratuko da. Menu barra berriz ikus ahal izateko Windows-eko Klik 3.0 ikonoa erabiliz programa hautatu behar da.
+Aukera honen aldaketak ez du menu barraren berehalako desgerpena suposatzen: honen eragina hurrengo saioan antzemango da, Klik ariketa paketeren baten ikonoa hautatzean.
+Menu barraren agerpena ere Klik parametroekin irekitzeanHELP_PARAM kontrolatu daiteke.
+{bml mboff.bmp}H_CONFI_EXIT	Irtera baieztatu
+{bml mboff.bmp}H_CONFI_BLOCS	Blokeak arrastatu
+{bml mboff.bmp}H_CONFI_AVIS	Soinu deiak
+{bml mboff.bmp}H_CONFI_CURSORGRAN	Erakusle handia
+{bml mboff.bmp}H_CONFI_GRUIXFIL	Hari lodiera
+{bml mboff.bmp}H_CONFI_NORMAL	Ohiko balioak
+
+Ariketaren aukerak eta paketeen ezaugarriak beraien fitxategietan gordetzen dira. Aukera orokorrak berriz ordenagailu bakoitzeko funtzionamendu zehatzari eragiten dio eta KLIK.INIHELP_CLICINI fitxategian gordeko dira. Pantaila hau egokitzean programak aldaketak gordeta gelditzea nahi den galdetuko du, hurrengo lan saioetan erabilgarriak izan daitezen. Ezetz erantzuten bada aldaketa horiek saio horretan bakarrik erabilgarriak izango dira.
+
+
+#$K
+{bmr mapa.bmp}MAPA_CONFIG_OPG>wmapa {bmc clic.bmp}   Aukera orokorrak
+Ikusi...MORE_HELP_CONFI
+
+
+Aukera orokorrak menuaren elementuak honako hauek dira.
+
+{bml mboff.bmp}H_CONFI_BARR	Nahastu
+{bml mboff.bmp}H_CONFI_CUR	Erakusle automatikoa
+{bml mboff.bmp}H_CONFI_DIR	Lan direktorioa
+{bml mboff.bmp}H_CONFI_UTILS	Baliagarritasunak
+{bml mboff.bmp}H_CONFI_INF	Informeak
+{bml mboff.bmp}H_CONFI_HH	Laguntzaren laguntza
+{bml mboff.bmp}H_CONFI_MENU	Menu barra
+{bml mbon.bmp}HELP_CONFI	Irtera baieztatu
+Gelaska honek Klik ixtean "Programatik irten nahi duzu?" mezua kontrolatzen du. Baliogabetua gelditzen bada atearen HELP_EXIT botoiak galderarik gabe programa itxiko du.
+{exit} agindua dutenHELP_GRAFTX gelaskak beti Klik ixten dute galdetu gabe.
+{bml mboff.bmp}H_CONFI_BLOCS	Blokeak arrastatu
+{bml mboff.bmp}H_CONFI_AVIS	Soinu deiak
+{bml mboff.bmp}H_CONFI_CURSORGRAN	Erakusle handia
+{bml mboff.bmp}H_CONFI_GRUIXFIL	Hari lodiera
+{bml mboff.bmp}H_CONFI_NORMAL	Ohiko balioak
+
+Ariketaren aukerak eta paketeen ezaugarriak beraien fitxategietan gordetzen dira. Aukera orokorrak berriz ordenagailu bakoitzeko funtzionamendu zehatzari eragiten dio eta KLIK.INIHELP_CLICINI fitxategian gordeko dira. Pantaila hau egokitzean programak aldaketak gordeta gelditzea nahi den galdetuko du, hurrengo lan saioetan erabilgarriak izan daitezen. Ezetz erantzuten bada aldaketa horiek saio horretan bakarrik erabilgarriak izango dira.
+
+
+#$K
+{bmr mapa.bmp}MAPA_CONFIG_OPG>wmapa {bmc clic.bmp} Aukera orokorrak
+Ikusi...MORE_HELP_CONFI
+
+
+Aukera orokorrak menuaren elementuak honako hauek dira.
+
+{bml mboff.bmp}H_CONFI_BARR	Nahastu
+{bml mboff.bmp}H_CONFI_CUR	Erakusle automatikoa
+{bml mboff.bmp}H_CONFI_DIR		Lan direktorioa
+{bml mboff.bmp}H_CONFI_UTILS	Baliagarritasunak
+{bml mboff.bmp}H_CONFI_INF	Informeak
+{bml mboff.bmp}H_CONFI_HH	Laguntzaren laguntza
+{bml mboff.bmp}H_CONFI_MENU	Menu barra
+{bml mboff.bmp}H_CONFI_EXIT	Irtera baieztatu
+{bml mboff.bmp}H_CONFI_BLOCS	Blokeak arrastatu
+Aukera hau desaktibatzean, buruhausgarri TOPIC_PUZZLE guztiak harizTOPIC_FIL exekutatzen dira. Aukera hau aktibatuz elkartrukeTOPIC_INTERCANVI eta bikoitzaTOPIC_DOBLE modalitateetan gelaxka bere helburura arrastatzen da.
+
+{bml mboff.bmp}H_CONFI_AVIS	Soinu deiak
+{bml mboff.bmp}H_CONFI_CURSORGRAN	Erakusle handia
+{bml mboff.bmp}H_CONFI_GRUIXFIL	Hari lodiera
+{bml mboff.bmp}H_CONFI_NORMAL	Ohiko baloreak
+
+Ariketaren aukerak eta paketeen ezaugarriak beraien fitxategietan gordetzen dira. Aukera orokorrak berriz ordenagailu bakoitzeko funtzionamendu zehatzari eragiten dio eta KLIK.INIHELP_CLICINI fitxategian gordeko dira. Pantaila hau egokitzean programak aldaketak gordeta gelditzea nahi den galdetuko du, hurrengo lan saioetan erabilgarriak izan daitezen. Ezetz erantzuten bada aldaketa horiek saio horretan bakarrik erabilgarriak izango dira.
+
+
+#$K
+{bmr mapa.bmp}MAPA_CONFIG_OPG>wmapa {bmc clic.bmp} Aukera orokorrak
+Ikusi...MORE_HELP_CONFI
+
+
+Aukera orokorrak menuaren elementuak honako hauek dira.
+
+{bml mboff.bmp}H_CONFI_BARR	Nahastu
+{bml mboff.bmp}H_CONFI_CUR	Erakusle automatikoa
+{bml mboff.bmp}H_CONFI_DIR		Lan direktorioa
+{bml mboff.bmp}H_CONFI_UTILS	Baliagarritasunak
+{bml mboff.bmp}H_CONFI_INF	Informeak
+{bml mboff.bmp}H_CONFI_HH	Laguntzaren laguntza
+{bml mboff.bmp}H_CONFI_MENU	Menu barra
+{bml mboff.bmp}H_CONFI_EXIT	Irtera baieztatu
+{bml mboff.bmp}H_CONFI_BLOCS	Blokeak arrastatu
+{bml mbon.bmp}HELP_CONFI	Soinu deiak
+Aukera honek programak erabiltzen duen abisu soinudunak aktibatzea edo desaktibatzea uzten du.
+
+{bml mboff.bmp}H_CONFI_CURSORGRAN	Erakusle handia
+{bml mboff.bmp}H_CONFI_GRUIXFIL	Hari lodiera
+{bml mboff.bmp}H_CONFI_NORMAL	Ohiko balioak
+
+Ariketaren aukerak eta paketeen ezaugarriak beraien fitxategietan gordetzen dira. Aukera orokorrak berriz ordenagailu bakoitzeko funtzionamendu zehatzari eragiten dio eta KLIK.INIHELP_CLICINI fitxategian gordeko dira. Pantaila hau egokitzean programak aldaketak gordeta gelditzea nahi den galdetuko du, hurrengo lan saioetan erabilgarriak izan daitezen. Ezetz erantzuten bada aldaketa horiek saio horretan bakarrik erabilgarriak izango dira.
+
+
+#$K
+{bmr mapa.bmp}MAPA_CONFIG>wmapa {bmc clic.bmp} Aukera orokorrak
+Ikusi...MORE_HELP_CONFI
+
+
+Aukera orokorrak menuaren elementuak honako hauek dira.
+
+{bml mboff.bmp}H_CONFI_BARR	Nahastu
+{bml mboff.bmp}H_CONFI_CUR	Erakusle automatikoa
+{bml mboff.bmp}H_CONFI_DIR	Lan direktorioa
+{bml mboff.bmp}H_CONFI_UTILS	Baliagarritasunak
+{bml mboff.bmp}H_CONFI_INF	Informeak
+{bml mboff.bmp}H_CONFI_HH	Laguntzaren laguntza
+{bml mboff.bmp}H_CONFI_MENU	Menu barra
+{bml mboff.bmp}H_CONFI_EXIT	Irtera baieztatu
+{bml mboff.bmp}H_CONFI_BLOCS	Blokeak arrastatu
+{bml mboff.bmp}H_CONFI_AVIS	Soinu deiak
+{bml mbon.bmp}HELP_CONFI	Erakusle handia
+Aukera honen bidez xaguaren erakuslea arrunta baino handiagoa den tamaina izan dadila
+
+{bml mboff.bmp}H_CONFI_GRUIXFIL	Hariaren lodiera
+{bml mboff.bmp}H_CONFI_NORMAL	Ohizko baloreak
+
+Ariketaren aukerak eta paketeen ezaugarriak beraien fitxategietan gordetzen dira. Aukera orokorrak berriz ordenagailu bakoitzeko funtzionamendu zehatzari eragiten dio eta KLIK.INIHELP_CLICINI fitxategian gordeko dira. Pantaila hau egokitzean programak aldaketak gordeta gelditzea nahi den galdetuko du, hurrengo lan saioetan erabilgarriak izan daitezen. Ezetz erantzuten bada aldaketa horiek saio horretan bakarrik erabilgarriak izango dira.
+
+
+#$K
+{bmr mapa.bmp}MAPA_CONFIG>wmapa {bmc clic.bmp} Aukera orokorrak
+Ikusi...MORE_HELP_CONFI
+
+
+Aukera orokorrak menuaren elementuak honako hauek dira.
+
+{bml mboff.bmp}H_CONFI_BARR	Nahastu
+{bml mboff.bmp}H_CONFI_CUR	Erakusle automatikoa
+{bml mboff.bmp}H_CONFI_DIR	Lan direktorioa
+{bml mboff.bmp}H_CONFI_UTILS	Baliagarritasunak
+{bml mboff.bmp}H_CONFI_INF	Informeak
+{bml mboff.bmp}H_CONFI_HH	Laguntzaren laguntza
+{bml mboff.bmp}H_CONFI_MENU	Menu barra
+{bml mboff.bmp}H_CONFI_EXIT	Irtera baieztatu
+{bml mboff.bmp}H_CONFI_BLOCS	Blokeak arrastatu
+{bml mboff.bmp}H_CONFI_AVIS	Soinu deiak
+{bml mboff.bmp}H_CONFI_CURSORGRAN	Erakusle handia
+{bml mbon.bmp}HELP_CONFI	Hariaren lodiera
+Hemen, elementu  elkartzeko ariketetan agertzen den hari lodiera doitu dezakezue
+
+{bml mboff.bmp}H_CONFI_NORMAL	Ohiko baloreak
+
+Ariketaren aukerak eta paketeen ezaugarriak beraien fitxategietan gordetzen dira. Aukera orokorrak berriz ordenagailu bakoitzeko funtzionamendu zehatzari eragiten dio eta KLIK.INIHELP_CLICINI fitxategian gordeko dira. Pantaila hau egokitzean programak aldaketak gordeta gelditzea nahi den galdetuko du, hurrengo lan saioetan erabilgarriak izan daitezen. Ezetz erantzuten bada aldaketa horiek saio horretan bakarrik erabilgarriak izango dira.
+
+
+#$K
+{bmr mapa.bmp}MAPA_CONFIG>wmapa {bmc clic.bmp} Aukera orokorrak
+Ikusi...MORE_HELP_CONFI
+
+
+Aukera orokorrak menuaren elementuak honako hauek dira.
+
+{bml mboff.bmp}H_CONFI_BARR	Nahastu
+{bml mboff.bmp}H_CONFI_CUR	Erakusle automatikoa
+{bml mboff.bmp}H_CONFI_DIR	Lan direktorioa
+{bml mboff.bmp}H_CONFI_UTILS	Baliagarritasunak
+{bml mboff.bmp}H_CONFI_INF	Informeak
+{bml mboff.bmp}H_CONFI_HH	Laguntzaren laguntza
+{bml mboff.bmp}H_CONFI_MENU	Menu barra
+{bml mboff.bmp}H_CONFI_EXIT	Irtera baieztatu
+{bml mboff.bmp}H_CONFI_BLOCS	Blokeak arrastatu
+{bml mboff.bmp}H_CONFI_AVIS	Soinu deiak
+{bml mboff.bmp}H_CONFI_CURSORGRAN	Erakusle handia
+{bml mboff.bmp}H_CONFI_GRUIXFIL	Hari lodiera
+{bml mbon.bmp}HELP_CONFI	Ohiko baloreak
+Botoi honek fitxategian KLIK.INIHELP_CLICINI. ohiko bezalakoak jarritako balioak berreskuratzen du
+
+Ariketaren aukerak eta paketeen ezaugarriak beraien fitxategietan gordetzen dira. Aukera orokorrak berriz ordenagailu bakoitzeko funtzionamendu zehatzari eragiten dio eta KLIK.INIHELP_CLICINI fitxategian gordeko dira. Pantaila hau egokitzean programak aldaketak gordeta gelditzea nahi den galdetuko du, hurrengo lan saioetan erabilgarriak izan daitezen. Ezetz erantzuten bada aldaketa horiek saio horretan bakarrik erabilgarriak izango dira.
+
+
+#$K+
+{bmr mapa.bmp}MAPA_CONFIG>wmapa {bmc clic.bmp}   "KLIK.INI" fitxategia
+Ikusi...MORE_HELP_CLICINI
+
+
+KLIK.INI fitxategiak, programa hastean hartzen diren konfiguraziorako parametroen zehaztapena dakar. Windowseko Bloc de notasTOPIC_NOTEPAD delakoaz baliaturik parametro horiek aldatu ahal dituzu.
+
+Beste modu bat parametroak aldatzeko, Aukera orokorrakHELP_CONFI, leihoa hautatu, nahi diren aldaketak egin eta, programak galdetzen duenean, baieztatu hurrengo saioetan erabiltzeko aldaketak gorde ditzala.
+
+Parametro horietako batzuk aldatzeko beste modurik egon badago, Aukerak I Aukera orokorrakHELP_CONFI menuan , "iraunkorra bihurtu" aukeratuz.
+
+KLIK.INI fitxategian doazkizun parametroak honako hauek dira:
+
+
+direktorioa	Aktibitateak, paketeakTOPIC_PAQUET eta hauekin lotuta dauden materialak, (testuakTOPIC_TEXT eta irudiakTOPIC_BITMAP) eskuratzeko bidearen izen osoa. Normalean, zera izaten da:C:\KLIK\AKT. Direktorioa hau ere alda dezakezu, Aukera orokorrakHELP_CONFI. izeneko atalan sartu ezkero..
+
+nahasi	Ariketak nahasten diren kopurua, Aukera orokorrakHELP_CONFI atalan azaltzen den bezala. Normalean 30 aldiz nahasten dira.
+
+azkar	Berehala nahasi aukera aktibatzen ala desaktibatzen du, Aukera orokorrakHELP_CONFI atalan azaldu bezala. Normalean desaktibatua izaten da.
+
+editagarria	Zehazten du ea programak eta ariketak aldatzen, berriak sortzen edota grabatzen ahalbideratzen duen. Aholkatzen zaizu desaktibatzeko, (editagarria=ez adierazita), ez badugu nahi erabiltzaileek prestaturiko paketeakTOPIC_PAQUET eta ariketak aldatzea.
+
+arrastatu	Blokeak arrastatu aukera aktibatzen ala desaktibatzen du, Aukera orokorrakHELP_CONFI atalan azaltzen den modura. Normalean aktibatua izaten den aukera dugu.
+
+soinua	Programak soinurik ekoiztuko duenentz finkatzen du. Normalean, aktibatua. Los avisos sonoros se producen cuando se realizan operaciones erróneas y cuando se acaba una actividad.
+
+
+midi	Ariketei loturiko musika fitxategiakTOPIC_MIDI exekutatzearren programa Windowsen MIDI mapeadorea erabiltzen saiatuko den ala ez finkatzen du. Multimedia egokirik ez baduzu aktibatuta izateko aholkua luzatzen dizugu.
+
+wave	Ariketei loturiko soinu fitxategiak TOPIC_WAV exekutatzearren programa Windowsen soinu dijitalerako baliabideak erabiltzen saiatuko den ala ez finkazten du. Multimedia egokirik ez baduzu aktibatuta izateko aholkua luzatzen dizugu.
+
+mci	Programa ariketei loturiko  baliabide multimediakTOPIC_MCI erabiltzen saiatuko den ala ez finkatzen du.
+
+maximizatu	Aukera hau aktibatu ezkero KLIK automatikoki maximizatuta agertuko da programan sartzean. Normalean aktibatuta.
+
+editext	Testu fitxategiak TOPIC_TEXT editatzeko erabiltzen den programa zehazten du. Normalean, NOTEPAD.EXETOPIC_NOTEPAD. izaten da.
+
+edigraf	BMP grafikoak TOPIC_BITMAP editatzeko erabiltzen den programa zehazten du. Normalean, PBRUSH.EXE TOPIC_PAINTBRUSH izaten da, bainan GIF formato irudiekin lan egin nahi baduzue, Paint Shop Pro erabiltzea gomendantzen dizuegu.
+
+txostena	Ariketa txostenakHELP_REPORT datu basean erregistratu behar duen adierazten du. Gehienetan hautatu gabe egoten da.
+
+reportBase	Eremu honetan ariketa txostenakHELP_REPORTgordetzen diren datu basearen izena eta ibilbideav azaltzen da. Adierazpen hau, bakarrik agertuko da aurreko atala hautatuta dagoenean.
+
+autoerakuslea	automatikoa programa abiatzean erakuslea HELP_AUTOCUR. aukera aktibatuko den zehazten du.
+
+atzeraerakuslea	erakusle-moteltzailea. Aurreko aukera aktibatuta badago, atal honek zera zehazten du: erakusle automatikoaren HELP_AUTOCUR jauzien artean atzeratze segundu kopurua.
+
+harilodiera	elementuak erlazionatzen diren ariketetan agertzen den hari lodiera nolako izan behar den adierazten du
+
+erakuslehandia	Hemen ager daitezke "bai" ala "ez" testuak. Xaguaren  erakusle handia erabiltzen denentz adierazten du
+
+helpOnHelp	Indica si se debe mostrar o no el botón de ayuda de la ayudaH_CONFI_HH.
+
+menu	Determina si hay que mostrar la barra de menúsH_CONFI_MENU.
+
+exitDirect	Controla si Clic debe cerrarse directamente sin mostrar el mensaje de confirmación de salidaH_CONFI_EXIT.
+
+printerBug	Se han detectado que algunos "drivers" de impresora tienen un error que hace que en determinadas condiciones se muestren algunas imágenes giradas del revés. Si al imprimir con Clic se observa que aparecen imágenes al revés hay que cambiar este parámetro para que diga si en vez de no (que es el valor por defecto).
+
+testSystem	Este parámetro indica si hay que comprobar que el monitor esté correctamente en aquellos paquetes de actividadesHELP_EDITPAC diseñados para 800x600 y/o 256 colores.
+
+Algunos de estos parámetros pueden modificarse también mediante la llamada a Clic con parámetrosHELP_PARAM.
+
+
+#$K+
+{bmr mapa.bmp}MAPA_CONFIG>wmapa {bmc clic.bmp}   Fitxategien anatolaketa
+Ikusi...MORE_HELP_ORGARX
+
+
+Ekintza edo ekintza multzo bati dagozkion fitxategi guztiak, unitate edo direktorio berberan egon behar dira. Lan direktorioa, hau da, ekintza edo ekintza multzo berriak egiterakoan erabiltzen dena, aukera orokorrenHELP_CONFI. elkarrizketan alda daiteke.
+
+Ekintza edo ekintza multzo berriak sor daitezke eta direktorio desberdinetan gorde, baina, komeni da, honetarako erabiliko diren material guztiak (testoakTOPIC_TEXT eta irudiakTOPIC_BITMAP), iharduereak gorde ditugun direktorio berdinean gordetzea.
+
+
+IrudiTOPIC_BITMAP, soinuTOPIC_WAV eta musika fitxategiakTOPIC_MIDI eta beste multimedia baliabide batzukTOPIC_MCI, unitate eta direktorio ezberdinetan egon daitezke. Horrelakoetan, beraien kokapenerako ailegabide osoa zehaztu beharko dugu, modu honetan, programak erabili ahal izango ditu. Sisteman instalatutako lehenengo CD-ROM unitatea seinalatzeko CDR: adierazpena erabil dezakegu. CLIC adierazpena erabil dezakegu ere programa aurkitzen den unitatea eta direktorioa adierazteko, kontuan hartu gabe iharduaren kokapena. Adibidez, testu fitxategi batean idazten bada:
+
+	{leon.bmp}
+	{c:\sonidos\groar.wav}
+	{cdr:\video\zoo.avi}
+	{clic:act\demo\leon.puz}
+
+Programak, ekintzaren direktorio berberean egon beharko den LEON.BMP irudia, C: unitateko SONIDOS direktorioan dagoen GROAR.WAV fitxategia eta sisteman instalatutako lehenengo CD-ROM unitateko VIDEO direktorioan egon beharko den ZOO.AVI irudia erabiliko ditu. Hirugarren urratsan, Klik-en adibideen direktorioan aurkitzen den LEON.BMP ekintza aipatzen da. 
+
+Ailegabide desberdinen zehaztapenak multimedia baliabideetarako arazoak sor ditzake, sortutako ekintzak, diska unitateen konfigurazio ezberdina duen ordenagailu batera eramaten badira. Hau dela eta, cdr: aldatzailea arabiltzea komeni da CD-ROM unitate bat adierazi nahi dugunean. Aldi berean, erabil daitezke ere ekintza fitxategiaren kokapenari dagozkion direktorioak; adibidez, ..\..\sonidos\groar.wav, edo, agian hobeto \sonidos\groar.wav, adierazpenak, arestian aipatutako fitxategia adierazteko.
+
+Pakete bat automatikoki hautatzeko Klik parametroekinHELP_PARAM deialdia egingo duen ikonobat sortzea aholkatzen da.
+
+
+#$K+
+{bmr mapa.bmp}MAPA_CONFIG>wmapa {bmc clic.bmp}  Erabiltzailearen izena
+Ikusi...MORE_HELP_PROMPTNAME
+
+
+Leihoa hau bakarrik agertzen da Aukera orokorretan HELP_CONFI Txosten eremua hautatu izan bada.
+
+Programak identifikatzea eskatzen du, txostenen datu baseanHELP_CLICDB erregistratzeko egindako ariketen emaitzak. Ezkerreko zerrendan zure taldea hautatu behar duzu eta eskuinekoan zure izena.
+
+Programa hau erabiltzen duzun lehen aldia bada eta zure izena agertzen ez bada Erabiltzaile berria botoia erabiliz ager zaitezke (Klik-en aukera orokorragatik HELP_CONFI zure izena hautatu gabe egotea gerta daiteke).
+
+Saio berean, erabiltzailea edozein momentuan alda daiteke menuko aukera hau hautatuz Txostenak | Erabiltzaile berriarekin hasi.
+
+
+#$K+
+{bmr mapa.bmp}MAPA_CONFIG>wmapa {bmc clic.bmp}   Txostenen datu basea
+
+Ikusi...MORE_HELP_REPORT
+
+
+Klik 3.0 -k erabiltzaileek egindako ariketen emaitzak datu basean erregistratzeko aukera ematen du. Datu base honen fitxategiak izen hau darama KLIK DB.MDB eta programak dakarren KlikDB erabiliz galde daiteke.
+
+Sarean dauden ordenagailuetan datu basea zerbitzailearen karpeta batetan egon dadila aholkatzen da, non gune guztiek irakur eta idazteko aukera izan dezaten. Honela base datu berean biltzen da talde eta erabiltzaile ezberdinen informazio guztia.
+
+Datu baseak Microsoft Access 1.1 formatua dauka, baina Access edo beste programa batetik zuzenean  ez erabiltzea gomendatzen da, honek egitura aldatu eta Klik-entzat balio babe utziko lukeelako. Klik DB-k estatistika txostenak lortu eta mantenimenduko oinarrizko eragiketak egitea aukera ematen du.
+
+Txostenen sistema hautatua izango da aukera orokorretanHELP_CONFI dagokion gelaska markatzen bada eta baita ere datu baserako bide zuzena adierazten bada.Txostenen sistema erabili aurretik KlikDB programaren bidez talde eta erabiltzaile guztiak sortzea aholkatzen da. Baita ere aukera orokorretan saio bakoitzaren hasieran identifikazio leihoa erabiliz ikasle bakoitzak bere izena erregistratzeko aukera du. Oraingo erabiltzailearen txostena menua erabiliz erabiltzaileek beraien datuak kontsulta dezaketen zehaztu daiteke.
+
+Talde eta erabiltzaileek bi eratara identifika daitezke: bere izenetik edo irudien bidez (BMP edo ICO fitxategiak). Bigarren aukera hau irakurtzen ez dakiten ikasleentzat pentsatuta dago.
+
+Datu basean talde eta erabiltzaile orokor bat dago, hau erabiltzen da froga saioetan.
+
+KLIKREP.EXE programa Klik eta datu basearen bitartekari bezala aritzen da. Erabiltzaileak ez du sekula programa hau zuzenean hautatu behar eta bakarrik antzemango dio ALT+TAB teklak zapatzean agertzen den ikonoa azaltzen denean. Txostenen informea zuzen funtziona dezan KLIKREP.EXE eta KLIK.EXE karpeta berean instalatuak egon behar dira.
+
+KliKDB programaren laguntzan txostenen sistemari buruz berri gehiago aurkituko duzu.
+
+
+#$K+
+{bmr mapa.bmp}MAPA_CONFIG>wmapa {bmc clic.bmp}    Ariketaren txostena
+Ikusi...MORE_HELP_REPORT
+
+
+Txosten honek, saio batean egindako iharduerei buruzko informazio estadistikoa ematen du. Saio berri bat hasten da KLIK martxan jartzean, edo, "Txostenak"menuan, "Saio berri bat hasi" aukera hautatzen dugunean.
+
+Ariketa txostena taula bat da non, ariketa bakoitzarekiko, adierazten den:
+
+{bmc brodo.bmp}	Ariketa fitxategiaren izena.
+{bmc brodo.bmp}	Ariketa bakoitzean, erabiltzaileak erabilitako denbora (segundutan adierazita)
+{bmc brodo.bmp}	Egindako ekinaldiak
+{bmc brodo.bmp}	Zenbat egin diren ongi.
+{bmc brodo.bmp}	Ariketa ebatzi den ala ez. Ebatzitakoak X batez markatuta azalduko dira.
+{bmc brodo.bmp}	Zehaztapenaren zenbakizko balorazio bat. Honek isladatuko digu ehuneko zenbat ekinaldi zuzen egin ditugun.
+
+Ariketa txostenak adieraziko digu , egindako ekintza kopurua , saioan erabilitako denbora eta lortutako bataz besteko balorazioak.
+
+Araketa ariketaHELP_EXPLORE eta argibide pantailakHELP_INFO ez dira kontuan hartuko ariketa txostenan.
+
+Aukera orokorretanHELP_CONFI ariketa txostenen erregistroaren, eremua hautatzen bada KliK-en txostenen datu baseaHELP_CLICDB martxan jarriko da, honek erabiltzaile bakoitzaren emaitzak estatistikoki informazioa eman dezake. Datu basearen informazioa lortzeko KlikDB edo Oraingo erabiltzailearen txostenaren menua erabili behar da.
+
+
+#$K+
+{bmr mapa.bmp}MAPA_CONFIG>wmapa {bmc clic.bmp}   Ariketaren aukerak
+Ikusi...MORE_HELP_ACTOPT
+
+
+Ariketaren aukeren dialogoan aurki daitezken elementuak honako hauek dira.
+
+{bml mboff.bmp}H_ACT_MIDA	Gelaxken neurriak
+{bml mboff.bmp}H_ACT_DESC	Ariketaren deskribapena
+{bml mboff.bmp}H_ACT_BOTONS	Botoiak eta kontagailuak
+{bml mboff.bmp}H_ACT_COLORS	Koloreak, bilbeak eta markoak
+{bml mboff.bmp}H_ACT_FONS	Atzeko irudia
+{bml mboff.bmp}H_ACT_POS	Joku leihoko posizioa
+{bml mboff.bmp}H_ACT_ESTIL	Estiloa kopiatu
+{bml mboff.bmp}H_ACT_REGEN	Birsortze automatikoa
+{bml mboff.bmp}H_ACT_REP	Txostenetan sartu
+{bml mboff.bmp}H_ACT_INFO	Informazio botoia
+{bml mboff.bmp}H_ACT_STD	Ohiko balioak
+
+
+#$K
+{bmr mapa.bmp}MAPA_CONFIG_OPA>wmapa {bmc clic.bmp}   Ariketaren aukerak
+Ikusi...MORE_HELP_ACTOPT
+
+
+Ariketaren aukeren dialogoan aurki daitezken elementuak honako hauek dira.
+
+{bml mbon.bmp}HELP_ACTOPT	Gelaxken neurriak
+Testu gelaxkei KLIK -ek ematen die hasierako neurriak arlo honetan alda daitezke. Hemen adierazitako neurriak  programak alda ditzake, ariketa baten elementu guztiak (grafikoak eta testuak)
+pantailan sartzeko behartzen bazaio. Gelaxka baten neurriak grabatzen dira ariketa bakoitzari datu itsatsi bat izango balitz bezala. Ariketa elkarketa bat denean A leihorako eta B leihorako neurri desberdinak zehaztu daitezke.
+
+{bml mboff.bmp}H_ACT_DESC	Ariketaren deskribapena
+{bml mboff.bmp}H_ACT_BOTONS	Botoiak eta kontagailuak
+{bml mboff.bmp}H_ACT_COLORS	Koloreak, bilbeak eta markoak
+{bml mboff.bmp}H_ACT_FONS	Atzeko irudia
+{bml mboff.bmp}H_ACT_POS	Joku leihoko posizioa
+{bml mboff.bmp}H_ACT_ESTIL	Estiloa kopiatu
+{bml mboff.bmp}H_ACT_REGEN	Birsortze automatikoa
+{bml mboff.bmp}H_ACT_REP	Txostenetan sartu
+{bml mboff.bmp}H_ACT_INFO	Informazio botoia
+{bml mboff.bmp}H_ACT_STD	Ohiko balioak
+
+
+#$K
+{bmr mapa.bmp}MAPA_CONFIG_OPA>wmapa {bmc clic.bmp}   Ariketaren aukerak
+Ikusi...MORE_HELP_ACTOPT
+
+
+Ariketaren aukeren dialogoan aurki daitezken elementuak honako hauek dira.
+
+{bml mboff.bmp}H_ACT_MIDA	Gelaxken neurriak
+{bml mbon.bmp}HELP_ACTOPT	Ariketaren deskribapena
+Arlo honetan ariketaren deskribapen laburra idatz daiteke, ariketa edo pakete kargatzekoHELP_CARREGA erabiltzen den dialogo leihoan agertuko dena.
+
+{bml mboff.bmp}H_ACT_BOTONS	Botoiak eta kontagailuak
+{bml mboff.bmp}H_ACT_COLORS	Koloreak, bilbeak eta markoak
+{bml mboff.bmp}H_ACT_FONS	Atzeko irudia
+{bml mboff.bmp}H_ACT_POS	Joku leihoko posizioa
+{bml mboff.bmp}H_ACT_ESTIL	Estiloa kopiatu
+{bml mboff.bmp}H_ACT_REGEN	Birsortze automatikoa
+{bml mboff.bmp}H_ACT_REP	Txostenetan sartu
+{bml mboff.bmp}H_ACT_INFO	Informazio botoia
+{bml mboff.bmp}H_ACT_STD	Ohiko balioak
+
+#$K
+{bmr mapa.bmp}MAPA_CONFIG_OPA>wmapa {bmc clic.bmp}   Ariketaren aukerak
+Ikusi...MORE_HELP_ACTOPT
+
+
+Ariketaren aukeren dialogoan aurki daitezken elementuak honako hauek dira.
+
+{bml mboff.bmp}H_ACT_MIDA	Gelaxken neurriak
+{bml mboff.bmp}H_ACT_DESC	Ariketaren deskribapena
+{bml mbon.bmp}HELP_ACTOPT	Botoiak eta kontagailuak
+Sekzio honetan editatzen ari den ariketrako hautatu edo hautatu gabe utz daiteke kontagailu eta botoi ezberdinen agerpena. Ariketaren gain laguntzaHELP_AJUDA botoia ez hautatzea komenigarria da batez ere B leihoarekin zerikusia duten ariketakHELP_GRAFTX direnean. Botoientzat hiru tipo ezberdin daude: botoi handiak, betiko botoi grisak ertza itzalarekin botoi txikiak 1 aurrekoen berdinak baina ertzarik gabe eta botoi txikiak 2 son diseños lineales que utilizan el color de texto que se elija para la caja de mensajes en la ventana de selección de tipo de letraHELP_FONTS.
+Botoi eta kontagailuetarako sortzen den egoera ariketa bakoitzari lotutako datua bezala gordeta izango da.
+Ariketa paketeenHELP_EDITPAC edizio leihoan baita ere botoi batzuk hautatu edo hautatu gabe utz daitezke. Arazo baten aurrean bi aukeren artean botoia bakarrik azalduko da ariketa edo paketean honela adierazten bada. 
+Baita ere botoiak pantailaren goiko aldean horizontalki egokitu daitezke.
+Pantailaren goiko aldean botoiak daudenean joku leihoan toki gehiago izango da, guztiak estaliak daudenean eta bat bakarrik agertzen denean.
+{bml mboff.bmp}H_ACT_COLORS	Koloreak, bilbeak eta markoak
+{bml mboff.bmp}H_ACT_FONS	Atzeko irudia
+{bml mboff.bmp}H_ACT_POS	Joku leihoko posizioa
+{bml mboff.bmp}H_ACT_ESTIL	Estiloa kopiatu
+{bml mboff.bmp}H_ACT_REGEN	Birsortze automatikoa
+{bml mboff.bmp}H_ACT_REP	Txostenetan sartu
+{bml mboff.bmp}H_ACT_INFO	Informazio botoia
+{bml mboff.bmp}H_ACT_STD	Ohiko balioak
+
+
+
+#$K
+{bmr mapa.bmp}MAPA_CONFIG_OPA>wmapa {bmc clic.bmp}   Ariketaren aukerak
+Ikusi...MORE_HELP_ACTOPT
+
+
+Ariketaren aukeren dialogoan aurki daitezken elementuak honako hauek dira:
+
+{bml mboff.bmp}H_ACT_MIDA	Gelaxken neurriak
+{bml mboff.bmp}H_ACT_DESC	Ariketaren deskribapena
+{bml mboff.bmp}H_ACT_BOTONS	Botoiak eta kontagailuak
+{bml mbon.bmp}HELP_ACTOPT	Koloreak, bilbeak eta markoak
+Joku eta nagusi leihoetako hondoa bezala erabiliko den bilbe edo koloreak aukeratu ditzakezue arlo honetan. Zonalde desberdinak inguratzen diren lerroak aukeratutako kolorez bat ez badatoz, itzal markoa gelaxka desmarkatu dezakezue 
+Jolas leihoan Atzeko plano gardena, hautatu daiteke, honek leiho naguziaren irudia eta kolorea indartzen du.
+HELP_FONTS Letra mota aukeraren dialogoan mezu kutxa eta ariketa leihorako kolore desberdinak hautatzeko aukera baduzue.
+
+{bml mboff.bmp}H_ACT_FONS	Atzeko irudia
+{bml mboff.bmp}H_ACT_POS	Joku leihoko posizioa
+{bml mboff.bmp}H_ACT_ESTIL	Estiloa kopiatu
+{bml mboff.bmp}H_ACT_REGEN	Birsortze automatikoa
+{bml mboff.bmp}H_ACT_REP	Txostenetan sartu
+{bml mboff.bmp}H_ACT_INFO	Informazio botoia
+{bml mboff.bmp}H_ACT_STD	Ohiko balioak
+
+
+#$K
+{bmr mapa.bmp}MAPA_CONFIG_OPA>wmapa {bmc clic.bmp}   Ariketaren aukerak
+Ikusi...MORE_HELP_ACTOPT
+
+
+Ariketaren aukeren dialogoan aurki daitezken elementuak honako hauek dira:
+
+{bml mboff.bmp}H_ACT_MIDA	Gelaxken neurriak
+{bml mboff.bmp}H_ACT_DESC	Ariketaren deskribapena
+{bml mboff.bmp}H_ACT_BOTONS	Botoiak eta kontagailuak
+{bml mboff.bmp}H_ACT_COLORS	Koloreak, bilbeak eta markoak
+{bml mbon.bmp}HELP_ACTOPT	Atzeko irudia
+Zerrenda honetan leiho nagusirako izango den atzeko irudia aukeratu daiteke. Irudi hau beti bits mapaTOPIC_BITMAP bat izango da, erdian kokatutako grafiko handia izan daiteke edo irudi txiki bat non errepikatuz Klik leiho osoa betetzen duen. Atzeko irudia erabiltzen denean Marko itzaldunak hautatu gabe izatea gomendatzen da eta joku leihoko  Atzeko plano gardena hautatzea.
+{bml mboff.bmp}H_ACT_POS	Joku leihoko posizioa
+{bml mboff.bmp}H_ACT_ESTIL	Estiloa kopiatu
+{bml mboff.bmp}H_ACT_REGEN	Birsortze automatikoa
+{bml mboff.bmp}H_ACT_REP	Txostenetan sartu
+{bml mboff.bmp}H_ACT_INFO	Informazio botoia
+{bml mboff.bmp}H_ACT_STD	Ohiko balioak
+
+
+#$K
+{bmr mapa.bmp}MAPA_CONFIG_OPA>wmapa {bmc clic.bmp}   Ariketaren aukerak
+Ikusi...MORE_HELP_ACTOPT
+
+
+Ariketaren aukeren dialogoan aurki daitezken elementuak honako hauek dira:
+
+{bml mboff.bmp}H_ACT_MIDA	Gelaxken neurriak
+{bml mboff.bmp}H_ACT_DESC	Ariketaren deskribapena
+{bml mboff.bmp}H_ACT_BOTONS	Botoiak eta kontagailuak
+{bml mboff.bmp}H_ACT_COLORS	Koloreak, bilbeak eta markoak
+{bml mboff.bmp}H_ACT_FONS	Atzeko irudia
+{bml mbon.bmp}HELP_ACTOPT	Joku leihoko posizioa
+Atzeko irudi baten barruan joku leihoaren egoera egokitzeko aukera hau batez ere pentsatuta dago.ondoren ematen diren koordenadak bi esanahi izan ditzakete:
+- Leiho nagusian atzeko irufi bat erdian aukeratua izan bada koordenaden jatorria atzeko irudiaren ezkerreko goiko erpinean egongo da.
+- Leiho nagusiak atzeko irudirik ez badu edota mosaikoan badu koordinaden jatorria Klik leiho nagusiaren ezkerreko goiko erpinetik hartuko da.
+Bi kasuetan X-ak eskuin aldera mugimendua adirazten du eta Y-k berriz behera.
+{bml mboff.bmp}H_ACT_ESTIL	Estiloa kopiatu
+{bml mboff.bmp}H_ACT_REGEN	Birsortze automatikoa
+{bml mboff.bmp}H_ACT_REP	Txostenetan sartu
+{bml mboff.bmp}H_ACT_INFO	Informazio botoia
+{bml mboff.bmp}H_ACT_STD	Ohiko balioak
+
+
+#$K
+{bmr mapa.bmp}MAPA_CONFIG_OPA>wmapa {bmc clic.bmp}   Ariketaren aukerak
+Ikusi...MORE_HELP_ACTOPT
+
+
+Ariketaren aukeren dialogoan aurki daitezken elementuak honako hauek dira:
+
+{bml mboff.bmp}H_ACT_MIDA	Gelaxken neurriak
+{bml mboff.bmp}H_ACT_DESC	Ariketaren deskribapena
+{bml mboff.bmp}H_ACT_BOTONS	Botoiak eta kontagailuak
+{bml mboff.bmp}H_ACT_COLORS	Koloreak, bilbeak eta markoak
+{bml mboff.bmp}H_ACT_FONS	Atzeko irudia
+{bml mboff.bmp}H_ACT_POS	Joku leihoko posizioa
+{bml mbon.bmp}HELP_ACTOPT	Estiloa kopiatu
+Botoi honek editatzen ari garen ariketari aldez aurretik grabatuta dugunaren oinarrizko ezaugarriak aplikatzen dizkio. Konpiatzen diren ezaugarriak koloreak, markagailu eta botoien hautatze eta tipoa eta gelasken tamaina.
+
+{bml mboff.bmp}H_ACT_REGEN	Birsortze automatikoa
+{bml mboff.bmp}H_ACT_REP	Txostenetan sartu
+{bml mboff.bmp}H_ACT_INFO	Informazio botoia
+{bml mboff.bmp}H_ACT_STD	Ohiko balioak
+
+
+#$K
+{bmr mapa.bmp}MAPA_CONFIG_OPA>wmapa {bmc clic.bmp}   Ariketaren aukerak
+Ikusi...MORE_HELP_ACTOPT
+
+
+ Ariketaren aukeren dialogo aurki daitezken elementuak honako hauek dira:
+
+{bml mboff.bmp}H_ACT_MIDA	Gelaxken neurriak
+{bml mboff.bmp}H_ACT_DESC	Ariketaren deskribapena
+{bml mboff.bmp}H_ACT_BOTONS	Botoiak eta kontagailuak
+{bml mboff.bmp}H_ACT_COLORS	Koloreak, bilbeak eta markoak
+{bml mboff.bmp}H_ACT_FONS	Atzeko irudia
+{bml mboff.bmp}H_ACT_POS	Joku leihoko posizioa
+{bml mboff.bmp}H_ACT_ESTIL	Estiloa kopiatu
+{bml mbon.bmp}HELP_ACTOPT	Birsortze automatikoa
+Ariketaren direktorioan ariketen sortze automatiko HELP_AUTOGEN (.DLL luzapenaz fitxategi bereziak) edozein programa badago,aukera hau aktiba daiteke eta abiarazten den bakoitzean ariketaren benetazko edukina berritu dadin fitxategia aukeratu. Konfigurazio botoia ukituz sortze automatiko programa gehitu dezan dialogoa martxan jarriko da
+Birsortze automatiko sistema erabiltzen den ariketaren adibide bat ikusi nahi baduzu, egizazu Klik hemen.EP("clic.exeCLIC:\\act\\arith\\combi1.ass",0). Ikus ezazu bere edukina aldatzen dela ikurra berde sakatzen duzun bakoitzean. Nola eraiki den ikusteko Aukerak/Ariketaren aukerak menua aktibatu eta saka konfigurazio botoia
+
+{bml mboff.bmp}H_ACT_REP	Txostenetan sartu
+{bml mboff.bmp}H_ACT_INFO	Informazio botoia
+{bml mboff.bmp}H_ACT_STD	Ohiko balioak
+
+
+#$K
+{bmr mapa.bmp}MAPA_CONFIG_OPA>wmapa {bmc clic.bmp}   Ariketaren aukerak
+Ikusi...MORE_HELP_ACTOPT
+
+
+ Ariketaren aukeren dialogo aurki daitezken elementuak honako hauek dira:
+
+{bml mboff.bmp}H_ACT_MIDA	Gelaxken neurriak
+{bml mboff.bmp}H_ACT_DESC	Ariketaren deskribapena
+{bml mboff.bmp}H_ACT_BOTONS	Botoiak eta kontagailuak
+{bml mboff.bmp}H_ACT_COLORS	Koloreak, bilbeak eta markoak
+{bml mboff.bmp}H_ACT_FONS	Atzeko irudia
+{bml mboff.bmp}H_ACT_POS	Joku leihoko posizioa
+{bml mboff.bmp}H_ACT_ESTIL	Estiloa kopiatu
+{bml mboff.bmp}H_ACT_REGEN	Birsortze automatikoa
+{bml mbon.bmp}HELP_ACTOPT	Txostenetan sartu
+Honek ariketa zehatz bat ariketa txostenenHELP_CLICDB datu basean erregistratu behar den ala ez aukera ematen du. Klik-ek aukera hau automatikoki baliogabetzen du, informazio pantaila eta esploratze ariketentzat, baina baita ere komenigarria da aukera menuko ariketetan edo ebaluaketa garrantzitsua ez denean baliogabetzea komenigarria da.
+{bml mboff.bmp}H_ACT_INFO	Informazio botoia
+{bml mboff.bmp}H_ACT_STD	Ohiko balioak
+
+
+#$K
+{bmr mapa.bmp}MAPA_CONFIG_OPA>wmapa {bmc clic.bmp}   Ariketaren aukerak
+Ikusi...MORE_HELP_ACTOPT
+
+
+Ariketaren aukeren dialogoan aurki daitezken elementuak honako hauek dira: 
+
+{bml mboff.bmp}H_ACT_MIDA	Gelaxken neurriak
+{bml mboff.bmp}H_ACT_DESC	Ariketaren deskribapena
+{bml mboff.bmp}H_ACT_BOTONS	Botoiak eta kontagailuak
+{bml mboff.bmp}H_ACT_COLORS	Koloreak, bilbeak eta markoak
+{bml mboff.bmp}H_ACT_FONS	Atzeko irudia
+{bml mboff.bmp}H_ACT_POS	Joku leihoko posizioa
+{bml mboff.bmp}H_ACT_ESTIL	Estiloa kopiatu
+{bml mboff.bmp}H_ACT_REGEN	Birsortze automatikoa
+{bml mboff.bmp}H_ACT_REP	Txostenetan sartu
+{bml mbon.bmp}HELP_ACTOPT	Informazio botoia
+Arlo honek ariketei argibide botoi gehigarria gehitzea uzten du. Botoi honek edozein programa edo aplikazioa martxan jar dezake. Ariketa batean aukera hau martxan jartzeko hurrengo estrategiak erabili daitezke:
+
+Fitxategi exekutagarri bati dei zuzenaPOPUP_CALLEXE
+Fitxategi Administratzaileak erregistratutako dokumentu bati deiaPOPUP_CALLREG
+Exekutagarria den parametrodun programa bati deiaPOPUP_CALLEXEPARMS
+Windows-eko laguntza fitxategi bati deiaPOPUP_CALLHELP
+
+Informazio botoiaz ariketaren adibide bat ikusi nahi baduzu, egizazu Klik hemen!EP("clic.exeCLIC:\\act\\demo\\expmun.ass",0)
+
+{bml mboff.bmp}H_ACT_STD	Ohiko balioak
+
+
+#$K
+{bmr mapa.bmp}MAPA_CONFIG_OPA>wmapa {bmc clic.bmp}   Ariketaren aukerak
+Ikusi...MORE_HELP_ACTOPT
+
+
+Ariketaren aukeren dialogoan aurki daitezken elementuak honako hauek dira:
+
+{bml mboff.bmp}H_ACT_MIDA	Gelaxken neurriak
+{bml mboff.bmp}H_ACT_DESC	Ariketaren deskribapena
+{bml mboff.bmp}H_ACT_BOTONS	Botoiak eta kontagailuak
+{bml mboff.bmp}H_ACT_COLORS	Koloreak, bilbeak eta markoak
+{bml mboff.bmp}H_ACT_FONS	Atzeko irudia
+{bml mboff.bmp}H_ACT_POS	Joku leihoko posizioa
+{bml mboff.bmp}H_ACT_ESTIL	Estiloa kopiatu
+{bml mboff.bmp}H_ACT_REGEN	Birsortze automatikoa
+{bml mboff.bmp}H_ACT_REP	Txostenetan sartu
+{bml mboff.bmp}H_ACT_INFO	Informazio botoia
+{bml mbon.bmp}HELP_ACTOPT	Ohiko balioak
+KLIK.INI fitxategian ezarritako balioeta aukera guztiak bueltatzen ditu botoi honek
+HELP_CLICINI
+
+
+#Fitxategi exekutagarri bati dei zuzena
+
+Informazio botoitik fitxategi exekutagarri bati deitzeko Fitxategi eremuan programaren izena idatzi behar da; programak .EXE, .COM, .PIF edo .BAT luzapena izan beharko du. Adibidez, CALC.EXE idazten bada, informazio botoiak Windows-eko kalkulagailua martxan jarriko du.
+
+
+#Fitxategi Administratzaileak erregistratutako dokumentu bati deia
+
+Fitxategi eremuan, Fitxategi Administratzaileak erregistratutako luzapen bat daraman eskribu baten izena zehaztua badago, informazio botoiak eskribu hori sortu zuen programa irekiko du; programa ireki ondoren, programa berak eskribua kargatuko du automatikoki. Adibidez, MUNDO.WRI fitxategia zehazten bada, informazio botoiak Write testu prozesatzailea martxan jarriko du eta honek fitxategia irekiko du.
+
+
+#Exekutagarria den parametrodun programa bati deia
+
+Fitxategi exekutagarri bati dei zuzenaPOPUP_CALLEXE-aukera ere erabil daiteke; horretarako, nahi dituzun parametroak Tema/Parametroak eremuan zehaztuko dituzu. Adibidez, Fitxategi eremuan EDIT.COM eta Tema/Parametroak eremuan LEED.ME idazten baduzu, informazio botoiak MS-DOSeko testu prozesatzailea martxan jarriko du eta honek LEED.ME eskribua kargatuko du.
+
+
+#Windows-eko laguntza fitxategi bati deia
+
+Funtzio hau erabiltzeko, Fitxategi eremuan Windows-eko laguntzarako eskribu baten izena (.HLP luzapena duten fitxategiak) idatzi behar da; horretaz gain, Tema/Parametroak eremuan nahi duzun gaiaren deskribatzaile bat zehaztu behar da. Horrela, laguntza botoia aktibatzen duzun bakoitzean, gaia pantailan agertuko da.
+
+
+#$K+
+{bmr mapa.bmp}MAPA_CONFIG>wmapa {bmc clic.bmp}   Ariketa sortzen automatikoa
+Ikusi...MORE_HELP_AUTOGEN
+
+
+KLIK-ek badu kanpoko programak deitzeko sistema bat, iharduaren edukina era dinamiko batean sortzen uzten duena. Kanpoko programa hauek DLLTOPIC_DLL, motako fitxategiak izan behar dira eta hurrengo orrialdean HELP_TECHAUTO adierazitako zehaztapenei erantzuna eman behar diete.
+
+Buruzko kalkuloaren adibideetan dauden ekintzak sistema hau erabiltzen dute ariketa desberdinak sortzeko exekutatzen diren bakoitzean.
+
+KLIK-ek kargatzen duenean sortzapen automatikoa erabiltzen duen ekintzaren bat, honekin lotutako DLL-ri dei bat egiten dio, ariketaren edukina mugatuko duten fitxategiak (testu edo irudizkoak) sortzeko. Esandako dei hau "berriro hasi"HELP_INIT (bandera berdea), botoia sakatzen den bakoitzean errepikatuko da.
+
+KLIK-ek erabilpenerako idazten diren DLL-ek, erabilera parametroak konfiguratzen utzi behar dute. Parametro hauek zehazteko "konfigurazio" botoia aktibatu behar da. "Ekintzaren aukerak"H_ACT_REGEN elkarrizketaren (diálogo?) barruan dago botoi hau.
+
+Ekintza sortzapen automatikoaren DLL programa bat sortzeko, hizkuntza konpiladore bat erabili behar da (C edo C++).
+
+Birsortze automatikoa sistema erabiltzen duen ekintza adibide bat ikusteko, egin ezazu klik hemen!EP("clic.exeCLIC:\\act\\arith\\combi1.ass",0). Kontuan hartzazu honen edukina aldatzen  dela bandera berdea aktibatzean. Nola eraiki den ikusteko, "Aukerak" menua aktibatu | Ekintzaren aukerak eta konfigurazio botoia sakatu.
+
+
+#$K+
+{bmr mapa.bmp}MAPA_CONFIG>wmapa {bmc clic.bmp}   Ariketa sortzen automatikoa sistemaren zehaztapenak
+Ikusi...MORE_HELP_TECHAUTO
+
+
+ADI!!
+Laguntzaren atal hau, windows (C edo C++ hizkuntzan), aplikazioen programaketan adituei dago zuzenduta. 
+
+Sortzapen automatikoa sistema erabiltzen duten ekintzak sortzeko, DLL fitxategi bat idatzi eta konpilatu behar da. Ondoren, DLL programa hauek izan behar dituzten ezaugarriak deskribatu behar dira klik-ek ezagunak izan daitezen.
+.
+Sortzapen automatikoaren DLL bat idazteko, gai hau inprimatu eta idaztea gomendatzen dizuegu. Hauxe da bere edukina:
+
+Oinarrizko ezaugarriakDLL_BASIC
+Sistemaren funtzionamenduaDLL_FUNCSYS
+Fitxategia AUTOCLIC.HDLL_AUTOCLIC
+AldagaiakDLL_VARS
+FuntzioakDLL_FUNCS
+
+
+#Oinarrizko ezaugarriak
+
+Sortzen automatikoaren DLL baten funtzioa, ariketen edukina mugatuko duten fitxategiak betetzea da, normalean, prozesu aleatorioetatik hasita. Prozesu aleatorio hauek kontrolatzen dituzten aldagaiak, erabiltzaileak zehaztuak izan daitezke ariketa editatu edo sortzeko momentuan.
+
+Sortzen automatikoaren DLL batek lau funtzio bete behar ditu: RemakeActDLL_RA, GetClicDllVerDLL_GCDV, ConfigureDllOptionsDLL_CDO y IsValidActDLL_IVA, izenekoak, eta hauek, funtzioei eskeinitako atalean azaltzen dira DLL_FUNCS.
+
+#Sistemaren funtzionamendua
+
+
+KLIK-ek kargatzen duenean sortzen automatikoa sistema duen ekintza bat, ondorengo prozesua jarraitzen du:
+
+{bmc brodo.bmp}	Windows LoadLibrary -ren API -ren funtzioari deituz DLL-a kargartzen du.
+
+{bmc brodo.bmp}	Konprobatzen du ea DLL -ak GetClicDllVerDLL_GCDV izeneko funtzio bat exportatzen duen; hala bada, deitu egiten du
+{bmc brodo.bmp}	DLL-aurkitzen ez bada, edo GetClicDllVerDLL_GCDV funtzioari ezin bazaio deitu, edo honi egindako deiak unekoa ez den klik-eko geroko bertsio bat itzultzen badu, errore mezu bat agertu eta ekintza bukatuko da.
+{bmc brodo.bmp}	KLIK-ek sortuko ditu, erabiltzearen behin-behineko (temporal?) direktorioan, ekintza egiteko beharrezkoak diren edukin fitxategiak. Hasieran, fitxategi hauek hutsik egongo dira.
+
+{bmc brodo.bmp}	RemakeActDLL_RA-i dei bat egiten zaio DLL-ak edukin fitxategiak bete ditzan. Honetarako, kontuan hartuko ditu ekintzaren ezaugarriak, ACTDATADLL_ACTDATA motako aldagai batean isladatutakoak, eta erabiltzaileak zehaztu dituen sortzapen automatikoaren parametroak, OpsDLL_OPS aldagaian isladatzen direnak.
+{bmc brodo.bmp}	Edukina kargatu eta ekintza hasiko da.
+{bmc brodo.bmp}	Erabiltzaileak "ekintza berriro hasi" (bandera berdea),botoia aktibatzen badu, RemakeActDLL_RA.-i egindako deia errepikatuko da.
+{bmc brodo.bmp}	Ekintza bukatzerakoan, Klik arduratuko da erabilitako behin-behineko (temporales?) fitxategiak deuseztatzen.
+{bmc brodo.bmp}	Erabiltzaileak ekintza editatzen badu eta ekintzan aukeren elkarrizketako HELP_ACTOPT (diálogo de opciones?) konfigurazio botoia aktibatzen badu, ConfigureDllOptionsDLL_CDO-i dei bat egiten zaio OpsDLL_OPS aldagaiaren edukina aldatu ahal izateko.
+
+#AUTOCLIC.H fitxategia
+
+Fitxategi honek baditu, ekintza sortzapen automatikoa sistemarekin bat datorren DLL bat programatzeko beharrezkoak diren konstante, funtzio eta aldagaien adierazpenak:
+
+/* ----------------------------
+   AUTOCLIC.H
+   ---------------------------- */
+
+#ifndef __AUTOCLIC_H__
+#define __AUTOCLIC_H__
+
+#include <windows.h>
+
+#define CLIC_DLL_VERSION 0x100
+
+#if defined( __cplusplus )
+extern "C" {
+#endif  /* __cplusplus */
+
+enum PlayModes {BAT ERE EZ, PUZZLE, ZOPA, ELKARTU, GURUTZEGRAMA};
+enum PuzModes  {ELKARTRUKEA, HUTSUNEA BIKOITZA MEMORIA};
+enum AssModes  {NORMAL, BEREZIA, ARAKATU, INFO, IDENTIFIKATU IDATZI};
+enum GraPositions {AB, BA, AUB, BUA};
+
+typedef struct tagActData
+{  int   clicVersion;
+   LPINT actMode;
+   LPINT actType;
+   LPINT arrayPos;
+   LPINT rows;
+   LPINT columns;
+   LPINT rows2;
+   LPINT columns2;
+   LPINT assignAss;
+   LPINT ass;
+   LPSTR initMessage;
+   LPSTR endMessage;
+   LPSTR tempFName[3];
+   BOOL  useTempFName[3];
+} ACTDATA;
+typedef ACTDATA FAR* LPACTDATA;
+
+#define DLL_OPTIONS_SIZE 250
+
+BOOL FAR PASCAL RemakeAct(LPSTR fileNameAct, LPACTDATA lpAct, LPSTR lpOps);
+int FAR PASCAL GetClicDllVer();
+BOOL FAR PASCAL ConfigureDllOptions(HWND hOwner, LPACTDATA lpAct, LPSTR lpOps);
+BOOL FAR PASCAL IsValidAct(HWND hOwner, LPACTDATA lpAct, BOOL showMsg);
+
+#if defined( __cplusplus )
+}
+#endif  /* __cplusplus */
+
+#endif  /* __AUTOCLIC_H__ */
+
+
+#Aldagaiak
+
+#ACTDATA
+
+ACDATA motatako aldagai batean exekutatzen ari den ariketaren ezaugarriak gordetzen dira, arloen bidez osatutako egitura delarik:
+
+int clicVersion
+Exekutatzen ari den KLIK bertsioa.
+
+LPINT actMode
+Ariketaren araberako erakuslea izan daiteke PUZZLE (1), ZOPA (2), ELKARTE (3) edo GURUTZEGRAMA (4)
+
+LPINT actType
+Ariketaren motatako erakuslea. PUZZLE izatekotan izan daiteke ELKARTRUKEA (0), HUTSUNE (1), BIKOITZA (2) edo MEMORIA (3). Elkarketa bat izatekotan izan daiteker ARRUNTA (0), BEREZIA (1), ARAKATU (2), INFO (3), IDENTIFIKATU (4) o IDATZI (5). Zopa letrak eta gurutzegramak ez dute mota ezberdinik.
+
+LPINT arrayPos
+Elkarketaren ariketa batean leihoen kokagunerantz dugun erakuslea. Leihoak aurrez aurre aurki daitezke ezkerretik  eskuinera: AB (0) eta BA (1) edo goitik behera: AUB (2) eta BUA (3).
+
+LPINT rows
+A leihoaren barruan lerroen zenbatekoaren erakuslea
+
+LPINT columns
+B leihoaren barruan zutabeen zenbatekoaren erakuslea
+
+LPINT rows2
+Ez arruntak elkarketen kasuan B leihoaren barruan lerroen zenbatekoaren erakuslea
+
+LPINT columns2
+Ez arruntak elkarketen kasuan B leihoaren barruan zutabeen zenbatekoaren erakuslea
+
+LPINT assignAss
+Booleana aldagaiaren erakuslea  adierazteko ea ariketa erabiltzen den ala ez erlazio berezi erabaki sistema
+
+LPINT ass
+Array de enteros delakoaren erakuslea non  adierazten den ez arruntak elkarketarako A leihoaren gelaxka bakoitzari dagozkion B leihoaren gelaxka.
+
+LPSTR initMessage
+Ariketaren hasierako mezuaren testua
+
+LPSTR endMessage
+Ariketaren bukaerako mezuaren testua.
+
+LPSTR tempFName[3]
+Ariketaren edukin gordeko den aldi baterako fitxategiaren izenaren hiru erakusle. Lehenengo eta bigarrena A eta B leihoaren edukin fitxategiak dira. Hirugarrena A leihorako.ebazpidea fitxetegia da.
+
+BOOL useTempFName[3]
+Hiru booleana aldagai adierazteko KLIKek erabili behar duela aurretik adierazitako fitxategi bana..
+
+
+
+#Ops
+
+STRING motako aldagaia dugu, DLL-ak ariketa sortze automatikorako erabiliko diren parametroak gorde behar du. Zeroz bukatu behar du eta gehienez jota 250 hizkikoa KLIK-ek aldagai honen edukina ASCII fitxategian gordeko duenez, osatzen duten karaktereek  0x20 balorea edo gehiago izan behar dute, azken bukaerakoa ezik,beti huts balorea hartu behar dena. Aldagai hau LPSTR parametro bezala ConfigureDllOptionsDLL_CDO ( DLL-ak bere baloreak berritu ditzan) y RemakeActDLL_RA. funtzioetara pasatuko da.
+
+
+#Funtzioak
+
+#BOOL FAR PASCAL RemakeAct(LPSTR fileNameAct, LPACTDATA lpAct, LPSTR lpOps)
+
+DLL-aren funtzio nagusia da hau, duen helburua zera delarik: aldizkako fitxategiak edukinez betetzea, lpActDLL_ACTDATA -n seinalaturiko ekintzaren ezaugarriak eta lpOpsDLL_OPS -ean erabiltzaileak diseinaturiko sortze-aukerak kontutan hartuz. fileNameAct aldagaia ekintza duen fitxategiaren izenera seinalatzen du; izenik ez izatekotan, berriz, NULL da.
+
+
+#int FAR PASCAL GetClicDllVer()
+
+CLIC_DLL_(0x100) BERTSIOAREN balioa eman behar du funtzio honek, guzti hau AUTOCLIC.HDLL_AUTOCLIC fitxategian aurkitzen delarik.
+
+
+#BOOL FAR PASCAL ConfigureDllOptions(HWND hOwner, LPACTDATA lpAct, LPSTR lpOps)
+
+Erabiltzaileak lpOpsDLL_OPS -ean dauden sortze-parametroak nahi duen eran jartzeko funtzioaren deia da. hOwner eta lpActDLL_ACTDATA aldagaiak ere pasatzen dira (azken hauek ekintzaren ezaugarriekin batera) konfiguraziorako dialogo bat eraiki ahal izateko.
+
+
+#BOOL FAR PASCAL IsValidAct(HWND hOwner, LPACTDATA lpAct, BOOL showMsg)
+
+Funtzio honek, DLL-ak lpActDLL_ACTDATA -n agertzen den moduko ariketaren bat duenentz aztertuko du; horrela ez izatekotan eta showMsg aldagaia positiboa izatekotan, DLLak huts edo abisu mezua erakutsi beharko du. Mezu hau erakusteko handle hOwner- erabil daiteke.
+
+
+#$K
+{bmr mapa.bmp}MAPA_CONFIG>wmapa {bmc clic.bmp}   Lan direktorioa
+Ikusi...MORE_HELP_CARREGA
+
+
+Ariketa edo pakete sortu baino lehen programak galdetuko dizue zein direktoriaon lan egiten  nahi duzuen
+
+Ariketa baten osagai guztiak (grafikoak, testuak soinuak...) lan direktorio honetan egon behar dira.
+
+Hasieran jarritako lan direktorioa aukera orokorrakH_CONFI_DIR. dialogaon agertzen dena da
+
+Leiho hau desaktiba dezakezue ez galdetu gehiago gelaxka markatzen. Kasu honetan, hurrengo aldiz, ariketa sortu aktibatzean, programak eramango zaituzte zuzenean dakokion leihora, lan direktorioa berdina dela pentsatuz.
+
+
+#$K+
+{bmr mapa.bmp}MAPA_CONFIG>wmapa {bmc print1.bmp}   Inprimatu
+Ver también...MORE_HELP_PRINT
+
+
+Menuko Fitxategia | Inprimatu aukerak momentu horretan ikusten ari zaren ariketaren kopia bat ematen dizu.
+
+Ariketaren aukeretanHELP_ACTOPT zuzenean aukera hau deitzeko pantailan botoi bat azaltzeko posibilitatea duzu.
+
+Inpresio leihoan zehaztu daitezken aukerak dira:
+
+Konfiguratu	Inprimatu nahi den dispositiboa aukeratzen du, norabidea eta paperaren tamaina eta inprimatzaile bakoitzaren parametro propioak.
+
+elementuak	Sekzio honetan zein elementu inprimatuta agertu nahi den aukeratzen da: Ariketa fitxategiaren izena ( eta paketearena hala bada), atzeko kolore eta grafikoak (berez zuriz uzten du), kontagailuak, botoiak eta irudiaren inguruko markoa.
+
+tamaina	Hasiera batean inpresoran konfiguratuta dagoen gehiengo tamaina irudiari ematen dio. Tamaina hau aldatu daiteke aukeratutako elementuen eta paperean duen irudiaren norabidearen arabera:  Ariketa gehienetan irudi handiagoa lor daiteke horizontalki aukeratuta.
+Eskala egokituz papereko irudiak txikitu daiteke.
+
+kokagunea	Programak berez goi ezkerraldean kokatzen du irudia inprimatzerakoan. Kokagunearen gelaskak hautatzen, bertikal edo horizontalki irudia paperean erdiratu daiteke.
+
+Windows 95ean inprimatzaileen inprimatzerakoan zenbait irudi buruz behera agertzen dira. Arazo hau gainditu daiteke KLIK.INIHELP_CLICINI fitxategitik printerBug parametroa aldatuz.
+
+
+#$K+
+{bmr mapa.bmp}MAPA_CONFIG>wmapa {bmc clic.bmp}   Parametroekin Klik deitu
+Ikusi...MORE_HELP_PARAM
+
+
+KLIK.EXE programa deitzeko ikonoen aginduetan sar daitezken parametroak hauek dira. IzenaFitxategia adierazpena fitxategiaren izena eta bidearengatik aldatu behar da.
+
+izenaFitxategia	Ikonoa hautatzean ireki nahi den edozein Klik ariketa (ASS, PUZ, SOP, CRW edo TXA) ariketa paketeen izena eta bidea (PAC edo PCC).
+
+izenaFitxategiaZenb	Normalean paketeak lehenengo ariketatik hasten dira baina edozein ariketatik has daiteke ere pakete ariketa izenaren ondoren zenbaki ordena idatziz.Adibidez:
+C:\KLIK\KLIK.EXE  C:\KLIK\GEO\GEO.PCC  3
+GEO.PCC paketeko 3. ariketatik hasiko litzateke.
+
+/INI:izenaFitxategia	KLIK.INIHELP_CLICINI fitxategiaren kokatze alternatiboa non aukera orokorrekoHELP_CONFI baloreak irakurriko dituen. Parametro hau adierazten ez bada KLIK.INI fitxategia KLIK.EXE dagoen unitate eta karpeta berean bilatuko du.
+
+/MENU	Menu barra agertarazten du noiz aukera orokorretan ez dela agertu behar esan."Demo de Klik" ikonoan parametro hau erabiltzen da adibide ariketen edukia beti azter dezan.
+
+/NOMENU	Menu barra agertzea galerazten du nahiz eta aukera orokorretan aurkakoa adierazi.
+
+/DB:izenaFitxategia	Klik ariketen txostenak erregistratzen diren datu basearen kokatze alternatiboa. Parametro hau adierazten ez bada, programa datu basera KLIK.INIHELP_CLICINI fitxategiko reportBase-tik helduko da.
+
+/USER:userId	Erabiltzailearen zenbakizko kudeaketa non ikonoa hautatzean ariketa txostenak egokitzen zaizkio. Adierazten ez bada, ariketekin hasi aurretik Klik-ek identifikazio leihoa azalduko du. Erabiltzaileen kodea KlikDB programaren bidez kontsultatu daiteke.
+
+
+#$K+
+{bmr mapa.bmp}MAPA_CONFIG>wmapa {bmc clic.bmp}   Erakusle automatikoa
+Ikusi...MORE_HELP_AUTOCUR
+
+
+Erakusle automatikoarekin ariketak egin ahal izango ditugu xagua erabiltzeke. Funtzio hau, ( gorputz diskapatzitateren bat duten pertsonei ) zuzenduta dago bereziki.
+
+Funtzio hau aktibatzeko Aukera orokorren elkarrizketaraHELP_CONFI. jo behar dugu.
+
+Erakusle automatikoa aktibatuta dagoenean, xaguaren erakuslek (puntero del ratón ?) leihoen laukitxoen artean salto egingo du. Klik egiteko laukitxo konkretu batean ondorengo era hauek erabil daitezke:
+
+{bmc brodo.bmp}	Espaziadorea, enter tekla edo tekladoaren edozein tekla sakatuz.
+{bmc brodo.bmp}	Xaguaren ezkerreko botoia sakatuz.
+
+Ariketak bi leiho baldin baditu, erakusleak salto egingo du kontrako leihora elkargoak egiteko.
+
+Erakuslearen salto-abiadura egoki daiteke Aukera orokorren elkarrizketanHELP_CONFI.
+
+
+Edozein momentutan xagua erabilgarri izango da. Erakusle automatikoaren funtzioa aktibatuko da, xaguaren azkenengo mugimendutik atzerapen denbora (tiempo de retardo?) pasatu denean.
+
+
+#$K+
+{bmr mapa.bmp}MAPA>wmapa {bmc clic.bmp}   Klik 3.0 bertsioaren berrikuntzak
+Ikusi...MORE_HELP_NOVETAT
+
+
+{bmc brodo.bmp}	Testu ariketakHELP_TXA orain arte ez zegoen ariketa mota bat da eta aukera desberdinak ematen ditu: Hutsuneak bete, testua osatu, letrak eta hitzak identifikatu eta hitzak eta parrafoak ordenatu. Ariketa hauetan laguntza leihoak ager daitezke eta erabiltzaileen erantzunak ebaluatzeko era desberdinak eskaintzen ditu.
+
+{bmc brodo.bmp}	Klikek txosten sistema berria dakar. Erabiltzaileek egindako ariketa guztiak gordetzen dira sistema honek erabiltzen duen datu-baseanHELP_CLICDB: Saioak, paketeak, ongi egindako ariketak, saiakerak, erabilitako denbora... Datu-baseak funtziona dezake sare baten barnean konektaturik, eta fitxategi bakar batean gordeko du erabiltzaile eta talde guztien informazioa kontutan hartu gabe saio bakoitzean zein ordenadore erabili den. KlikDB utilitateak aukera ematen digu datu-basearen mantenimendua egiteko eta aldagai desberdinetan oinarritutako informazio estatistikoa ateratzeko.
+
+{bmc brodo.bmp}	Ariketak inprimatuHELP_PRINT daitezke orain, eta orientazioa, irudiaren eskala, erakutsi beharreko elementuak... aukera daitezke. Ariketaren aukerak menuaren barnean inprimatzeko agindua zuzen-zuzenean ematen duen botoi berriaHELP_ACTOPT dugu orain.
+
+{bmc brodo.bmp}	Elkarketen kasuan, oraingoan, erlazioak esleitzeko leihoan alderantzizko ebazpenaHELP_ASSIGNA egiteko sistema aukera dezakegu.
+
+{bmc brodo.bmp}	Bertsio honetan puzzle bikoitzen kasuan kokapen erlatiboakHELP_EDITPUZ seinalatu daitezke A leihotik B leihoarekiko (orain arte aukera hau elkarketetan soilik egin zitekeen).
+
+{bmc brodo.bmp}	Aukera desberdinak daude makoen {} artean (multimedia edukiak eta agindu bereziakHELP_GRAFTX) deiak egiten dituzten gelaxketan:
+
+{bmc btri.bmp}	Soinu digitaleko fitxategien (WAV) interpretazio zatiak seinalatu daitezke, edo bideo digitalak (AVI), edota musikalak (MID). Egitura honek murriztuko ditu ariketekin doazen fitxategiak eta dei desberdinak eginen dizkio soinu fitxategi  edo  musikal bakar bati.
+
+{bmc btri.bmp}	Testu ariketetan gelaxka bereziak sortu daitezke eta haietan erabiltzaileak aukera izanen du bere ahotsa grabatzeko eta entzuteko, eta lehendik grabatutako, WAV fitxategian, eredu fonetikoekin konparatzeko. Klikek aukera emanen digu 10 "kasete birtual" erabiltzeko ariketa bakoitzean.
+
+{bmc btri.bmp}	Era berean kanpoko programei deiak egin daitezke gelaxketatik abiatuta, beti ere exekutagarria den fitxategia aipatzen dugula.
+
+{bmc btri.bmp}	Klik programa automatikoki bukatzeko aukera dugu orain gelaxka konkretu baten edukia egiten denean edo mezu konkretua ateratzen denean.
+
+{bmc brodo.bmp}	Bertsio berri honi esker karpeta desberdinetan dauden paketeak lotuHELP_CHAIN ditzakegu, eta horretarako lotzeko dauden aukeretan aipatu beharko dugu zein tokitan dauden. Adibidez, ..\hasiera.pac adierazpenak martxan ezarriko du automatikoki oraingoa baina maila beherago batean dagoen hasiera.pac izeneko fitxategia.
+
+{bmc brodo.bmp}	Aukera orokorrak izenekoan ere berrikuntzak daudeHELP_CONFI:
+
+{bmc btri.bmp}	Laguntzaren laguntza desaktibatu daiteke (galdera marka duen botoiari buruz ari gara hori aipatzen dugunean, normalean ariketen laguntzen leihoetan agertzen dena, eta Klikaren dokumentazioa zabaltzeko erabiltzen dena).
+
+{bmc btri.bmp}	Nahi izanez gero, Klikek erakutsi edo ezkutatuko du menuen barra ariketen paketea martxan jartzen dituen ikonoak sakatzean.
+
+{bmc btri.bmp}	Eta, nahi badugu Klik itxi eginen da normalean bukaera emateko onarpena eskatzen digun leihoa pantailaratu gabe.
+
+{bmc brodo.bmp}	Parametroen bidez egindako deiakHELP_PARAM aukera ematen digu Klik martxan jartzeko aukera orokorreko konfigurazio pertsonalekin.
+
+{bmc brodo.bmp}	Ariketen aukeren barnean atzeko aldeko irudiaHELP_ACTOPT aukera dezakegu pantailan agertzeko ( edo irudien tramarekin egindako mosaikoa)
+
+{bmc brodo.bmp}	Ariketen aukeretan aritzeko leihoaren kokapenaHELP_ACTOPT zehaztu dezakegu pantailan, atzeko aldeko irudia doi-doi sartzeko.
+
+{bmc brodo.bmp}	Ariketen aukeretan ere botoietarako hiru diseinu desberdinHELP_ACTOPT izanen ditugu eta nahi duguna aukera dezakegu.
+
+{bmc brodo.bmp}	Egiten diren ariketan txostenean aintzat hartzea ala ez aukera dezakegu ariketen aukeretan. Oso baliagarria izan daiteke aukera hau zenbait ariketatan, batez ere menu gisa funtzionatzen duten kasuan edota ebaluazio orokorrerako balio txikia duten kasuetan.
+
+{bmc brodo.bmp}	Ariketak 800x600 eta/edo 256 koloretan eginda badaude, nahi izanez gero, programak sistema frogatuko du eta erabiltzaileei abisu emanen die pantaila erresoluzio baxuagoetan konfiguratzeko.
+
+{bmc brodo.bmp}	Beste hobekuntzak ere egin dira ariketak sortzeko bidea errazten dutenak, esate baterako, zenbakizko kontrolen geziak progresiboki azeleratzeko.
+
+Klikari buruzko argibide, tresna, dokumentazio eta ariketa pakete eguneratuagoak Interneteko racó del Clic orrian aurkituko dituzue:
+
+http://www.xtec.es/recursos/clic
+
+#$K+
+{bmr mapa.bmp}MAPA_EDIT>wmapa {bmc clic.bmp}   Ariketak eta paketeak sortu eta editatu
+Ikusi...MORE_HELP_EDIT
+
+
+Ariketak eta pakete berriak sortzeko edo edukina aldatzeko, menuko Edizioa eta Fitxategian dagokion aukera hautatu behar da.
+
+Aukera hauek aktibatuta aurkituko dira KLIK.INIHELP_CLICINI fitxategian editagarria=bai parametroa adierazten bada. Ariketak edo paketeak KLIK-ek normalean erabiltzen ez dituen unitate edo direktorioetan sortu nahi badira, aldez aurretik Aukera OrokorrakHELP_CONFI elkarrizketa-koadroan adierazi behar da.
+
+Atal honetan gai hauei buruzko informazioa aurkituko duzue:
+
+Ariketa paketeak sortuHELP_EDITPAC
+Paketeen kateamenduaHELP_CHAIN
+Buruhausgarriak sortuHELP_EDITPUZ
+Elkarketak sortuHELP_EDITASS
+Erlazioak erabakiHELP_ASSIGNA
+Letra zopak sortuHELP_EDITSOP
+Gurutzegramak sortuHELP_EDITCRW
+Testu ariketak sortuHELP_EDITTXA
+Testu ariketetan ezezagunak definituHELP_INCOGNITA
+Ezezagunak automatikoki sortuHELP_AUTOINC
+Gelaxkak definituHELP_ZONES
+Ebaluatzeko aukerakHELP_EVALOP
+Ariketak edo paketeak gordeHELP_DESA
+Grafiko, musika, soinu eta beste multimedia baliabideak uztartuHELP_GRAFTX
+Grafikoak, multimedia baliabideak eta agindu bereziak uztartuHELP_GRAFTX
+Letra-tipoa aukeratuHELP_FONTS
+
+#$K+
+{bmr mapa.bmp}MAPA_EDIT>wmapa {bmc enrere1.bmp} {bmc avant1.bmp}   Ariketa paketeak sortu
+Ikusi...MORE_HELP_EDITPAC
+
+
+Ariketa paketeakTOPIC_PAQUET sortu edo editatzeko elkarrizketako ezkerreko zerrendatik ariketak gehitu ala kendu behar dira, botoi hauek erabiliz.
+ 
+>> Gehitu >>	Hautatutako ariketa paketean txertatzen du ezkerreko zerrendan. Ariketa berria eskuineko zerrendan hautatutako lerroaren ondoren lekutuko da edo paketearen bukaeran lerro hautatua ez badago.
+
+Kendu <<	Hautatutako ariketa eskuineko zerrendako paketetik kentzen du.
+
+Paketea osatzen duten ariketak unitate eta direktorio berean aurkitu behar dute edo sortutako azpidirektorioren batean. Lan direktorioa Aukera OrokorrakHELP_CONFI elkarrizketa- koadroan alda daiteke.
+
+Paketea osatuko duten ariketen zerrenda egin ondoren hurrengo aukerak ere egoki daitezke:
+
+Ariketen pauso automatikoa
+
+Aukera hau aktibatua badago, ariketa bukatzean automatikoki hurrengora pasatuko da.
+
+Atzerapena
+Atal honetan bukatu den ariketa eta hurrengoaren hasieraren artean atzerapen denbora (segundutan) adieraz daiteke aukeran. Balio hau Ariketen pauso automatikoa aukera aktibatzen denean bakarrik kontutan hartuko da.
+
+Ariketaz aldatzeko botoiak
+Ariketaz aldatzekoa botoiak pantailatik desagertzen dira aukera hau desaktibatua badago. Botoi hauek desaktiba daitezke Ariketen aldatze automatikoa aukera hautatu denean bakarrik.
+
+Gezi botoiak bereizturik
+Normalean gezi botoiak, hurrengo ariketara pasatzekoa, elkarturik eta pantailaren ezker aldean agertzen dira. Aukera hau aktibatuz gero, mezu-laukiaren bi aldeetan jarriko dira.
+
+UNITATE botoia
+Ariketa edo pakete berria kargatzekoHELP_CARREGA behar den botoia pantailatik desagertzen da aukera hau desaktibatua dagoenean.
+
+ATEA botoia
+Programatik irtetekoHELP_EXIT balio duen botoia pantailatik desagertzen da aukera hau desaktibatzen bada.
+
+Kateamendua
+Botoi hauek paketeko ariketen kateamenduarenHELP_CHAIN aukeren konfiguraziora bide ematen du.
+
+Frogatu 800x600
+Komenigarria izaten da gelaxka hau markatzea ongi ikusteko 800x600 konfigurazioa behar duten ariketak dituzten paketeetan. Programa berak abisua emanen du 640x480 konfigurazioa duten ordenagailuetan erabili nahi bada.
+
+Frogatu
+256 kolore
+Gelaxka honek frogatuko du ea Windows konfiguratuta dagoen gutxienezko 256 koloretako sakontasunerako. Programak abisua emanen du 16 koloretan erabili nahi bada.
+
+
+testSystem izeneko lerroak,  CLIC.INIHELP_CLICINI fitxategian dagoenak, aukera ematen du monitorearen erresoluzioa eta kolore kopuruari buruzko abisuak desaktibatzeko.
+
+
+#$K+
+{bmr mapa.bmp}MAPA_EDIT>wmapa {bmc enrere1.bmp} {bmc avant1.bmp}   Paketen kateamendua
+Ikusi...MORE_HELP_CHAIN
+
+
+"Kateamendua" botoiak ariketen paketea editatuHELP_EDITPAC dialogotik kateamenduko aukeretara sartzen uzten du.
+
+PaketeTOPIC_PAQUET baten azken ariketa amaitzean, KLIK-ek automatikoki beste bat ireki dezala agindu daiteke. Kateamendu honek bide bakar bat jarrai dezake, edo era ezberdinetan irtenbidea aurkitu, erabiltzaileek ariketetan lortutako emaitzaren arabera eta bere ebazpenan erabilitako denboraren arabera. Emaitzen balorapen orokorra portzentaiki egiten da ariketaren txostenHELP_REPORT atalean adierazitako irizpideen arabera.
+
+
+Berezko kateamendua
+Editatzen ari den paketeko kateamendu automatikoa adierazteko berezko kateamendua aukera aktibatu behar da eta bertan agertzen den pakete-izena aukeratu. Pakete bat bi aldiz kateatu daiteke, eta  aktibitateen multzo jarraia lortuko da. 
+
+Behe mailako kateamendua
+Erabiltzaileak adierazitako balorea baino gutxiago lortzen duenean, kateamendu desberdinak programa daitezke. Hori egiteko, behe mailako kateamendua aukera aktibatu, balorazio orokorreko arloa kateamendu horrek eragingo duen gehienezko emaitza finkatu eta paketearen izena goiti-beherako zerrendan aukeratu behar da. Aukeran gehienezko denbora ere , bai arloan nola denboran, paketea burutzeko jar daiteke.
+
+Gehienezko denbora gainditzen bada edo balorazio orokorra adieratzitakoa baino txikiagoa lortzen bada, behe mailako kateamendua egingo da.
+
+Goi mailako kateamendua
+Balorazio orokorrak adierazitakoa gainditzen badu, goi mailako kateamendua ere jar daiteke. Balorazio orokorra arloan kateamendu honetara sartzeko gutxienezko emaitza adierazten da. Aukeran, gutxienezko denbora paketea burutzeko, bai arloan nola denboran, jar daiteke.
+
+Goi mailako kateamendua egingo da baldin eta erabiltzaileak adierazitako emaitza baino gehiago lortzen badu eta adierazitako denboran baino gutxiagoan burutzen badu paketea.
+
+
+Paketearen ekintzak burutzeko, lortutako balorazioak eta erabilitako denborak ez badituzte betetzen goi mailako edo behe mailako kateamenduetarako adierazitako baldintzak, orduan berezko kateamendua egingo da. 
+
+Zabaltzen diren zerrenda hauetan laneko karpetan dauden paketeak eta haietatik zintzilikan daudenak agertzen direnak agertu dira bakar-bakarrik. Beheko mailako karpetan dagoen pakete bat kateatu nahi badugu haren kokapen erlatiboa idatzi beharko dugu bi puntuak erabilita zuhaitzean behera joateko. Adibidez,  ..\hasiera.pac adierazpenak kateatu eginen digu sortu edo aldatu nahi dugun paketea aurreko edo beheko mailan dagoen hasiera.pac paketearekin.
+
+
+#$K+
+{bmr mapa.bmp}MAPA_EDIT_PUZ>wmapa {bmc puzzle1.bmp}   Buruhausgarriak sortu
+Ikusi...MORE_HELP_EDITPUZ
+
+
+BuruhausgarriTOPIC_PUZZLE bat sortzeko edo aldatzeko hurrengo parametroak doitu behar dira:
+
+{bml mboff.bmp}H_P_CONT	Edukina
+{bml mboff.bmp}H_P_MOD	Modalitatea
+{bml mboff.bmp}H_P_DIV	Banaketak
+{bml mboff.bmp}H_P_POS	Kokapena
+{bml mboff.bmp}H_P_MISS	Mezuak
+{bml mboff.bmp}H_P_FONT	Letra mota
+{bml mboff.bmp}H_P_OPS	Aukerak
+
+
+#$
+{bmr mapa.bmp}MAPA_EDIT_PUZ>wmapa {bmc puzzle1.bmp}   Buruhausgarriak sortu
+Ikusi...MORE_HELP_EDITPUZ
+
+
+BuruhausgarriTOPIC_PUZZLE bat sortzeko edo aldatzeko hurrengo parametroak doitu behar dira:
+
+{bml mbon.bmp}HELP_EDITPUZ	Edukina
+Buruhausgariren edukina irudia edo testua  izan daiteke. TestuTOPIC_TEXT edo irudiTOPIC_BITMAP berri bat sortu nahi badugu, zerrendan TESTU BERRIA edo IRUDI BERRIA aukera hautatu behar da. 
+Edukina editatu botoiaz PaintbrushTOPIC_PAINTBRUSH edo Ohar BlokaTOPIC_NOTEPAD programak aktiba daitezke hautatutako testua edo irudia sortu edo aldatzeko.
+
+{bml mboff.bmp}H_P_MOD	Modalitatea
+{bml mboff.bmp}H_P_DIV	Banaketak
+{bml mboff.bmp}H_P_POS	Kokapena
+{bml mboff.bmp}H_P_MISS	Mezuak
+{bml mboff.bmp}H_P_FONT	Letra mota
+{bml mboff.bmp}H_P_OPS	Aukerak
+
+
+#$
+{bmr mapa.bmp}MAPA_EDIT_PUZ>wmapa {bmc puzzle1.bmp}   Buruhausgarriak sortu
+Ikusi...MORE_HELP_EDITPUZ
+
+
+BuruhausgarriTOPIC_PUZZLE bat sortzeko edo aldatzeko hurrengo parametroak doitu behar dira:
+ 
+{bml mboff.bmp}H_P_CONT	Edukina
+{bml mbon.bmp}HELP_EDITPUZ	Modalitatea
+Aukera lauki honetan, KLIK -ek erabiltzen duen buruhausgarri mota bat aukeratu behar da: elkartrukeaTOPIC_INTERCANVI, hutsuneTOPIC_FORAT, bikoitzaTOPIC_DOBLE edo memoria.TOPIC_MEMORY
+
+{bml mboff.bmp}H_P_DIV	Banaketak
+{bml mboff.bmp}H_P_POS	Kokapena
+{bml mboff.bmp}H_P_MISS	Mezuak
+{bml mboff.bmp}H_P_FONT	Letra mota
+{bml mboff.bmp}H_P_OPS	Aukerak
+
+
+#$
+{bmr mapa.bmp}MAPA_EDIT_PUZ>wmapa {bmc puzzle1.bmp}   Buruhausgarriak sortu
+Ikusi...MORE_HELP_EDITPUZ
+
+
+BuruhausgarriTOPIC_PUZZLE bat sortzeko edo aldatzeko hurrengo parametroak doitu behar dira:
+
+{bml mboff.bmp}H_P_CONT	Edukina
+{bml mboff.bmp}H_P_MOD	Modalitatea
+{bml mbon.bmp}HELP_EDITPUZ	Banaketak
+Hemen, aukeratutako testua edo irudia zenbat zatitan banatuko diren bertikal eta horizontaleko gelaxken kopurua zehaztu behar da. Irudia trinkotu aukerak ziurtatzen du ezarritako lekuan buruhausgarria egiteko grafikoa mozketarik gabe sartuko dela.
+
+{bml mboff.bmp}H_P_POS	Kokapena
+{bml mboff.bmp}H_P_MISS	Mezuak
+{bml mboff.bmp}H_P_FONT	Letra mota
+{bml mboff.bmp}H_P_OPS	Aukerak
+
+
+#$
+{bmr mapa.bmp}MAPA_EDIT_PUZ>wmapa {bmc puzzle1.bmp}   Buruhausgarriak sortu
+Ikusi...MORE_HELP_EDITPUZ
+
+
+BuruhausgarriTOPIC_PUZZLE bat sortzeko edo aldatzeko hurrengo parametroak doitu behar dira:
+
+{bml mboff.bmp}H_P_CONT	Edukina
+{bml mboff.bmp}H_P_MOD	Modalitatea
+{bml mboff.bmp}H_P_DIV	Banaketak
+{bml mbon.bmp}HELP_EDITPUZ	Kokapena
+Sekzio honetan "A" eta "B" leihoetako kokapen fisikoa zehazten da pantailan, bakar-bakarrik buruhausgarri Bikoitzaren modalitatean TOPIC_DOBLE. KLIK-ek zehaztuko du automatikoki leihoen tamaina laneko espazioaren arabera. Leihoen kokapenak ere eragina izanen du bi leihoek bukaeran izanen dituzten dimentsioetan.
+{bml mboff.bmp}H_P_MISS	Mezuak
+{bml mboff.bmp}H_P_FONT	Letra mota
+{bml mboff.bmp}H_P_OPS	Aukerak
+
+
+#$
+{bmr mapa.bmp}MAPA_EDIT_PUZ>wmapa {bmc puzzle1.bmp}   Buruhausgarriak sortu
+Ikusi...MORE_HELP_EDITPUZ
+
+
+BuruhausgarriTOPIC_PUZZLE bat sortzeko edo aldatzeko hurrengo parametroak doitu behar dira:
+
+{bml mboff.bmp}H_P_CONT	Edukina
+{bml mboff.bmp}H_P_MOD	Modalitatea
+{bml mboff.bmp}H_P_DIV	Banaketak
+{bml mboff.bmp}H_P_POS	Kokapena
+{bml mbon.bmp}HELP_EDITPUZ	Mezuak
+Ariketa abiaraztean edo bukatzean agertuko diren mezuak hemen adierazten dira. Hemen ere  irudiakTOPIC_BITMAP, soinuakTOPIC_WAV, musikaTOPIC_MIDI eta beste multimedia baliabideakTOPIC_MCI jar ditzakezue, Grafiko, musika, soinu eta beste multimedia baliabideak uztartuHELP_GRAFTX kapituluan argitzen den bezala.
+
+{bml mboff.bmp}H_P_FONT	Letra mota
+{bml mboff.bmp}H_P_OPS	Aukerak
+
+
+#$
+{bmr mapa.bmp}MAPA_EDIT_PUZ>wmapa {bmc puzzle1.bmp}   Buruhausgarriak sortu
+Ikusi...MORE_HELP_EDITPUZ
+
+
+BuruhausgarriTOPIC_PUZZLE bat sortzeko edo aldatzeko hurrengo parametroak doitu behar dira:
+
+{bml mboff.bmp}H_P_CONT	Edukina
+{bml mboff.bmp}H_P_MOD	Modalitatea
+{bml mboff.bmp}H_P_DIV	Banaketak
+{bml mboff.bmp}H_P_POS	Kokapena
+{bml mboff.bmp}H_P_MISS	Mezuak
+{bml mbon.bmp}HELP_EDITPUZ	Letra mota
+Botoi honetan, testua azaltzeko erabiliko den kolore eta letra motaHELP_FONTS aukera daitezke.
+
+{bml mboff.bmp}H_P_OPS	Aukerak
+
+
+#$
+{bmr mapa.bmp}MAPA_EDIT_PUZ>wmapa {bmc puzzle1.bmp}   Buruhausgarriak sortu
+Ikusi...MORE_HELP_EDITPUZ
+
+
+BuruhausgarriTOPIC_PUZZLE bat sortzeko edo aldatzeko hurrengo parametroak doitu behar dira:
+
+{bml mboff.bmp}H_P_CONT	Edukina
+{bml mboff.bmp}H_P_MOD	Modalitatea
+{bml mboff.bmp}H_P_DIV	Banaketak
+{bml mboff.bmp}H_P_POS	Kokapena
+{bml mboff.bmp}H_P_MISS	Mezuak
+{bml mboff.bmp}H_P_FONT	Letra mota
+{bml mbon.bmp}HELP_EDITPUZ	Aukerak
+Botoi hau aktibatuz Ariketaren aukerakHELP_ACTOPT dialogora joaten da
+
+
+#$K+
+{bmr mapa.bmp}MAPA_EDIT_PUZ>wmapa {bmc associa1.bmp}   Elkarketak sortu
+Ikusi...MORE_HELP_EDITASS
+
+
+ElkarketakTOPIC_ASSOCIA sortzeko edo aldatzeko hurrengo parametroak doitu behar dira:
+
+{bml mboff.bmp}H_A_TIPUS	Mota
+{bml mboff.bmp}H_A_GRA	"A" eta "B" leihoak
+{bml mboff.bmp}H_A_SOLA	"A" leihorako ebazpidea
+{bml mboff.bmp}H_A_DIM	Neurriak
+{bml mboff.bmp}H_A_POS	Kokapena
+{bml mboff.bmp}H_A_MISS	Mezuak
+{bml mboff.bmp}H_A_FONT	Letra mota
+{bml mboff.bmp}H_A_ASS	Erlazioak erabaki
+{bml mboff.bmp}H_A_OPS	Aukerak
+
+
+#$
+{bmr mapa.bmp}MAPA_EDIT_ASS>wmapa {bmc associa1.bmp}   Elkarketak sortu
+Ikusi...MORE_HELP_EDITASS
+
+
+ElkarketakTOPIC_ASSOCIA sortzeko edo aldatzeko hurrengo parametroak doitu behar dira:
+
+{bml mbon.bmp}HELP_EDITASS	Mota
+Atal honetan sortzen edo aldatzen den zer nolako elkarketa mota zehazten da. KLIKek onatzen dituen elkarketen mota ezberdinak hauexek dira:
+Elkarketa arruntaHELP_ASSNORM
+elkarketa konplexuaHELP_ASSREL
+Identifikazio ariketaHELP_IDENT
+Araketa ariketaHELP_EXPLORE
+Idatzizko erantzuna ariketaHELP_ESCRIU
+Argibide pantailaHELP_INFO
+
+{bml mboff.bmp}H_A_GRA	"A" eta "B" leihoak
+{bml mboff.bmp}H_A_SOLA	"A" leihorako ebazpidea
+{bml mboff.bmp}H_A_DIM	Neurriak
+{bml mboff.bmp}H_A_POS	Kokapena
+{bml mboff.bmp}H_A_MISS	Mezuak
+{bml mboff.bmp}H_A_FONT	Letra mota
+{bml mboff.bmp}H_A_ASS	Erlazioak erabaki
+{bml mboff.bmp}H_A_OPS	Aukerak
+
+
+#$
+{bmr mapa.bmp}MAPA_EDIT_ASS>wmapa {bmc associa1.bmp}   Elkarketak sortu
+Ikusi...MORE_HELP_EDITASS
+
+
+ElkarketakTOPIC_ASSOCIA sortzeko edo aldatzeko hurrengo parametroak doitu behar dira:
+
+{bml mboff.bmp}H_A_TIPUS	Mota
+{bml mbon.bmp}HELP_EDITASS	"A" eta "B" leihoak
+Elkarketan parte hartzen duten leihoen edukina irudia edo testua izan daiteke. TestuTOPIC_TEXT edo irudiTOPIC_BITMAP berri bat sortu nahi badugu, zerrendan TESTU BERRIA edo IRUDI BERRIA aukera hautatu behar da. 
+Edukina editatu botoiaz PaintbrushTOPIC_PAINTBRUSH edo "Ohar BlokTOPIC_NOTEPAD" delakoa programak aktiba daitezke hautatutako testua edo irudia sortu edo aldatzeko. Testua eta irudiak erlazionatzen elkarketa arruntaHELP_ASSNORM editatzean kontutan hartu behar da irudiaren elementuen ordena ezkerretik eskuinera eta goitik behera joaten dela. Beste ordena mota erabiltzen nahi bada, edota elkarketa biyektiba ez bada, Elkarketa konplexuaHELP_ASSREL mota aukeratu behar da. Argibide pantailaHELP_INFO eta IdentifikazioHELP_IDENT ariketetan A leihoaren edukina soilik zehaztu behar da.
+Idatzizko erantzunaHELP_ESCRIU ariketetan B leihoaren edukina testu motarena izan behar da beti.
+
+{bml mboff.bmp}H_A_SOLA	"A" leihorako ebazpidea
+{bml mboff.bmp}H_A_DIM	Neurriak
+{bml mboff.bmp}H_A_POS	Kokapena
+{bml mboff.bmp}H_A_MISS	Mezuak
+{bml mboff.bmp}H_A_FONT	Letra mota
+{bml mboff.bmp}H_A_ASS	Erlazioak erabaki
+{bml mboff.bmp}H_A_OPS	Aukerak
+
+
+#$
+{bmr mapa.bmp}MAPA_EDIT_ASS>wmapa {bmc associa1.bmp}   Elkarketak sortu
+Ikusi...MORE_HELP_EDITASS
+
+
+ElkarketakTOPIC_ASSOCIA sortzeko edo aldatzeko hurrengo parametroak doitu behar dira:
+
+{bml mboff.bmp}H_A_TIPUS	Mota
+{bml mboff.bmp}H_A_GRA	"A" eta "B" leihoak
+{bml mbon.bmp}HELP_EDITASS	"A" leihorako ebazpidea
+Normalki, parekatze bat ebazterakoan A leihorako gelaxkako hondoa grisa kolorez geratzen da. Atal honetan, aukeran, A leihoan bere elementuak ebazten diren neurrian agertuko den edukin fitxategia zehaztu daiteke. Edukin hau testu fitxategia bada urdinez idatzita agertuko da, gelaxka ebatziak eta ez ebatziak ezberdintzeko.
+Aukera hau Argibide pantailaHELP_INFO eta ArakatzeHELP_EXPLORE ariketetan ezin da erabili.
+Egin klik hemen "A" leihorako ebazpidea fitxategia erantsi duen ariketaren adibidea ikusteko.!EP("clic.exeCLIC:\\act\\demo\\ass02.ass",0)
+
+{bml mboff.bmp}H_A_DIM	Neurriak
+{bml mboff.bmp}H_A_POS	Kokapena
+{bml mboff.bmp}H_A_MISS	Mezuak
+{bml mboff.bmp}H_A_FONT	Letra mota
+{bml mboff.bmp}H_A_ASS	Erlazioak erabaki
+{bml mboff.bmp}H_A_OPS	Aukerak
+
+
+#$
+{bmr mapa.bmp}MAPA_EDIT_ASS>wmapa {bmc associa1.bmp}   Elkarketak sortu
+Ikusi...MORE_HELP_EDITASS
+
+
+ElkarketakTOPIC_ASSOCIA sortzeko edo aldatzeko hurrengo parametroak doitu behar dira:
+
+{bml mboff.bmp}H_A_TIPUS	Mota
+{bml mboff.bmp}H_A_GRA	"A" eta "B" leihoak
+{bml mboff.bmp}H_A_SOLA	"A" leihorako ebazpidea
+{bml mbon.bmp}HELP_EDITASS	Neurriak
+Hemen, A leihoaren edukina zenbat zatitan banatuko den bertikal eta horizontaleko gelaxken kopurua zehaztu behar da. B leihoak gelaxken kopuru ezberdina eduki dezala nahi baduzue, Elkarketa konplexuHELP_ASSREL motatako ariketa aukeratu ezazue eta erlazioak erabakiHELP_ASSIGNA arloa kontsulta ezazue.
+Aukeratu behar duzue baita ere, ea ariketa abiaraztean nahastu behar diren A leihoa, B leihoa ala biak.
+
+{bml mboff.bmp}H_A_POS	Kokapena
+{bml mboff.bmp}H_A_MISS	Mezuak
+{bml mboff.bmp}H_A_FONT	Letra mota
+{bml mboff.bmp}H_A_ASS	Erlazioak erabaki
+{bml mboff.bmp}H_A_OPS	Aukerak
+
+
+#$
+{bmr mapa.bmp}MAPA_EDIT_ASS>wmapa {bmc associa1.bmp}   Elkarketak sortu
+Ikusi...MORE_HELP_EDITASS
+
+
+ElkarketakTOPIC_ASSOCIA sortzeko edo aldatzeko hurrengo parametroak doitu behar dira:
+
+{bml mboff.bmp}H_A_TIPUS	Mota
+{bml mboff.bmp}H_A_GRA	"A" eta "B" leihoak
+{bml mboff.bmp}H_A_SOLA	"A" leihorako ebazpidea
+{bml mboff.bmp}H_A_DIM	Neurriak
+{bml mbon.bmp}HELP_EDITASS	Kokapena
+Arlo honetan, pantailan A eta B leihoen kokapen fisikoa aukeratzen da. KLIK-ek automatikoki leihoen neurriak lan azaleko tokira doitzen ditu. Leihoen kokapena eragin izan daiteke neurri hauetan.
+
+{bml mboff.bmp}H_A_MISS	Mezuak
+{bml mboff.bmp}H_A_FONT	Letra mota
+{bml mboff.bmp}H_A_ASS	Erlazioak erabaki
+{bml mboff.bmp}H_A_OPS	Aukerak
+
+
+#$
+{bmr mapa.bmp}MAPA_EDIT_ASS>wmapa {bmc associa1.bmp}   Elkarketak sortu
+Ikusi...MORE_HELP_EDITASS
+
+
+ElkarketakTOPIC_ASSOCIA sortzeko edo aldatzeko hurrengo parametroak doitu behar dira:
+
+{bml mboff.bmp}H_A_TIPUS	Mota
+{bml mboff.bmp}H_A_GRA	"A" eta "B" leihoak
+{bml mboff.bmp}H_A_SOLA	"A" leihorako ebazpidea
+{bml mboff.bmp}H_A_DIM	Neurriak
+{bml mboff.bmp}H_A_POS	Kokapena
+{bml mbon.bmp}HELP_EDITASS	Mezuak
+Ariketa abiaraztean edo bukatzean agertuko diren mezuak hemen adierazten dira. Hemen ere  irudiakTOPIC_BITMAP, soinuakTOPIC_WAV, musikaTOPIC_MIDI eta beste multimedia baliabideakTOPIC_MCI jar ditzakezue, Grafiko, musika, soinu eta beste multimedia baliabideak uztartuHELP_GRAFTX arloan argintzen den bezala.
+
+{bml mboff.bmp}H_A_FONT	Letra mota
+{bml mboff.bmp}H_A_ASS	Erlazioak erabaki
+{bml mboff.bmp}H_A_OPS	Aukerak
+
+
+#$
+{bmr mapa.bmp}MAPA_EDIT_ASS>wmapa {bmc associa1.bmp}   Elkarketak sortu
+Ikusi...MORE_HELP_EDITASS
+
+
+ElkarketakTOPIC_ASSOCIA sortzeko edo aldatzeko hurrengo parametroak doitu behar dira:
+
+{bml mboff.bmp}H_A_TIPUS	Mota
+{bml mboff.bmp}H_A_GRA	"A" eta "B" leihoak
+{bml mboff.bmp}H_A_SOLA	"A" leihorako ebazpidea
+{bml mboff.bmp}H_A_DIM	Neurriak
+{bml mboff.bmp}H_A_POS	Kokapena
+{bml mboff.bmp}H_A_MISS	Mezuak
+{bml mbon.bmp}HELP_EDITASS	Letra mota
+Botoi honetan, testua azaltzeko erabiliko den kolore eta letra motaHELP_FONTS aukera daitezke.
+
+{bml mboff.bmp}H_A_ASS	Erlazioak erabaki
+{bml mboff.bmp}H_A_OPS	Aukerak
+
+
+#$
+{bmr mapa.bmp}MAPA_EDIT_ASS>wmapa {bmc associa1.bmp} Elkarketak sortu 
+Ikusi...MORE_HELP_EDITASS
+
+
+ElkarketakTOPIC_ASSOCIA sortzeko edo aldatzeko hurrengo parametroak doitu behar dira:
+ 
+{bml mboff.bmp}H_A_TIPUS	Mota 
+{bml mboff.bmp}H_A_GRA	"A" eta "B" leihoak 
+{bml mboff.bmp}H_A_SOLA	"A" leihorako ebazpidea 
+{bml mboff.bmp}H_A_DIM	Neurriak 
+{bml mboff.bmp}H_A_POS	Kokapena 
+{bml mboff.bmp}H_A_MISS	Mezuak 
+{bml mboff.bmp}H_A_FONT	Letra mota 
+{bml mbon.bmp}HELP_EDITASS	Erlazioak erabaki 
+Elkarketa konplexuetanHELP_ASSIGNA, identifikazioHELP_IDENT eta arakatzekoHELP_EXPLORE ariketetan erlazioak erabakiHELP_ASSIGNA zehazteko erabiltzen da botoi hau. Erlazioak erabakitzeko ariketa-adibide bat ikusi nahi baduzue, klik egin hemen.!EP("clic.exeCLIC:\\act\\demo\\ass06.ass",0) Parekatzeak nola erabaki izan diren ikusi ahal izateko ekintza editatu.
+
+{bml mboff.bmp}H_A_OPS	Aukerak 
+
+
+#$
+{bmr mapa.bmp}MAPA_EDIT_ASS>wmapa {bmc associa1.bmp}      Elkarketak sortu 
+Ikusi...MORE_HELP_EDITASS
+
+
+ElkarketakTOPIC_ASSOCIA sortzeko edo aldatzeko hurrengo parametroak doitu behar dira:
+ 
+{bml mboff.bmp}H_A_TIPUS	Mota 
+{bml mboff.bmp}H_A_GRA	"A" eta "B" leihoak 
+{bml mboff.bmp}H_A_SOLA	"A" leihorako ebazpidea 
+{bml mboff.bmp}H_A_DIM	Neurriak 
+{bml mboff.bmp}H_A_POS	Kokapena 
+{bml mboff.bmp}H_A_MISS	Mezuak 
+{bml mboff.bmp}H_A_FONT	Letra mota 
+{bml mboff.bmp}H_A_ASS	Erlazioak erabaki 
+{bml mbon.bmp}HELP_EDITASS	Aukerak
+Botoi hau aktibatuz ariketaren aukerakHELP_ACTOPT dialogora joaten da 
+
+
+#$K+
+{bmr mapa.bmp}MAPA_EDIT>wmapa {bmc assigna1.bmp}    Erlazioak erabaki 
+Ikusi...MORE_HELP_ASSIGNA
+
+
+Elkarketa konplexuHELP_ASSREL, IdentifikazioHELP_IDENT eta araketaHELP_EXPLORE ariketetan "A" leihoaren gelaxken parekatze-adierazpena egin behar da.
+Elkarrizketa honetan erlazio erabaki hau egiten da.
+
+"B" leihoaren banaketa 
+Elkarketa konplexuetanHELP_ASSREL "A" eta "B" leihoetarako gelaxken kopuru desberdina adieraz daiteke. AriketaHELP_EXPLORE ariketetan pantailan leiho bakar bat azalduko da eta elkarketa egingo da banaketa mugatua erakutsiko duen multzo birtualaren gainean. IdentifikazioHELP_IDENT ariketetan "A" leihoaren elementuei bi balio eslei diezaiekegu: "Bai" eta "Ez".
+
+
+Alderantzizko ebazpena
+Normalean elkarketa ebatzita izaten da A leihoko elementu guztiak ("ez esleitutako gelaxka" marka dutenak izan ezik) B leihoko elementuren batekin parekaturik daudenean. Gelaxka hau aktibatuz gero, ebaluatzeko mekanismoa beste era batera dabil: nahikoa da B leihoko elementu guztiak A leihoko elementuren batekin parekaturik izatea ariketa ebatzita egoteko.
+Aukera hau oso baliagarria izaten da A leihoko edukia grafikoa zatitua denean eta parekaturik dagoenean B leihoko beste zatiekin (mapak, grafikoak...).
+
+Iturri-leihoa eta irudi-leihoa 
+Leku jakin honetan bi leihoen edukina irudika daiteke. Bikoteak egiteko iturri-leihoaren gelaxkak aukeratu behar dira eta eskuinaldean irudi-leihoari dagokiona seinalatu. Iturri-elementu bakoitzak irudi-elementu bakar bat eskuratuko du baina posible da irudi-elementuek parekatuak ez izatea edota bi irudi-elementu edo gehiagorekin parekatuak egotea.
+
+Erabakia ez den gelaxka 
+Baliteke A leihoaren gelaxkaren bat erabakitzeke uztea. Egoera hau oso egokia da bi grafiko ezberdinen zati zehaztuen arteko elkarketak egin behar denean eta ez zaigunean interesatzen iturri irudiaren geratzen dena erabakitzea.
+Erabakiak ez diren gelaxkak , automatikoki, ebaztuak bezala  	onartzen dira, erabiltzaileak parte har ez dezan. Honek adierazten du hondoa grisa kolorez agertuko dela, ariketak editatu dialogotik A leihorako ebazpideaH_A_SOLA arloan  edukinen bat ez badugu aukeratzen. Ebazpide arloa aktibatzea gomendatzen da erabakia ez den gelaxkaren batekin ariketak sortzen direnean.
+
+Uneko aukeraketarekin dena lotu 
+Botoi honi sakatuz, "A" leihoaren gelaska guztiak markatuak dauden "B" leihoaren gelaskekin parekatuak geldituko dira. Funtzio hau erabilgarria izango da, batez ere, elementu askotako eta balio berbereko elkarketa batean parekatze-prozesua hasi nahi dugunean. 
+
+Erlazioak erabakitzeko ariketa-adibide bat ikusi nahi baduzue, klik egin hemen.!EP("clic.exeCLIC:\\act\\demo\\ass06.ass",0). Parekatzeak nola erabaki izan diren ikusi ahal izateko ekintza editatu.
+
+#$K+
+{bmr mapa.bmp}MAPA_EDIT_SOP>wmapa {bmc sopa1.bmp}   Letra zopak sortu
+Ikusi...MORE_HELP_EDITSOP
+
+
+Letra zopakTOPIC_SOPA sortzeko edo aldatzeko hurrengo parametroak doitu behar dira.
+ 
+{bml mboff.bmp}H_S_SL	Letra zopa 
+{bml mboff.bmp}H_S_PA	Hitz ezkutatuak 
+{bml mboff.bmp}H_S_GD	Eskuineko leihoa 
+{bml mboff.bmp}H_S_MISS	Mezuak 
+{bml mboff.bmp}H_S_FONT	Letra mota 
+{bml mboff.bmp}H_S_OPS	Aukerak 
+
+
+#$
+{bmr mapa.bmp}MAPA_EDIT_SOP>wmapa {bmc sopa1.bmp}   Letra zopak sortu 
+Ikusi...MORE_HELP_EDITSOP
+
+
+Letra zopakTOPIC_SOPA sortzeko edo aldatzeko hurrengo parametroak doitu behar dira.
+ 
+{bml mbon.bmp}HELP_EDITSOP	Letra zopa 
+Atal honetan letra zopak zehazten dira. Hitzak , horizontal, bertikal edo saietsean banatu behar dira, hutsuneak asteriskoz markatuz; programak beteko ditu zorian aukeratutako hizkiaz. Zutabeak eta lerroak gelaxketan letra zopako leihoaren neurriak adierazten behar dira.
+
+{bml mboff.bmp}H_S_PA	Hitz ezkutatuak 
+{bml mboff.bmp}H_S_GD	Eskuineko leihoa 
+{bml mboff.bmp}H_S_MISS	Mezuak 
+{bml mboff.bmp}H_S_FONT	Letra mota 
+{bml mboff.bmp}H_S_OPS	Aukerak 
+
+
+#$
+{bmr mapa.bmp}MAPA_EDIT_SOP>wmapa {bmc sopa1.bmp}   Letra zopak sortu 
+Ikusi...MORE_HELP_EDITSOP
+
+
+Letra zopakTOPIC_SOPA sortzeko edo aldatzeko hurrengo parametroak doitu behar dira.
+
+{bml mboff.bmp}H_S_SL	Letra zopa 
+{bml mbon.bmp}HELP_EDITSOP	Hitz ezkutatuak
+Atal honetan leihoan izkutatu diren hitzak aipatu behar dira, lerro bakoitzean hitza bat idatziz. Eskuineko leihoa aukera aktibatu bada, hitz izkutatuen ordena irudi edo testuaren gelaxkekin loturik egon behar da, ezkerretik eskuinera, eta goitik behera.
+
+{bml mboff.bmp}H_S_GD	Eskuineko leihoa 
+{bml mboff.bmp}H_S_MISS	Mezuak 
+{bml mboff.bmp}H_S_FONT	Letra mota 
+{bml mboff.bmp}H_S_OPS	Aukerak 
+
+
+#$
+{bmr mapa.bmp}MAPA_EDIT_SOP>wmapa {bmc sopa1.bmp}   Letra zopak sortu
+Ikusi...MORE_HELP_EDITSOP
+
+
+Letra zopakTOPIC_SOPA sortzeko edo aldatzeko hurrengo parametroak doitu behar dira.
+
+{bml mboff.bmp}H_S_SL	Letra zopa 
+{bml mboff.bmp}H_S_PA	Hitz ezkutatuak 
+{bml mbon.bmp}HELP_EDITSOP	Eskuineko leihoa 
+Elementu hau aktibatu bada, zopa letrako hitzak teztu edo irudi baten zatiekin elkarturik egongo dira. TestuTOPIC_TEXT edo irudiTOPIC_BITMAP berri bat sortu nahi bada, zerrendan TESTU BERRIA edo IRUDI BERRIA aukera hautatu behar da.
+Edukin editatu botoiaz PaintbrushTOPIC_PAINTBRUSH edo Ohar BlokalTOPIC_NOTEPAD programak aktibatzen dira testu edo irudi aukeratua editatzeko.
+
+Atal honetan ere irudia edo testua zatituko den horizontal eta bertikal gelaxken kopurua zehazten da. Komenigarria da gelaxken kopurua eta izkutatuko hitzen kopurua berdina izatea.
+
+{bml mboff.bmp}H_S_MISS	Mezuak 
+{bml mboff.bmp}H_S_FONT	Letra mota 
+{bml mboff.bmp}H_S_OPS	Aukerak 
+
+
+#$
+{bmr mapa.bmp}MAPA_EDIT_SOP>wmapa {bmc sopa1.bmp}   Letra zopak sortu
+Ikusi...MORE_HELP_EDITSOP
+
+
+Letra zopakTOPIC_SOPA sortzeko edo aldatzeko hurrengo parametroak doitu behar dira.
+
+{bml mboff.bmp}H_S_SL	Letra zopa 
+{bml mboff.bmp}H_S_PA	Hitz ezkutatuak 
+{bml mboff.bmp}H_S_GD	Eskuineko leihoa 
+{bml mbon.bmp}HELP_EDITSOP	Mezuak 
+Ariketa abiaraztean edo bukatzean agertuko diren mezuak hemen adierazten dira. Hemen ere  irudiakTOPIC_BITMAP, soinuakTOPIC_WAV, musikaTOPIC_MIDI eta beste multimediaTOPIC_MCI baliabideak jar ditzakezue, grafiko, musika, soinu eta beste multimedia baliabideak uztartuHELP_GRAFTX arloan argitzen den bezala
+
+{bml mboff.bmp}H_S_FONT	Letra mota 
+{bml mboff.bmp}H_S_OPS	Aukerak 
+
+
+#$
+{bmr mapa.bmp}MAPA_EDIT_SOP>wmapa {bmc sopa1.bmp}   Letra zopak sortu
+Ikusi...MORE_HELP_EDITSOP
+
+
+Letra zopakTOPIC_SOPA sortzeko edo aldatzeko hurrengo parametroak doitu behar dira.
+
+{bml mboff.bmp}H_S_SL	Letra zopa 
+{bml mboff.bmp}H_S_PA	Hitz ezkutatuak 
+{bml mboff.bmp}H_S_GD	Eskuineko leihoa 
+{bml mboff.bmp}H_S_MISS	Mezuak
+{bml mbon.bmp}HELP_EDITSOP	Letra mota 
+Botoi honetan, testua azaltzeko erabiliko den kolore eta letra motaHELP_FONTS aukera daitezke 
+
+{bml mboff.bmp}H_S_OPS	Aukerak 
+
+
+#$
+{bmr mapa.bmp}MAPA_EDIT_SOP>wmapa {bmc sopa1.bmp}   Letra zopak sortu
+Ikusi...MORE_HELP_EDITSOP
+
+
+Letra zopakTOPIC_SOPA sortzeko edo aldatzeko hurrengo parametroak doitu behar dira.
+
+{bml mboff.bmp}H_S_SL	Letra zopa 
+{bml mboff.bmp}H_S_PA	Hitz ezkutatuak 
+{bml mboff.bmp}H_S_GD	Eskuineko leihoa 
+{bml mboff.bmp}H_S_MISS	Mezuak 
+{bml mboff.bmp}H_S_FONT	Letra mota 
+{bml mbon.bmp}HELP_EDITSOP	Aukerak 
+Botoi hau aktibatuz gero ariketaren aukerakHELP_ACTOPT dialogora joaten da
+
+
+#$K+
+{bmr mapa.bmp}MAPA_EDIT_CRW>wmapa {bmc creuats1.bmp}   Gurutzegramak sortu
+Ikusi...MORE_HELP_EDITCRW
+
+
+GurutzegramakTOPIC_CREUATS sortzeko edo aldatzeko hurrengo parametroak doitu behar dira.
+
+{bml mboff.bmp}H_C_CR	Gurutzegrama 
+{bml mboff.bmp}H_C_DEF	Definizioak 
+{bml mboff.bmp}H_C_MISS	Mezuak 
+{bml mboff.bmp}H_C_FONT	Letra mota 
+{bml mboff.bmp}H_C_OPS	Aukerak 
+
+
+#$
+{bmr mapa.bmp}MAPA_EDIT_CRW>wmapa {bmc creuats1.bmp}   Gurutzegramak sortu
+Ikusi...MORE_HELP_EDITCRW
+
+
+GurutzegramakTOPIC_CREUATS sortzeko edo aldatzeko hurrengo parametroak doitu behar dira.
+ 
+{bml mbon.bmp}HELP_EDITCRW	Gurutzegrama 
+Atal honetan gurutzegramaren leihoa zehazten da. Hitzak horizontal eta bertikal posizioan  banatu behar dira., banatzaileak diren gelaxkak (beltzak) asteriskoz utziz.
+
+Lerro eta zutabeko gelaxketan gurutzegramaren leihoko neurriak aipatzen dira.
+
+{bml mboff.bmp}H_C_DEF	Definizioak 
+{bml mboff.bmp}H_C_MISS	Mezuak 
+{bml mboff.bmp}H_C_FONT	Letra mota 
+{bml mboff.bmp}H_C_OPS	Aukerak 
+
+
+#$
+{bmr mapa.bmp}MAPA_EDIT_CRW>wmapa {bmc creuats1.bmp}   Gurutzegramak sortu
+Ikusi...MORE_HELP_EDITCRW
+
+
+GurutzegramakTOPIC_CREUATS sortzeko edo aldatzeko hurrengo parametroak doitu behar dira.
+
+{bml mboff.bmp}H_C_CR	Gurutzegrama 
+{bml mbon.bmp}HELP_EDITCRW	Definizioak 
+Gurutzegramaren leihoan aurkitzen diren hitzen definizio horizontal eta bertikalak bi zerrenda hauetan idazten dira. Lerro edo zutabe bakoitzari dagozkion definizioak lerro bakar batean idatzi behar dira, definizio bat baino gehiago izatekotan puntu eta koma (;)puntuazio simboloaz bereizturik. Definizioetan irudiakTOPIC_BITMAP, soinuakTOPIC_WAV, musikaTOPIC_MIDI eta beste multimedia baliabideenTOPIC_MCI aipamenak erabil daitezke, Grafiko, musika, soinu eta beste multimedia baliabideak uztartuHELP_GRAFTX arloan argitzen den bezala.
+
+Gurutzegramaren leihoan agertzen diren hitzak adina definizio agertu behar dira, letra bakar batekoak barne. Zerrenda bakoitzean gurutzegraman aipatzen diren lineak adina lerro edo zutabe agertu behar dira.
+
+{bml mboff.bmp}H_C_MISS	Mezuak 
+{bml mboff.bmp}H_C_FONT	Letra mota 
+{bml mboff.bmp}H_C_OPS	Aukerak 
+
+
+#$
+{bmr mapa.bmp}MAPA_EDIT_CRW>wmapa {bmc creuats1.bmp}   Gurutzegramak sortu
+Ikusi...MORE_HELP_EDITCRW
+
+
+GurutzegramakTOPIC_CREUATS sortzeko edo aldatzeko hurrengo parametroak doitu behar dira.
+ 
+{bml mboff.bmp}H_C_CR	Gurutzegrama 
+{bml mboff.bmp}H_C_DEF	Definizioak 
+{bml mbon.bmp}HELP_EDITCRW	Mezuak 
+Ariketa abiaraztean edo bukatzean agertuko diren mezuak hemen adierazten dira. Hemen ere  irudiakTOPIC_BITMAP, soinuakTOPIC_WAV, musikaTOPIC_MIDI eta beste multimedia baliabideakTOPIC_MCI jar ditzakezue, grafiko, musika, soinu eta beste multimedia baliabideak uztartuHELP_GRAFTX arloan argintzen den bezala.
+
+{bml mboff.bmp}H_C_FONT	Letra mota 
+{bml mboff.bmp}H_C_OPS	Aukerak 
+
+
+#$
+{bmr mapa.bmp}MAPA_EDIT_CRW>wmapa {bmc creuats1.bmp}   Gurutzegramak sortu
+Ikusi...MORE_HELP_EDITCRW
+
+
+GurutzegramakTOPIC_CREUATS sortzeko edo aldatzeko hurrengo parametroak doitu behar dira.
+ 
+{bml mboff.bmp}H_C_CR	Gurutzegrama 
+{bml mboff.bmp}H_C_DEF	Definizioak
+{bml mboff.bmp}H_C_MISS	Mezuak 
+{bml mbon.bmp}HELP_EDITCRW	Letra mota 
+Botoi honetan, testua azaltzeko erabiliko den kolore eta letra motaHELP_FONTS aukera daitezke. 
+
+{bml mboff.bmp}H_C_OPS	Aukerak 
+
+
+#$
+{bmr mapa.bmp}MAPA_EDIT_CRW>wmapa {bmc creuats1.bmp}   Gurutzegramak sortu
+Ikusi...MORE_HELP_EDITCRW
+
+
+GurutzegramakTOPIC_CREUATS sortzeko edo aldatzeko hurrengo parametroak doitu behar dira.
+
+{bml mboff.bmp}H_C_CR	Gurutzegrama 
+{bml mboff.bmp}H_C_DEF	Definizioa 
+{bml mboff.bmp}H_C_MISS	Mezuak 
+{bml mboff.bmp}H_C_FONT	Letra mota 
+{bml mbon.bmp}HELP_EDITCRW	Aukerak 
+Botoi hau aktibatuz Ariketaren aukerakHELP_ACTOPT dialogora joaten da 
+
+
+#$K+
+{bmr mapa.bmp}MAPA_EDIT_TXA>wmapa {bmc txtact1.bmp}   Testu ariketak sortu
+Ikusi...MORE_HELP_EDITTXA
+
+
+Hauek dira testu ariketak sortzeko eta editatzeko leihoan azaltzen diren elementuakTOPIC_TXA:
+
+{bml mboff.bmp}H_T_TIPUS	Ariketa mota
+{bml mboff.bmp}H_T_INC	Ezezagunetarako tresna
+{bml mboff.bmp}H_T_CAS	Gelaxketarako tresna
+{bml mboff.bmp}H_T_RCE	Moztu, kopiatu eta itsatsi
+{bml mboff.bmp}H_T_AUTO	Ezezagunak automatikoki sortu
+{bml mboff.bmp}H_T_AVA	Ebaluatzeko aukerak
+{bml mboff.bmp}H_T_TAB	Tabulatzailearen zabalera
+{bml mboff.bmp}H_T_MISS	Mezuak
+{bml mboff.bmp}H_T_FONT	Letra motak
+{bml mboff.bmp}H_T_OPS	Aukerak
+
+
+#$
+{bmr mapa.bmp}MAPA_EDIT_TXA>wmapa {bmc txtact1.bmp} Testu ariketak sortu
+Ikusi...MORE_HELP_EDITTXA
+
+
+Hauek dira testu ariketak sortzeko eta editatzeko leihoan azaltzen diren elementuakTOPIC_TXA:
+
+{bml mbon.bmp}HELP_EDITTXA	Ariketa mota
+Hemen egin nahi den testu ariketa mota aukeratzen da. Klikek beheko testu ariketa mota hauek ahalbidetzen ditu:
+Hutsuneak beteHELP_TXFORAT
+Testua osatuHELP_TXCOMPL
+Letrak identifikatuHELP_TXIDLLETRA
+Hitzak identifikatuHELP_TXIDPARAULA
+Hitzak ordenatuHELP_TXORDPARAULA
+Paragrafoak ordenatuHELP_TXORDPARAGRAF
+Hutsuneak bete motakoak aukera handiena ematen digu (laguntza leiho mugikorrak, ezezagun modalitate desberdinak, ebaluazio jarraia...).
+Hitzak ordenatu modalitateak bi aukera ditu: paragrafoan nahastu edo paragrafo desberdinen artean.
+{bml mboff.bmp}H_T_INC	Ezezagunetarako tresna
+{bml mboff.bmp}H_T_CAS	Gelaxketarako tresna
+{bml mboff.bmp}H_T_RCE	Moztu, kopiatu eta itsatsi
+{bml mboff.bmp}H_T_AUTO	Ezezagunak automatikoki sortu
+{bml mboff.bmp}H_T_AVA	Ebaluatzeko aukerak
+{bml mboff.bmp}H_T_TAB	Tabulatzailearen zabalera
+{bml mboff.bmp}H_T_MISS	Mezuak
+{bml mboff.bmp}H_T_FONT	Letra motak
+{bml mboff.bmp}H_T_OPS	Aukerak
+
+
+#$
+{bmr mapa.bmp}MAPA_EDIT_TXA>wmapa {bmc txtact1.bmp} Testu ariketak sortu
+Ikusi...MORE_HELP_EDITTXA
+
+
+Hauek dira testu ariketak sortzeko eta editatzeko leihoan azaltzen diren elementuakTOPIC_TXA:
+
+{bml mboff.bmp}H_T_TIPUS	Ariketa mota
+{bml mbon.bmp}HELP_EDITTXA	Ezezagunetarako tresna
+{bml llapis1.bmp} Ariketa guztietan agertu ohi dira bi zati, bata testu estatikoaz osaturik eta bestea zenbait objetuz (hitzak, letrak, paragrafoak...), azken hauetan betelana eginen dugu, edo aldatu, aukeratu eta mugitu ariketa egitean. Ezezagunetarako tresnaren bidez testuaren zatiak marka ditzakeg, eta zati hauek erabiltzaileek maneia ditzakeen objetu bihurtuko dira.
+Hutsuneak bete  motako ariketetan edota Testua osatu ariketetan testu puska bat aukeratu behar da ezezagunetako botoiaren gainean klik egin baino lehena. Beste modalitateetan tresna honek kurtsorea dagoen letra, hitza edo paragraforaren gainean eragiten du (edo aukeratutako blokearen gainean, aukeratuta egonez gero).
+
+Hutsuneak bete modalitatean tresna honek bidea ematen du ezezagunak definituHELP_INCOGNITA leihora, eta bertan definituko dira funtzionatzeko beharrezkoak diren aldagaiak. Beste modalitateetan ezezagun gisa markatutako blokeek honela futzionatzen dute:
+
+Testua osatu:	Ezezagunak dira hitzak, letrak, tarteak edo puntuazio ikurrak eta ariketa hastean desagertuko dira. Erabiltzaileak berriro jarri beharko ditu elementu hauek ariketa ongi egiteko.
+
+Letrak identifikatu:	Ezezagunak letrak dira eta erabiltzaileak klik egin beharko du haien gainean ariketa ongi egiteko.
+
+Hitzak identifikatu:	Aurreko kasuan bezala baina oraingoan hitz osoen gainean.
+
+Hitzak ordenatu:	Ezezagunak dira haien artean nahastu diren hitzak, testuaren gainerako zatia bere tokian mantenduko da. Programak aukera ematen du erabakitzeko ea hitzak paragrafo bakar batean nahastuko diren ala paragrafo desberdinen artean.
+
+Paragrafoak ordenatu:	Markatutako paragrafoak izanen dira haien artean nahastuko direnak ariketa hastean.
+
+Modalitate guztietan tresnak konmutadore gisa funtzionatzen du: ezezagun gisa markatzen ditu bloke garbiak eta markarik gabe utzi aldez aurretik ezezagun gisa definitutakoak.
+
+{bml mboff.bmp}H_T_CAS	Gelaxketarako tresna
+{bml mboff.bmp}H_T_RCE	Moztu, kopiatu eta itsatsi
+{bml mboff.bmp}H_T_AUTO	Ezezagunak automatikoki sortu
+{bml mboff.bmp}H_T_AVA	Ebaluatzeko aukerak
+{bml mboff.bmp}H_T_TAB	Tabulatzailearen zabalera
+{bml mboff.bmp}H_T_MISS	Mezuak
+{bml mboff.bmp}H_T_FONT	Letra motak
+{bml mboff.bmp}H_T_OPS	Aukerak
+
+
+#$
+{bmr mapa.bmp}MAPA_EDIT_TXA>wmapa {bmc txtact1.bmp} Testu ariketak sortu
+Ikusi...MORE_HELP_EDITTXA
+
+
+Hauek dira testu ariketak sortzeko eta editatzeko leihoan azaltzen diren elementuakTOPIC_TXA:
+
+{bml mboff.bmp}H_T_TIPUS	Ariketa mota
+{bml mboff.bmp}H_T_INC	Ezezagunetarako tresna
+{bml mbon.bmp}HELP_EDITTXA	Gelaxketarako tresna
+{bml marc1.bmp} Ariketetako testu gorputzaren barnean gelaxkak egin daitezke eta haien barnean testu, grafiko, multimedia baliabide eta agindu bereziakHELP_GRAFTX sartu.
+Gelaxketarako tresnak zulo berriak sortzeko aukera ematen digu eta paso emanen digu gelaxkak definituHELP_ZONES leihora edukia eta ezaugarriak doitzeko.
+Zulotxo berriak beti agertuko zaizkigu kurtsorea dagoen tokian. Zulotxoak ezabatzeko SUPR tekla erabil dezakegu, testua balitz bezala.
+{bml mboff.bmp}H_T_RCE	Moztu, kopiatu eta itsatsi
+{bml mboff.bmp}H_T_AUTO	Ezezagunak automatikoki sortu
+{bml mboff.bmp}H_T_AVA	Ebaluatzeko aukerak
+{bml mboff.bmp}H_T_TAB	Tabulatzailearen zabalera
+{bml mboff.bmp}H_T_MISS	Mezuak
+{bml mboff.bmp}H_T_FONT	Letra motak
+{bml mboff.bmp}H_T_OPS	Aukerak
+
+
+#$
+{bmr mapa.bmp}MAPA_EDIT_TXA>wmapa {bmc txtact1.bmp} Testu ariketak sortu
+Ikusi...MORE_HELP_EDITTXA
+
+
+Hauek dira testu ariketak sortzeko eta editatzeko leihoan azaltzen diren elementuakTOPIC_TXA:
+
+{bml mboff.bmp}H_T_TIPUS	Ariketa mota
+{bml mboff.bmp}H_T_INC	Ezezagunetarako tresna
+{bml mboff.bmp}H_T_CAS	Gelaxketarako tresna
+{bml mbon.bmp}HELP_EDITTXA	Moztu, kopiatu eta itsatsi
+{bmc cut1.bmp} {bmc copy1.bmp} {bmc paste1.bmp}
+Botoi hauek beste edozein testu editoretan bezala funtzionatzen dute: markatutako blokea moztu (kopia memorian gordeta), memorian kopiatzen dute blokea eta memorian dagoen blokea itsatsi egiten dute kurtsorea dagoen tokian.
+Tresna hauen bidez testuak eraman daitezke Klikera beste aplikazioetatik (adibidez, beste formatuan dagoen testua aprobetxatu ariketa bat egiteko), eta alderantzizko operazioa ere egin daiteke.
+Markatutako blokeek dituzten ezezagunetako ezaugarriak ez dira garraiatzen moztu, kopiatu eta itsasi tresnaren bidez, ez eta testu editoreetan erabiltzen diren estiloak ere (beltza, etzana, azpimarratua...).
+Hauetan ere teklen konbinazioak erabil daitezke [Kontrol]+X mozteko, [Kontrol]+C  edo [Kontrol]+Ins kopiatzeko eta [Kontrol]+V edo [Maius.]+Ins itsasteko.
+{bml mboff.bmp}H_T_AUTO	Ezezagunak automatikoki sortu
+{bml mboff.bmp}H_T_AVA	Ebaluatzeko aukerak
+{bml mboff.bmp}H_T_TAB	Tabulatzailearen zabalera
+{bml mboff.bmp}H_T_MISS	Mezuak
+{bml mboff.bmp}H_T_FONT	Letra motak
+{bml mboff.bmp}H_T_OPS	Aukerak
+
+
+#$
+{bmr mapa.bmp}MAPA_EDIT_TXA>wmapa {bmc txtact1.bmp} Testu ariketak sortu
+Ikusi...MORE_HELP_EDITTXA
+
+
+Hauek dira testu ariketak sortzeko eta editatzeko leihoan azaltzen diren elementuakTOPIC_TXA:
+
+{bml mboff.bmp}H_T_TIPUS	Ariketa mota
+{bml mboff.bmp}H_T_INC	Ezezagunetarako tresna
+{bml mboff.bmp}H_T_CAS	Gelaxketarako tresna
+{bml mboff.bmp}H_T_RCE	Moztu, kopiatu eta itsatsi
+{bml mbon.bmp}HELP_EDITTXA	Ezezagunak automatikoki sortu
+{bml multinc1.bmp} Botoi honek ezezagunak automatikoki sortuHELP_AUTOINC leihora eramango gaitu eta honetatik askoz errazagoa eginen zaigu ezezagunak sortzea, banan banan egin beharrean automatikoki markatuko ditu. Bereziki baliagarria izaten da "bokal guztiak jarri" bezalako ariketetan.
+{bml mboff.bmp}H_T_AVA	Ebaluatzeko aukerak
+{bml mboff.bmp}H_T_TAB	Tabulatzailearen zabalera
+{bml mboff.bmp}H_T_MISS	Mezuak
+{bml mboff.bmp}H_T_FONT	Letra motak
+{bml mboff.bmp}H_T_OPS	Aukerak
+
+
+#$
+{bmr mapa.bmp}MAPA_EDIT_TXA>wmapa {bmc txtact1.bmp} Testu ariketak sortu
+Ikusi...MORE_HELP_EDITTXA
+
+
+Hauek dira testu ariketak sortzeko eta editatzeko leihoan azaltzen diren elementuakTOPIC_TXA:
+
+{bml mboff.bmp}H_T_TIPUS	Ariketa mota
+{bml mboff.bmp}H_T_INC	Ezezagunetarako tresna
+{bml mboff.bmp}H_T_CAS	Gelaxketarako tresna
+{bml mboff.bmp}H_T_RCE	Moztu, kopiatu eta itsatsi
+{bml mboff.bmp}H_T_AUTO	Ezezagunak automatikoki sortu
+{bml mbon.bmp}HELP_EDITTXA	Ebaluatzeko aukerak
+{bml dit1.bmp} Botoi honek Ebaluatzeko aukerakHELP_EVALOP leihora eramanen gaitu eta bertan mekanikoki azalduko dira ariketa ebaluatzeko erabiliko diren irizpideak eta erabiltzailearen akatsak nola azaldu.
+{bml mboff.bmp}H_T_TAB	Tabulatzailearen zabalera
+{bml mboff.bmp}H_T_MISS	Mezuak
+{bml mboff.bmp}H_T_FONT	Letra motak
+{bml mboff.bmp}H_T_OPS	Aukerak
+
+
+#$
+{bmr mapa.bmp}MAPA_EDIT_TXA>wmapa {bmc txtact1.bmp} Testu ariketak sortu
+Ikusi...MORE_HELP_EDITTXA
+
+
+Hauek dira testu ariketak sortzeko eta editatzeko leihoan azaltzen diren elementuakTOPIC_TXA:
+
+{bml mboff.bmp}H_T_TIPUS	Ariketa mota
+{bml mboff.bmp}H_T_INC	Ezezagunetarako tresna
+{bml mboff.bmp}H_T_CAS	Gelaxketarako tresna
+{bml mboff.bmp}H_T_RCE	Moztu, kopiatu eta itsatsi
+{bml mboff.bmp}H_T_AUTO	Ezezagunak automatikoki sortu
+{bml mboff.bmp}H_T_AVA	Ebaluatzeko aukerak
+{bml mbon.bmp}HELP_EDITTXA	Tabulatzailearen zabalera
+Tabulatzailea oso baliagarria da ariketak taulatan edota zutabeetan formateatu behar direnean, eta orokorrean testu blokeen arteko distantzia markatu nahi dugunean. Erabilitako unitatea tabulatzailearen zabalera markatzeko testu gorputzean aukeratutako letra motaren hutsunearena da.
+{bml mboff.bmp}H_T_MISS	Mezuak
+{bml mboff.bmp}H_T_FONT	Letra motak
+{bml mboff.bmp}H_T_OPS	Aukerak
+
+
+#$
+{bmr mapa.bmp}MAPA_EDIT_TXA>wmapa {bmc txtact1.bmp} Testu ariketak sortu
+Ikusi...MORE_HELP_EDITTXA
+
+
+Hauek dira testu ariketak sortzeko eta editatzeko leihoan azaltzen diren elementuakTOPIC_TXA:
+
+{bml mboff.bmp}H_T_TIPUS	Ariketa mota
+{bml mboff.bmp}H_T_INC	Ezezagunetarako tresna
+{bml mboff.bmp}H_T_CAS	Gelaxketarako tresna
+{bml mboff.bmp}H_T_RCE	Moztu, kopiatu eta itsatsi
+{bml mboff.bmp}H_T_AUTO	Ezezagunak automatikoki sortu
+{bml mboff.bmp}H_T_AVA	Ebaluatzeko aukerak
+{bml mboff.bmp}H_T_TAB	Tabulatzailearen zabalera
+{bml mbon.bmp}HELP_EDITTXA	Mezuak
+Hemen agertzen dira ariketaren hasieran eta bukaeran agertuko diren mezuak. Hemen ere irudiakTOPIC_BITMAP, soinuakTOPIC_WAV, musikaTOPIC_MIDI, edo beste multimedia baliabideakTOPIC_MCI ezar ditzakegu. Horretarako begira dezakezu beste atal honetan:  Grafikoak, multimedia baliabideak eta agindu bereziak uztartuHELP_GRAFTX.
+{bml mboff.bmp}H_T_FONT	Letra motak
+{bml mboff.bmp}H_T_OPS	Aukerak
+
+
+#$
+{bmr mapa.bmp}MAPA_EDIT_TXA>wmapa {bmc txtact1.bmp} Testu ariketak sortu
+Ikusi...MORE_HELP_EDITTXA
+
+
+Hauek dira testu ariketak sortzeko eta editatzeko leihoan azaltzen diren elementuakTOPIC_TXA:
+
+{bml mboff.bmp}H_T_TIPUS	Ariketa mota
+{bml mboff.bmp}H_T_INC	Ezezagunetarako tresna
+{bml mboff.bmp}H_T_CAS	Gelaxketarako tresna
+{bml mboff.bmp}H_T_RCE	Moztu, kopiatu eta itsatsi
+{bml mboff.bmp}H_T_AUTO	Ezezagunak automatikoki sortu
+{bml mboff.bmp}H_T_AVA	Ebaluatzeko aukerak
+{bml mboff.bmp}H_T_TAB	Tabulatzailearen zabalera
+{bml mboff.bmp}H_T_MISS	Mezuak
+{bml mbon.bmp}HELP_EDITTXA	Letra motak
+Botoi honen bidez testuan agertuko diren letra mota eta koloreaHELP_FONTS aukeratu daitezke.
+{bml mboff.bmp}H_T_OPS	Aukerak
+
+
+#$
+{bmr mapa.bmp}MAPA_EDIT_TXA>wmapa {bmc txtact1.bmp} Testu ariketak sortu
+Ikusi...MORE_HELP_EDITTXA
+
+
+Hauek dira testu ariketak sortzeko eta editatzeko leihoan azaltzen diren elementuakTOPIC_TXA:
+
+{bml mboff.bmp}H_T_TIPUS	Ariketa mota
+{bml mboff.bmp}H_T_INC	Ezezagunetarako tresna
+{bml mboff.bmp}H_T_CAS	Gelaxketarako tresna
+{bml mboff.bmp}H_T_RCE	Moztu, kopiatu eta itsatsi
+{bml mboff.bmp}H_T_AUTO	Ezezagunak automatikoki sortu
+{bml mboff.bmp}H_T_AVA	Ebaluatzeko aukerak
+{bml mboff.bmp}H_T_TAB	Tabulatzailearen zabalera
+{bml mboff.bmp}H_T_MISS	Mezuak
+{bml mboff.bmp}H_T_FONT	Letra motak
+{bml mbon.bmp}HELP_EDITTXA	Aukerak
+Botoi honi emanda Ariketaren aukerakHELP_ACTOPT leihora joanen gara.
+
+
+#$K+
+{bmr mapa.bmp}MAPA_EDIT>wmapa {bmc llapis1.bmp}   Testu ariketetan ezezagunak definitu
+Ikusi...MORE_HELP_INCOGNITA
+
+
+Testu ariketetanHELP_EDITTXA hutsuneak betetzekoHELP_TXFORAT ariketak definitu nahi dugunean beheko ezezagun bakoitzak ezaugarri bereziak  hartuko ditu:
+
+Erantzun zuzena
+Zati honetan ezezagunaren erantzun zuzena idatzi behar da. Erantzun zuzen bat baino gehiago badaude, guztiak idatzi beharko ditugu | karakterez bereizturik (barra bertikal hau idazteko [AltGr]+1 teklak sakatu beharko ditugu). Adibidez,  bizi|bizikleta|txirrindula|txirringa testua idatziz gero, hauetako edozein erantzuna ematen bada ontzat emanen da.
+Erabiltzaileak maiuskulak, tarteak, puntuazio ikurrak edo beste batzuk idazten edo idazten ez baditu, garrantzia izanen du  ebaluatzeko aukerakHELP_EVALOP atalean zehaztutakoaren arabera.
+
+Aukerak zerrenda batean aurkeztu
+Hutsuneak bete nahi duguenean ariketetako ezezagunei erantzuna emateko beste aukera dugu zabaltzeko zerrendak erabiltzen baditugu; hauetan erabiltzaileak aukera bat hartu beharko du. Ezinbestekoa da zerrendan agertzen den aukera bat gutxienez zuzena izatea, bestela, ezinezkoa izanen zen ariketa ongi egitea.
+Mota honetan aurkezten baditugu ezezagunak, hau da, zerrenda moduan, ebaluazioaHELP_EVALOP ez da "letraz letra" egiten, eta ez dira kontutan hartzen ondoko eremuak: Gehiengo karaktere kopurua, Erantzuna emateko hasierako espazioa eta Betetzeko karakterea; parametro hauek baliagarriak baitira, soilik, ezezagunei erantzun idatzia ematen zaioenean.
+
+Gehiengo karaktere kopurua
+Eremu honetan erabiltzaileak hutsunean idatz dezakeen gehiengo karaktere kopurua azalduko da. Garrantzizkoa izanen da kopuru hau Erantzun zuzena eremuan agertzen diren adierazpen baten luzera berekoa edo handiagoa izatea.
+Ebaluatzeko aukerakHELP_EVALOP atalean zehaztu daiteke ea automatikoki saltatu behar den hurrengo ezezagunera erabiltzaileak gehiengo karaktere kopurura iristen denean, edo, ea hori bera gertatuko den erantzunari [Intro] teklaren bidez emanen zaion balioa.
+
+Erantzuna emateko hasierako espazioa
+Parametro honek kontrolatuko du "hutsuneak" izanen duen itxura ariketaren hasieran. Besterik aipatzen ez bada, betetzeko karaktereak agertuko dira, erantzun zuzenak duen kopuru bera, hain zuzen, era honetan erabiltzaileari pista egokia emanen zaio, idatzi behar duena zer luzera izanen. Baina, nahi izanez gero, espazio bakar bat ager daiteke edo hasierako espazioa erantzun zuzena baino luzeagoa izatea.
+
+Betezeko karakterea
+Honetan ariketaren hasieran zer kartere agertuko den hutsunean zehazten da. Hala ere Hasierako testua agertzen denean, edo Hasierako testuak Erantzuna emateko espazioa baino motzagoa denean ez da ibiliko. Besterik aipatu ezean beheko marratxoa agertuko da, baina beste aukerak ere badira: hutsune txuria, puntua, gurutzea, izartxoa...
+
+Hasierako testua
+Normalean hutsuneak ezer gabe azalduko dira, Betetzeko karakterez osaturik, baina, nahi izanez gero, hasierako testua ere ager daiteke eta erabiltzaileak osatu edo zuzendu beharko du.
+
+Argibideak emateko leihoa
+Argibide osagarriak eman nahi direnean gaineko leihoa ere erabil daiteke argibide horiek, pistak edo mezuak azaltzeko eta erabiltzaileak erraztasun handiagoa izanen du erantzun zuzena emateko momentuan. Leiho berezi hauetan azalpenezko testuak ager daitezke edo sartu grafikoak, multimedia baliabideak eta agindu bereziakHELP_GRAFTX makoen artean idatziz nahi dugun adierazpena.
+Ariketa duen letra motaHELP_FONTS aukeran, argibideko leihoan agertuko diren hondoko kolorea eta tinta, letra iturria eta estiloak zehazten dira.
+Interpretatu bakarrik aukeratuz gero, barnean dagoen multimediako edukia ez da ikusiko, dagokion soinua edo musika martxan jarriko da. Aukera honen bidez soinu bidezko laguntzak sar daitezke, edo soinuaren bidezko abisuak edota mezuak erantzun okerra idazten denean.
+Argibideko leihoak hiru egoera desberdin hauetan aktibatuko dira:
+
+- Automatikoki kurtsore edo erakuslea hutsunean jartzen denean.
+- Erabiltzaileak erantzun okerra idatzi eta introri ematen dionean.
+- Erabiltzaileak nahi duenean F1 tekla sakatzen duenean.
+
+Hiru kasu hauetan hasierako atzerapena finkatu daiteke (segunduetan azalduta) eta argibideko leihoa pantailan agertuko den gehienezko denbora.
+
+
+
+#$K+
+{bmr mapa.bmp}MAPA_EDIT>wmapa {bmc multinc1.bmp}   Ezezagunak automatikoki sortu
+Ikusi...MORE_HELP_INCOGNITA
+
+
+Programak identifika ditzakeen ezaugarri komunak dituzten testu ariketakHELP_EDITTXA sortu nahi ditugunean sortze prozesu hau erraztu daiteke.
+
+"Testu arrunta" "ezezagun" bihurtu nahi dugunean aldatzeko prosesu bi eratara egin daiteke:
+
+{bmc btri.bmp}	Honelakoak zehaz-mehatz diren adierazpen guztiak...
+Idazten den testua aurkitzen du eta ezezagun bihurtu. Adibidez, funtzio honi deitzen bazaio "bat" adierazpenaren bidez honelako ezezagunak sortuko ziren beheko testuan:
+
+Bat eta bi, enbata ikaragarri bat gertatu zitzaigun itsasontzi batean ginela.
+
+Konturatuko gara lehenego "Bat" ez dela markatuta agertzen, ezezagunak automatikoki sortzen direnean maiuskulak eta minuskulak aintzat hartzen direlako.
+
+Nahi izanez gero, "enbata" eta "batea" markatuta agertzen diren "bat" horiek saihestu daitezke Bakarrik hitz osoak gelaxka aktibatzen badugu.
+
+{bmc btri.bmp}	Honelako adierazpena duten hitz guztiak...
+Kasu honetan azalduko testua duten hitz osoak markatuko dira. Adibidez, funtzio hau "r" testuarekin aktibatzen bada honela geratuko da beheko esaldia:
+
+Martxoa euritsu urtea ogitsu.
+
+Zenbait ariketatan sortzaileari behin baino gehiagoetan deitu beharko diogu ezezagunak automatikoki sortzeko. Adibidez, ariketa batean erabiltzaileak S edo Z idatzi behar badu bi aldiz deitu beharko diogu: behin S guztiak ezezagun bihurtzeko eta bigarrena Z guztiak.
+
+
+#$K+
+{bmr mapa.bmp}MAPA_EDIT>wmapa {bmc marc1.bmp}   Gelaxkak definitu
+Ikusi...MORE_HELP_INCOGNITA
+
+
+Testu ariketetanHELP_EDITTXA testuak, grafikoak, multimedia baliabideak eta agindu bereziakHELP_GRAFTX dituzten gelaxkak sartu daitezke.
+
+Gelaxkak definitzeko leihoaren bidez testuaren zabalera, altuera eta lerrokatzea (ezkerrean edo zentraturik) zehazten dira, eta ea marko baten bidez inguratuta agertuko den.
+
+Letra motaHELP_FONTS leihoan gelaxketan agertuko diren iturria, estiloa eta hondo eta azaleko koloreak zehaztuko dira.
+
+Gelaxkek testuan sartutako karaktereen antza funtzionatzen dute eta dauden lerroaren altuera aldatzen dute. Gelaxka bat ezabatzeko [Supr] eta [Atzera] teklak erabil daitezke, testuaren beste edozein karakterea balitz bezala.
+
+Gelaxkak ezin dira ezezagun baten parte izan.
+
+
+#$K+
+{bmr mapa.bmp}MAPA_EDIT>wmapa {bmc dit1.bmp}   Ebaluatzeko aukerak
+Ikusi...MORE_HELP_INCOGNITA
+
+
+Eparametro desberdinak doitu daitezke testu ariketetanHELP_EDITTXA, eta hauen bidez, ariketaren ebaluazioa era desberdinez kontrolatuko da:
+
+Maiuskulak eta minuskulak
+Gelaxka honen bidez zehaztuko dugu ea erantzuna zehaz-zehatza izango den, hau da, guztiz bat etorriko den erabiltzaileak idatzi duena eta aldez aurretik zuzentzat ezarri dena ezezagunak definituHELP_INCOGNITA egin denean.
+
+Tildeak, dieresia y karaktere bereziak
+Era berean zehaztu daiteke ea ebaluatuko diren ala ez erabiltzailearen testua eta erantzun zuzenaren arteko aldeak tildeak, zirkunflexuak, dieresia eta beste karaktere bereziak ( ª º ¹ ² ³, ·, eta tilde garbia ´ apostrofoaren aldean  ') aintzat hartuta.
+
+Puntuazio ikurrak
+Parametro honen bidez zehaztuko dugu eta aintzat hartuko ditugun puntuazio ikusrrak (. , ; :) ebaluatzeko momentuan.
+
+Espazio errepikatuak
+Gelaxka hau markatzean ebaluzioak ez du aintzat hartuko hitzen artean dauden hutsune kopurua.
+
+Ebaluazio jarraitua
+Erabiltzailearen erantzunak hutsuneak beteHELP_TXFORAT motako ariketetan bi eratara planteatu daitezke: ezezaguna balioztatu bezain pronto zuzendu (ebaluazio jarraitua) edo ariketa osoaren ebaluazio orokorra egin erabiltzaileak ariketa bukatu eta "Zuzendu" botoia sakatzen duenean. Ebaluazio jarraia aktibatzen denean ezezagun bakoitzari emandako erantzun bakoitza saio bat kontatuko da, eta orokorra egiten denean zuzentzeko botoiari klik egiten zaion bakoitzeko hainbat saio agertuko da.
+
+Gehinezko karaktereetara heltzean salto
+Erabiltzaileak hutsuneak beteHELP_TXFORAT modalitatean erantzun bakoitzak balioztatu beharko du programak ebaluatzeko edota kurtsorea hurrengo ezezagunera mugitzeko. Balioztatzeko [Intro] tekla sakatu beharko da, edo, bestela, mugitzeko geziei eman edo klik eginez beste ezezagun desberdinetan.
+Gelaxka hau aktibatuz gero, programa ez da geratuko erabiltzailearen balioztatzearen zain, ontzat emanen ditu gehinezko karaktereak idatzi bezain pronto,  beti ere aldez aurretik zehaztuta izan beharko dugu karaktere kopuru hori ezezagunak editatuHELP_INCOGNITA atalean.
+
+Hurrengora ongi egin ondoren
+Ebaluazio jarraitua aktibatzen denean, aukera hau ere hartu daiteke. Honek ez dio utziko erabiltzaileari hurrengo ezezagunera pasatzen aurrekoa ongi ez dagoen bitartean.
+
+Ebaluatzeko botoia
+Ebaluatzeko botoia testu ariketetako leihoaren beheko aldean agertzen da (ebaluazio jarraitua aktibatuta dagoenean izan ezik) eta honen bidez erabiltzaileak esaten dio programari ariketa bukatu duela eta has daitekeela ebaluatzen.
+Botoiaren barnean edozein testu motz erakuts daiteke, bai eta desaktibatu ere.
+Botoia aktibatuz gero, programak ezin izanen du ariketa ebaluatu eta komenigarria izaten da txostenetan sartuH_ACT_INFO gelaxka desmarkatu, bestela beti agertuko dira zero saiakera eta zero ongi eginda.
+
+Erroreak eman letraz letra
+Ezezagunen ebaluazioa dena batera (erantzuna zuzena den ala ez erakutsiz) edo letraz letra.
+"Letraz letra" egindako ebaluazioan programak konparatzen du erabiltzaileak idatzitakoa hurbilen dagoen erantzunarekin, eta identifikatzen saiatzen da non falta den, sobera dagoen edo zer dagoen gaizki idatzita.
+Konparaketa egiten duen algoritmoa nahiko konplexua da: bi adierazpenen arteko desberdintasuna aurkitzen duenean saiatzen da testua alderatzen besteren batekin ahalik eta kointzidentzia kopuru handiena aurkitu arte honela gehienezko ongi egindakoekin konparartu ahal izateko. Orokorrean komenigarria da programak dituen balioak ez aldatzea. Tartean urratsak eta arakatzeko eremuak agertzen dira, hauek mugitu eta konparaketa egiten dute. Nabaritzen badugu "letraz letra" egindako zuzenketa ez dabilela saiatuko gara aldaketaren bat sartzen, bestela ez.
+
+Erakutsi hasi baino lehen...
+Testu ariketarekin hasi baino lehen aukerakoa da erakustea argibideak, pistak edo arauak ematen dituen pantaila bat erabiltzaileari lana errazagoa egiteko.
+Argibidea ematen duen pantaila honen denbora mugatu daiteke edo mugarik gabe utzi kontagailuan 0 jarriz. Ariketa hasiko da jarritako denbora bukatzen denean edo erabiltzaileak klik egiten duenean argibie leihoaren gainean.
+Aurretiko pantaila honetan agertuko den edukia ariketa horretarako propio eginda izan daiteke (erantzun zuzen guztiekin eta ongi) edo beste testua argibide edo azalpenekin.
+Klik programaren ariketa guztiek hasiera eta bukaerako mezua dituzte. Kasu honetan aurreko mezua ere ezar daiteke eta argibide pantailaren behe aldean agertuko da ikusgarri den bitartean. Mezu guztietan bezala vincular grafikoak, multimedia baliabideak eta agindu bereziak uztartuHELP_GRAFTX aukera daiteke haiekin batera joateko.
+Aurreko pantaila hau agertuko argibide leihoetan aukertutako koloreekin, letra motaHELP_FONTS eta estiloarekin.
+
+
+
+#$K+
+{bmr mapa.bmp}MAPA_EDIT>wmapa {bmc disc1.bmp}   Ariketak edo paketeak gorde 
+Ikusi...MORE_HELP_DESA
+
+
+Sortu edo aldatu  dugun ekintza edo paketea grabatzeko, gorde nahi dugun unitate eta direktorioa selekzionatuko dugu., fitxategiari dagokion izena emanez.
+
+Aukera hau izanen dugu baldin eta CLIK.INIHELP_CLICINI fitxategian editable=si parametroa aktibatuta aurkitzen bada.
+
+Grabatzen ari den  fitxategiarekin erlazionaturiko lan-gai guztiak (ariketakTOPIC_BITMAP, testuakTOPIC_TEXT, irudiak, soinuakTOPIC_WAV, musikaTOPIC_MIDI eta beste multimedia baliabideakTOPIC_MCI) unitate eta direktorio berean egon behar dira KLIK programak non dauden jakin dezan.
+
+
+#$K+
+{bmr mapa.bmp}MAPA_EDIT>wmapa {bmc clic.bmp}   Grafikoak, multimedia baliabideak eta agindu bereziak uztartu
+Ikusi...MORE_HELP_GRAFTX
+
+
+Testu gelaxkek irudiTOPIC_BITMAP, musikaTOPIC_MIDI, soinuTOPIC_WAV grabaketa eta beste multimedia baliabideari buruzko aipamenak eduki ditzakete.  Gelaxka bati horietako fitxategi bat uztartzeko kortxeteen artean { y } dagokion izena jarri behar da. Adibidez, {xxxx.bmp}  edukineko gelaxka batek xxxx irudiaTOPIC_BITMAP erakutsiko digu  testuaren ordez.  Uztartze hau edozein testu gelaxketan egin daiteke: leihoak , hasierako eta bukaerako mezuak, gurutzegramak, definizioak...
+
+Era berean erreferentzia egin daiteke beste ariketak edo Klik paketeakHELP_GRAFTX_CLIC, kanpoko programak exekutatu eta gelaxkak sortu, bertan erabiltzaileak bere ahotsa grabatu eta entzuteko, atal honen bukaeran azaltzen den moduan.
+
+Bmp irudi fitxategienTOPIC_BITMAP aipamenetan irudi txikiak erabiltzea komenigarria da, testu gelaxketan  dagokion leku mugatuan sar daitezen.
+
+Unitaterik edota direktoriorik aipatzen ez bada, ariketa leku berean egongo da. Aipa daitezke MS-DOS bide orokorrak , baina ezaugarri berekin batekin: unitateko izena CDR: -a bada, honek adierazten digu sisteman dagoen lehenego CD-ROM unitatean fitxategia bilatu behar dela. Adibidez, {moto.bmp}  adierazpenak esan nahi du ariketako direktorio berberan dagoen moto.bmp fitxategia erakutsi behar dela. {c:\grafiko\moto.bmp}  adierazpenak  fitxategia c:\irudiak direktorioan  kokaturik dagoela esan nahi du eta {cdr:\irudiak\ibilgailua\moto.bmp}  adierazpenak fitxategia ordenagailuko lehenengo CD-ROM unitateko irudiak\ibilgail\ direktorioan bilatu behar dela esaten digu. CD-ROM unitaterik ez badago, edo diska egokia ez badu aurkitzen errorea gertatuko da.Fitxategi antolakuntzaHELP_ORGARX arloan kontzeptu hauek xehetzagoz argitzen dira.
+
+
+Baliogarriak diren luzapenak fitxategi izenentzat hauexek dira: .BMP irudietarako, soinu grabatuetarakoTOPIC_WAV .WAV, eta MIDI soinuetarako .MID. Baita beste edozein Windowseko multimedia sistemazTOPIC_MCI ezagututako luzapena ere erabili daiteke, adibidez, .AVI edo MOV (bideo digitalerako), .FLI (animazioetarako).
+
+SoinuTOPIC_WAV edo musikarenTOPIC_MIDI fitxategi uztartuak erabiliko dituen ariketak sintetizadore batera konektaturik MIDI interfazeko edo soinuetarako plakadun ordenagailuetan bakarrik exekuta daiteke. Multimedia baliabideen erabileraz argibide gehiago nahi izatekotan, Windows eskuliburua kontsulta ezazu.
+
+
+
+{bmc icowave.bmp}TOPIC_WAV
+Soinu grabaturikoTOPIC_WAV .WAV fitxategiko uztartze bat duen gelaxketan agertuko zaizu ikono hau. Fitxategi hauek  soinu grabagailuaren bidez sortu daitezke.
+
+WAV fitxategiaren idazteaz gain entzun nahi den zatiaren hasiera eta bukera idatz daitezke. Zati hauen kokapena milisegundutan azalduko dira eta aurretik idatziz from edota to. Adibidez, {diktaketa.wav from 5000 to 8000} adierazpenak entzunaraziko du 5. eta 8. segunduen artean dagoen diktaketa.wav fitxategiaren zatia.
+
+Parametro horietako bat jartzen ez bada hasieratik edo bukaeraraino entzungo da. Adibidez, {diktake.wav from 9000} adierazpenak entzunarakiko du 9. segundotik bukaeraraino, eta {dictado.wav to 3000} adierazpenak lehenengo 3 segundoak.
+
+{bmc icorec.bmp}
+Ikono honek adierazten du erabiltzaileak bere ahotsa soinu-txartelari lotutako mikrofono baten bidez grabatzeko duen aukera. Klikek aukera ematen du 10 soinu desberdin ariketa bakoitzean, eta, ondoko kodeen bidez azalduko dira: rec0, rec1, rec2...  rec9. Kode hauetako bakoitzak "kasete birtual" bati dagokio eta Klikek memorian gordetzen du. Grabatzeko kode bakoitzaren atzetik zenbaki bat idatz daiteke eta honek segundotan azalduko digu zenbat denbora dagoen grabazioa egiteko. Baliorik azaldu ezean denbora 5 segundo izanen da.
+Adibidez, gelaxka batean ondoko adierazpena badago {rec2 8} erabiltzaileak aukera izanen du 8 segundo grabatzeko. Soinu hau gordeta geratuko da 2. kasete birtualean. Grabazioa irauten duen bitartean erabiltzaileak ikusiko du mikrofono bat saguaren erakuslean.
+Soinuak grabatzeko funtzio ahu diseinatu egin da hizkuntzetako ariketetan baliagarriak izateko, eredu zuzenekin alderatu ahal izateko erabiltzailearen ahoskera propioa. Grabatutako soinuak {recX play} kodearen bidez entzun daitezke berriro, baina ezin dira diskoan grabatu.
+
+{bmc icorplay.bmp}
+Erabiltzailearen ahotsak grabatzeko gelaxkak erabili beharko ziren beti beste gelaxkekin batera horren emaitza entzun ahal izateko, eta, nahi izanez gero, jatorrizko ereduarekin konparatzeko.
+Ikono hau agertzen da kasete birtualak entzuteko aukera ematen digun gelaxkan. Kasete birtual horiek entzuteko kodea idatzi beharko da eta jarraian play hitza. Adibidez, {rec2 play} adierazpena idatziz gero 2. kasete birtualean grabatuta dagoena entzunen da.
+Ariketaren hasieran kasete birtualak hutsik daude. Erabiltzaileak grabatuta ez dagoen kasetea entzun nahi badu errore mezua azalduko da. {recX play} gelaxken erabilpenak bakarrik du zentzua beste solamente kode bera duen {recX} gelaxkekin.
+
+{bmc icomidi.bmp}TOPIC_MIDI
+.MID musikaTOPIC_MIDI fitxategiko uztartze bat duen gelaxketan agertuko da ikono hau. Fitxategi hauek Music 4.20 programaren bidez sortu daitezke.TOPIC_MUSIC.
+Era berean zati bat aukera dezakegu entzuteko from eta to hitzen bidez, WAV fitxategietan egiten den bezala. Kasu honetan erabiliko dugun neurria ez da milisegundo izanen, fusak baizik, melodiaren hasieratik kontatuta. Adibidez, 3/4 konpasaz idatzitako melodian {vals.mid from 64 to 128} jarritako adierazpenak aukera emanen digu partituraren 3. eta 4. konpasak entzuteko.
+
+#{bmc icocd.bmp}TOPIC_CD
+CD-Audio zati batera erreferentzia duen gelaxketan agertuko zaigu ikono hau; CD-Audio hau aktibatzeko unean exekutagarria izango da. Musikako CD-ko zatien aipamenak {pista:minutu:segundo}  formatorenpean idazten dira, adibidez, {02:00:15}  adierazpenak esan nahi du CD-ko soinua bigarren abestiaren edo pistaren hasieratik,15" pasa eta gero entzungo dela.
+
+Aukeran, to bereizlea erabil daiteke exekuzio bukaera adierazteko; adibidez, {02:00:15 to 02:00:20}  adierazpenak esan nahi du musika iraupena 5 segundukoa izango dela. Bost segundu horiek bigarren abestiaren hasieratik 15 segundu pasa ondoren hasiko dira 20. segundura heldu arte.
+
+#{bmc icomci.bmp}TOPIC_MCI
+Beste multimedia baliabideekinTOPIC_MCI uztartze  bat duten gelaxketan bakarrik agertuko da ikono hau, adibidez, .FLI animazioak, .AVI edo bideo digitalizatutako fitxategiak. 
+
+Bideo digitalaren fitxategien burutzea, edukitzen ari den gelaxketan goiko eta ezkerreko txokoarekin batera lerrokatua erakutsiko da. Bai  kokaera nola bideo leihoaren neurriak behar den bezala kontrolatu ahal izateko bi instrukzio gehigarriak ezar ditzakegu:
+
+{stretch}  adierazpenak esango digu  bideo-irudia zabaldu edo estutu behar dugula gelaxkaren neurri berdinak izan ditzan. 
+
+{free}  adierazpenak esango digu bideo-irudia monitorearen erdi-erdian erakutsi behar duela bere jatorrizko neurrietan.
+
+Adibidez, {zaldi.avi}  testua adierazia izan den gelaxka baten zaldi.avi bideo sekuentzia erakutsiko da bai bere jatorrizko neurrietan nola edukitzen ari den gelaxkaren goiko eta ezkerreko txokoarekin batera lerrokatuta. Adierazpena {zaldi.avi}{stretch}  izatekotan gelaxkaren neurrira egokitua agertuko litzateke, eta {zaldi.avi}{free}  izatekotan pantailaren erdi erdian agertuko litzaiguke.
+
+Beste aukera bat bideoaren leihoaren kokapena zehazteko ondokoa da: adierazpen nagusiaren barnean pos testua sartu zenbakizko hiru parametroz jarraiturik; kokapen horizontala, bertikala eta hirugarren zifrak erakusten digu zein puntutatik neurtzen diren kokapen hauek. Zifra hau 0 izanen da kokapena gelaxkaren barnean bada, 1 jolasteko leihoan bada, eta 2 Klikeko leihoaren goi ezkerreko puntua aintzat hartuta. Adibidez, {zaldi.avi pos 15 20 2} adierazpenak zera esaten digu, bideoa azalduko dela 15 puntu eskuinera eta 20 puntu behera Klikeko ezker goiko izkinatik hasita, eta {caballo.avi pos 10 10 0} adierazpenak mugitu eginen du bideoa 10 puntu noranzko bakoitzean gelaxkaren barnean.
+
+Bideo digitaletan ere posiblea da zatiak zehaztea from eta to hitzak erabiliz. Soinu digitalaren kasuan egiten den moduan, denbora milisegundotan neurtzen da.
+
+#{bmc icoclic.bmp}
+Beste pakete edo ariketei aipamena egiten zaien gelaxketan agertuko da ikono hau. Erabiltzaileak aipamen hauetatik  batekin gelaxka bat aktibitatuko duenean, oraingo ekintza eten egingo da eta martxan jarriko da aurretik gekaxkaren edukinerako aipatua izan dena. Adibidez, ariketa baten edukinaren fitxategi batean {hitzak.pac}  idazten bada, "hitzak" ariketa-paketea martxan jarriko da erabiltzaileak gelaxka aukeratuko duenean.
+
+Aipamen mota hau oso interesgarria da argibide-pantailakHELP_INFO sortu nahi baditugu, ariketa edo pakete ezberdinen arteko aukera menu gisan erabil ditzakegulako.
+
+{bmc icoexe.bmp}
+Honek ere  aukera ematen digu Klikaren bidez beste programa batzuei dei egiteko, eta kasu honetan ikono hau azalduko da gelaxkan (beste eduki grafikorik zehazten ez bada). Adibidez, {calc.exe} adierazpenak Windows-eko kalkulagailuan martxan jarriko da erabiltzaileak gelaxka horretan klik egitean.
+Fitxategi exekutagarrien izenak parametroetan joan daitezke, adibidez, {pbrush.exe marrazki.bmp}, adierazpenak PaintBrush programa martxan jarriko du eta marrazki.bmp irudia azalduko da.
+Klikek ez ditu itxiko honen bidez aktibatu diren programak. Kontu handiz erabili behar da funtzio hau, bestela erabiltzailearen pantaila leihoz bete daiteke.
+
+{bmc icoporta.bmp}
+Gelaxkaren batean edota mezua duen kaxa batean {exit} adierazpena badago Klik itxi eginen da ezer galdetu gabe. Kontuz erabili behar da, bestela, zerbait editatzen ari bagara dena galdu dezakegu.
+
+
+
+#$K+
+{bmr mapa.bmp}MAPA_EDIT>wmapa {bmc fonts1.bmp}    Letra mota aukeratu
+Ikusi...MORE_HELP_FONTS
+
+
+Testu gelaxketan erabiliko diren letra-tipoa, tamaina eta estiloak aukeratzen dituzu. 
+
+Windowsen oinarrizko letra motak erabiltzea aholkatzen dizugu, ahal bada TrueType motakoak. Inprimagailuaren beraren letra motak erabiltzea ez da komenigarria, letra mota horiek ez dituzten ondenagailuetan bestelako itxura eman dezakete eta.
+
+Handiegi den tamaina aukeratuz gero testua gelaxkatik kanpo gera lekizuke; programa berak txikituko du dagozkion neurriak lortu arte. Letra motaren txikiagotzeak arazoren bat gertatu diren leihoaren gelaxka guztietan eragiten du.
+
+Koloreei dagokienez testua, hondoa eta itzala aukera daitezke. Itzaletarako aukeratutako kolorea ,A leihorako ebazpideazH_A_SOLA elkaketetan denean, gelaxka ebatzietan testua idazteko ere erabiliko da. 
+
+Ezaugarri hauek hiru zonalde bakoitzeko desberdina izan daitezke. A leihoa, B leihoa eta mezuen kutxa. Leihoaren beheko aldean zein den zonaldea aukeratuko da, non egindako aldakuntzak aplikatuko diren.
+
+Testu ariketetanTOPIC_TXA lau zona daude: Testu gorputza, Testua gelaxketan, Laguntza leihoak, eta Mezuen kaxa. Lehenengoan kolore desberdinak aukera ditzakegu, bai Klikek hasieran erakusten duena, erabiltzailearena eta erroreak adierazteko erabiltzen dena. Komenigarria izaten da hiru kolore horiek kontrastea izatea haien artean ongi irakurri ahal izateko.
+
+Oraingo estiloa aplikatu hiru zonetan botoiak (testu ariketetan lautan) letra eta kolorearen ezaugarri berdinak emanendizkio zona guztietan.
+
+Baita posible da ere leiho nagusirako eta joku zonalderako hondoaren kolore ezberdinak ariketaren aukerakH_ACT_COLORS dialogoan.
+
+
+
+----------
+CLICDB
+----------
+#+
+
+
+{bml clicdb16.bmp}
+
+KlicDB
+1.0 Bertsioa
+Francesc Busquets, 1999
+fbusquets@pie.xtec.es
+http://www.xtec.es/recursos/clic
+
+
+{bmc bola.bmp} Zer egiten du klikDB programak?QUEES
+{bmc bola.bmp} Klik-eko txosten sistemaren funtzionamenduaSISTEMA
+{bmc bola.bmp} Datu basearen egituraESTRUCTURA
+{bmc bola.bmp} Erabiltzaile eta taldeen mantenimenduaUSRGRP
+{bmc bola.bmp} Talde txostenakINFGRP
+{bmc bola.bmp} Erabiltzaile txostenakINFUSR
+{bmc bola.bmp} Pakete eta ariketa txostenakINFPAC
+{bmc bola.bmp} Datu basea konpaktatuCOMPACT
+{bmc bola.bmp} KlikDB-ri deia parametroekinPARAM
+
+
+#+$
+Zer egiten du KlikDB programak?
+
+KlikDB Klik-eko osagarri bat da, oinarrizko bi funtzio onartzen dituena:
+
+{bmc bola.bmp}	Klik-eko txosten sistemaren mantenimendua egitea: erabiltzaile eta taldeei alta eta baja ematea, izenak aldatu, datuak garbitu, datu basea konpaktatu...
+
+{bmc bola.bmp}	Datu basean pilatutako informazioa kontsultatu, erizpide desberdinetatik hasita: taldeak, erabiltzaileak, paketeak, ariketak eta denboraldiak. Informazio hau zerrenda eta grafikoen bidez adierazten da.
+
+KlikDB-ko erabiltzaileak, informatika geletako arduradunak eta irakaslegoa dira batipat. Ikasleek, Klik-etik zuzenean kontsulta ditzakete lan-saioen emaitzak, Txostenak-Uneko erabiltzailearen txostenak menua aktibatuz. Honek, bere txostenen pantaila erakusten du soilik, programako beste funtzio batzuetara heltzeko aukerarik gabe. Sarean konektatutako geletan, datu basearen administrazioarekin arazoak ekiditzeko, KlikDB aktibatzen uzten duen ikonoa zerbitzailean soilik egotea gomendatzen da. Irakasleentzat bakarrik den zonalde batean da egokiena.
+
+Segurtasuna areagotzeko, KlikDB programa borra daiteke ordenagilu guztietan, sarearen zerbitzailea izan ezik. Hau erabakitzen bada, Klik-eko Aukera orokorretan, Erabiltzaile txostenak kontsultatzen utzi parametroa desaktibatu beharko da, errore mezuak ekiditzeko, ikasleak beren datuak bistaratzen saiatzen badira.
+
+{bmc linia.bmp}
+
+{bmc back.bmp}INDEX Aurkibidera bueltatu.
+
+
+
+#+$
+Klik-eko txosten sistemaren funtzionamendua
+
+
+Klik 3.0-k, erabiltzaileen ariketa txostenak datu base batean erregistratzen ditu. Datu base honek KLIKDB.MBD izena du mormalean, eta, Klik-eko karpeta berdinean egoten da (sarerik gabeko ordenagailuetan), edo estazio guztiek idatz eskubideak dituzten sareko karpeta batean. KLIKDB.MDB basea barnetik nola funtzionatzen duen ikusteko, Datu basearen egitura atala kontsultatzea gomendatzen da.
+
+Klik-eko Aukerak - Aukera orokorrak menuan KLIKDB.MDB fitxategiaren kokapena adieraz daiteke, eta bestelako aldagai batzuk ere, esate baterako, ikasleei utzi erabiltzaile eta talde berriak sortzen edo beraien txostenak bistaratzen baimendu.
+
+Txostenak erregistratzeko, Klik-ek ondorengo prozesua jarraitzen du:
+
+{bmc bola.bmp}	Txosten sistema aktibatuta baldin badago, Klik izeneko programa laguntzaile bat jartzen du martxan. Programa honen betekizuna, datu basea eta Klik-en arteko bitartekoa izatea da. KLIKREP.EXE fitxategiak, KLIK.EXE dagoen karpeta berdinean egon behar du beti, eta, erabiltzaileak ez dira saiatu behar inoiz zuzenean ixten edo aktibatzen: Klik arduratuko da beti aktibatzen beharrezkotzat jotzen duenean. Programa batetik bestera pasatzeko, ALT + TAB teklen konbinaketa erabiltzen denean ikono bat agertuko da. Honegatik bakarrik igarriko da KLIKREP programaren presentzia.
+
+
+{bmc bola.bmp}	Klik-ek lehendabizi KlikRep-i aginduko dio erabiltzaile identifikazioa pantaila erakusteko. Hortan, erabiltzaileek bi aukera dute: dagokien taldea eta izena hautatu, edo, Utzi botoian klik egitea. Horrela bada, datu basea eta  Klik-en arteko konexioa eteten da, eta, txosten sisteman deus erregistratu gabe egiten da lan.
+
+Beste aukera bat ere bada: erabiltzaileek beraiek alta ematea zuzenean identifikazio pantailatik, Erabiltzaile berria botoian klik eginez. Botoi hau, Klik-eko Aukera orokorrak menutik desaktiba daiteke, baita Talde berria botoia ere, erabiltzaile batek alta ematea erabakitzen duenean agertzen dena. 
+Kasu bakar batean ez da identifikazio pantaila agertuko: Klik /USER: XXX parametroarekin aktibatzen denean. XXX erabiltzailearen kodea da eta  saioaren txostenak erregistratzeko erabiliko da (kode hauek Talde eta erabiltzaileen mantenimenduaren pantailan kontsulta daitezke). Teknika honekin, erabiltzaile bakoitzarentzat ikono pertsonalizatu bat sor daitezke. Klik-i parametroen bidez nola deitu-ri buruz informazio gehiagorako Klik-eko laguntza kontsultatzea gomendatzen da. 
+Klik-eko Txostenak - Erabiltzaile berri batekin hasi menuak, erabiltzailearen identifikazio pantaila berriro aktibatzen uzten du.
+
+
+{bmc bola.bmp}	Behin erabiltzailea identifikatuta dagoela, Klik-ek datu baseko sessions taulan sarrera  berri bat sortzen du. Taula honen erregistro bakoitzak badu informazioa erabiltzailearen kodea eta saioa hasten den eguna eta orduari buruz. Uneko saioa hasten den eguna eta orduari buruz. Uneko saioa eten eta berri batekin has daiteke Klik-eko Txostenak - Saioa berri bat hasi menuaren bidez.
+
+{bmc bola.bmp}	Klik-ek hariketa pakete bat kargatzen duen bakoitzean, datu baseko pacs taulan erregistro berri bat sortzen du. Taula honek paketearen izena eta aktibatu den saioari buruzko informazioa du. Erabiltzaileak pakete bati ez dagokion hariketa bat martxan jartzen badu (ASS, PUZ, SOP, CRW eta TXA fitxategiak), pacs taulan sortzen du ere sarrera bat paketearen izenean gidoi bat erakusten duena.
+
+{bmc bola.bmp}	Erabiltzaileak hariketa bat bukatzen duenean, Klik-ek datu baseko acts taulan erregistratzen ditu emaitzak. Taula honen erregistro bakoitzak ariketaren izena, ekinaldi kopurua, ongi egindako hariketa kopurua, zehaztasun orokorra eta hariketa ebatzita izan den ala ez adierazten duen eremu logiko bat ere.
+Datu basean erregistratzen ez diren hariketa bakarrak explorazio ariketak, informazio pantailak eta Ariketaren aukerak-n Erabiltze txostenetan sartu eremua desmarkatua duten guztiak dira.
+
+
+Sistema sarean dabilenean, transakzio guzti hauek batera egiten dira datu baseak duen fitxategi bakar batean (KLIKDB.MDB). Estazio bakoitzak basea blokeatzen du informazioa idazten arei den bitartean. Honegatik, batzutan, eragiketa  ilara bat sortzen da eta honek hurrengo ariketaren pasua moteldu egiten du. Transakzioen abiadura ondorengo faltoretan datza: sarearen abiadura atea kapazitatea, estazio bakoitzak bere lana burutzen duen abiadura, zerbitzariaren diska gogorrera ailegatzeko denbora... etab. Unerik larriena, Klik estazio desberdinetatik aldi berean pizterakoan sor daiteke. Fitxategi bakar batekin seriean egiten diren eragiketa guztiekin gertatzen den bezala, ordenagailu motel batek, bizkorragoak diren beste estazio batzuetan eragina izango duen lan ilara bat sor dezake: leihatila bakarra dago eta denek txanda itxaron behar dute, zerbitzaria erabiltzen ari den erabiltzaileak bere transakzioak bukatu arte.
+
+{bmc linia.bmp}
+
+{bmc back.bmp}INDEX Aurkibidera bueltatu.
+
+
+#+$
+Datu basearen egitura
+
+
+Klik ariketen emaitzak gordetzen diren datu baseak Microsoft Access 1.1. motorra erabiltzen du. 32 bit-etarako aukera azkarrago eta ahaltsuagoak egon arren, formatu hau aukeratu zen, Klik, Windows 3.1.-rekin (16 bit) oraindik dabilen aplikazioa delako.
+
+Microsoft Access edozein bertsio erabil daiteke KLIKDB.MDB datu basetik datozen beste txosten edo kontsulta sortzeko. Baina, beti ere ondorengo hauek kontuan izanik:
+
+{bmc bola.bmp}	Ez KLIKDB.MDB datu basea inoiz eraldatu. Txosten gestore alternatibo bat sortu nahi bada, hutsik dagoen datu base batekin hasi behar da beti, beste izen batekin gorde eta KLIKDB.MDB taulak berari lotu. KLIKDB.MDB-n dauden kontsulta, lotura eta tauletan edozein aldaketa egiten bada, oso kaltegarria izan daiteke sistemaren funtzionamendurako.
+
+{bmc bola.bmp}	Accesseko Datu basea bilakatu funtzioa ez inoiz erabili KLIKDB.MDB fitxategi grabatzeko 1.1. bertsioa baino berriagoak diren formatuetan. Bestela, Klik-ek ezin izango lituzke aurkitu.
+
+{bmc bola.bmp}	Esperimenturik egin aurretik, KLIKDB.MDB fitxategiko sekuritate kopia bat gorde beti.
+
+Hau da KLIKDB.MDB datu baseko barnekaldea:
+
+TAULA
+EREMUA
+TIPOA
+DESKRIBAKETA
+groups
+groupId
+Autonumerikoa
+Talde kodea
+
+groupName
+Testu: 80 karakter
+Taldearen izena
+
+groupImg
+Testu: 200 karakter
+Taldearen fitxategi grafikoaren izena (aukerakoa)
+
+
+
+
+users
+userId
+Autonumerikoa
+Erabiltzaile kodea
+
+groupId
+Osoa Luzea
+Talde kodea (enlace a "groups")
+
+userName
+Testu: 80 karakter
+Erabiltzailearen izena
+
+userImg
+Testu: 200 karakter
+Erabiltzailearen fitxategi grafikoaren izena (aukerakoa)
+
+
+
+
+sessions
+sessionId
+Autonumerikoa
+Saioaren kodea
+
+userId
+Osoa luzea
+Erabiltzaile kodea (enlace a "users")
+
+dateTime
+Data/Ordua
+Saioaren hasieraren data eta ordua
+
+
+
+
+pacs
+pacId
+Autonumerikoa
+Pakete kodea
+
+sessionId
+Osoa luzea
+Saioaren kodea (enlace a "sessions")
+
+pacName
+Testu: 12 karakter
+Paketeko fitxategiaren izena
+
+
+
+
+acts
+actId
+Autonumerikoa
+Ariketaren kodea
+
+pacId
+Osoa luzea
+Paketearen kodea (enlace a "pacs")
+
+act
+Testu: 12 karakter
+Ariketaren fitxategiaren izena
+
+tries
+Osoa
+Egindako ekinaldiak
+
+placed
+Osoa
+Ongi:
+
+solved
+Logikoa (Bai/Ez)
+Ariketa ongi
+
+precision
+Byte
+Zehaztasun orokorra
+
+time
+Osoa
+Erabilitako denbora (segundutan)
+
+
+Taula hauetaz gain, KLIKDB.MDB fitxategiak, KlikDB programak erabiltzen dituen definizio kontsulta batzuk ere baditu. Kontsulta hauek ez dira inoiz ezabatuak edo aldatuak izan behar.
+
+{bmc linia.bmp}
+
+{bmc back.bmp}INDEX Aurkibidera bueltatu.
+
+
+#+$
+Erabiltzaile eta talde mantenimendua
+
+
+Programaren sail honek, talde eta erabiltzaile datuen garbiketa, alta eta bajei buruzko eragiketa batzuk egiten uzten du.
+
+Bai taldeek, bai erabiltzaileek badute identifikazio kode bakarra, programak, era automatiko batean ematen duena eta aldatu ezin dena. Erabiltzaileak ez du kode  hau inoiz ikusiko, baina, sistema administratzaileak ikono pertsonalizatuak sortzeko erabil dezake, hauek /USER:XXX parametroarekin Klik-i deitzeko. Parametroekin deiari buruz gehiago jakiteko, Klik-eko laguntza erabili.
+
+Erabiltzaile guztiak talde batekoak izan behar dira derrigorrez.
+
+Talde eta erabiltzaile guztiek, besteengatik bereiziko dituen izen bat izan behar dute. Izen berdina duten be erabiltzaile egon daitezke talde desberdinetan, baina, inoiz ez talde berdinean. Talde edo erabiltzaile izenerako gehienezko luzera 80 karakterrekoa da.
+
+Bai Klik, bai KlikDB-k, erabiltzaile eta taldeen zerrendak alfabetikoki ordenatuak erakusten dute. Orden hau aldatu nahi bada, zenbakiren bat idatz daiteke izenaren aurrean. Adibidez, datu basean, "Lehenengoa", "Bigarrena", "Hirugarrena", "Laugarrena", "Bostgarrena" eta "Seigarrena" taldeak definitu badira, orden alfabetikoak erakutsiko digu:
+
+Bigarrena
+Bostgarrena
+Hirugarrena
+Laugarrena
+Lehenengoa
+Seigarrena
+
+Taldeak dagokien tokian agertzeko, zenbaki bat idatz daiteke izenaren aurrean, esate baterako:
+	
+01- Lehenengoa
+02- Bigarrena
+03- Hirugarrena
+04- Laugarrena
+05- Bostgarrena
+06- Seigarrena
+
+Datu basean badaude talde bat eta erabiltzaile bat "Ezezaguna" izenekoak. Erregistro hauek ezin dira eliminatu eta txosten sistemarekin frogak egiteko sortuak dira, erregistratutako beste erabiltzaileen datuei kalterik ez egiteko. Puntu bat daramate izenaren aurrean zerrendaren hasieran agertzeko beti.
+
+Taldeak edo erabiltzaileak bere izenaren bidez identifika daitezke, ala, nahi bada, saioak hasterakoan Klik-ek aurkezten duen zerrendan agertuko den irudi baten bitartez (BMP edo ICO fitxategiak: hemen ez da GIF-ik onartzen). Irudi hauen gehienezko neurriak, 68 x 68 pixel da: tamaina handiagoa erabiliz gero, irudia moztuta agertuko da. Sarean konfigurazioetan, komeni da irudi hauek zerbitzailearen karpeta banatuan egotea.
+
+Talde eta  erabiltzaileen mantenimendu pantailan erabilgai diren aukerak hauek dira:
+
+{bmc bola.bmp}	Propietateak
+	Erabiltzaile eta talde bakoitzeko irudiaren egokitzapena eta izena aldatzen uzten du. Erabiltzaile bakoitzari emandako kodea ikusten ere uzten du.
+
+
+
+{bmc bola.bmp}	Erabiltzaile nahiz talde berria sortu. 
+Botoi honek talde berri bat edo aukeratutako taldearen barruan erabiltzaile berri bat gehitzen dio datu baseari.
+
+{bmc bola.bmp}	Datuak garbitu.
+Aukera honekin hautatutako talde edo erabiltzaile batek denboraldi batean egindako ariketa, pakete eta sesioak ezabatzen dira. Programak ohar mezu bat aurkezten du, eta jarraian leiho bat non garbitu nahi duzun denboraldiaren hasierako eta amaierako datak adierazi bait daitezke.
+	Talde baten datuen garbiketak, barruan dauden erabiltzaile guztien datuak ezabatuko direla suposatzen du.
+	Gomendagarria da datu basea trinkotzea garbiketa funtzioren bat erabili ondoren.
+
+{bmc bola.bmp}	Ezabatu
+	Botoi honek guztiz ezabatzen du datu basetik aukeratutako erabiltzaile nahiz taldea. Taldeak edo erabiltzaileak egindako sesio, pakete eta ariketak ezabatzen ditu ere.
+	Talde baten ezabaketak bertako erabiltzaileen desagerpena suposatzen du. 
+	Aurrekoan bezala, gomendagarria da datu basea trinkotzea ezabaketak egin ondoren.
+ 
+Sareko konfigurazioetan gomendagarria da altak, bajak eta garbiketak egitea beste lan terminalak Klik programa erabiltzen ari ez diren bitartean. Erabiltzaile baten garbiketa edo ezabaketak Klik programa erabiltzen ari den bitartean, errore bat sortuko luke txostenen sisteman. 
+{bmc linia.bmp}
+
+{bmc back.bmp}INDEX   Aurkibidera itzuli
+
+
+#+$
+Taldearen txostenak
+
+
+Leiho honetan daten arabera talde zehaz baten erabiltzaileek egindako sesio guztien emaitzak taldekatzen dira.
+
+Leihoaren goiko ezkerraldean agertzen den zerrenda zabalgarriak txosteneak aipatuko duen taldea aukeratzen uzten du
+
+Hasieran txosten orokor bat erakusten da, bertan taldeko edozein kideak erabilitako pakete guztien ariketak agertzen direlarik. Honi buruzko datuak zerrendak pakete zehatz bati buruzko datu maila murrizten uzten du. Txostenak ariketaka eta paketeka leihoan pakete baten aurrean talde batek ateratako emaitzaz, informazio zehatzago lor daiteke.
+
+Hemendik: Honera: botoiak leiho batera eramaten zaitu non txostenaren denboraldia adieraz bait daiteke.
+
+Taula nagusiak, aukeratutako paketea erabili duen taldeko data bakoitzaren laburpenak erakusten ditu: egindako ariketen kopurua, burututako ariketak, erabateko denbora eta zehaztapen orokorra. Zehaztapen orokorra, taldeko erabiltzaile guztien batazbestekoen batazbestekoa da, eta beste zutabea (denbora barne) erabiltzaile bakoitzak pilatutako total guztien batura da.
+
+Zehaztapen orokorra taulak totalak eta taula nagusian agertzen diren sesio guztien zehaztapenaren batazbestekoa erakusten du. 
+
+Grafikak bi aldagairen eboluzioa denboran zehar agertzen ditu: zehaztapen orokorra (erabiltzaile guztien zehaztapenen batazbestekoa) eta data bakoitzean burututako ariketen portzentaia, egindako ariketa guztiekiko.
+
+Inprimatu botoiak bi funtzio ezberdin egiten uzten du: pantailan dagoen irudia (grafika barne) pantailara pasa edo datu guztien zerrendaketa testu formatuan.
+
+
+{bmc linia.bmp}
+
+{bmc back.bmp}INDEX   Aurkibidera itzuli
+
+
+#+$
+Erabiltzailearen txostenak
+
+
+Leiho honek erabiltzaile konkretu baten emaitzen informazio zehatza ematen du.
+
+Leihoaren goiko ezkerreko bi zerrenda zabalgarriek txostenari dagozkion taldea eta erabiltzailea aukeratzeko balio dute. Zerrenda hauek desaktibaturik daude Klikeko Txostenak-Oraingo erabiltzailearen txostenak menutik deitua izan bada. Honela, sistemaren gestorea ez den erabiltzailea, beste erabiltzaileen datuetara ezin da ailegatu.
+
+Honi buruzko datuak: zerrendak, erabiltzaileak egindako pakete guztien arteko ariketa pakete zehatz bateko datuetara murriztea uzten du. Informeak ariketaka eta paketeka leihoak, pakete baten aurrean erabiltzaile baten emaitzetaz informazioa jasotzeko aukera ematen du. 
+
+Hemendik: Honera: botoiak leiho batera eramaten zaitu non txostenaren denboraldia adieraz bait daiteke. 
+
+Sesioak zerrenda, hautatutako paketea (edo edozenin pakete, ezer ez bada markatu), erabiltzaile batek zenbatetan erabili duen erakusten du. Zerrenda honetako elementuetan klikatuz, erabiltzaileak egindako ariketa guztien taula zehatz bat erakusten da: pakete eta ariketaren izena, erabilitako denbora, saiakerak, erantzun zuzenak, butututako erantzunak eta zehaztapen orokorra. Taula honen azpitik beste bat agertzen da sesioaren laburpenarekin: egindako ariketen kopurua, burututako ariketak, erabateko denbora eta zehaztapen orokorraren batazbestekoa. 
+
+Paketeen zerrendaren azpitik agertzen den Laburpen orokorra, zerrendaren datuetatik kalkulatzen da.
+
+Grafikak bi aldagairen eboluzioa denboran zehar agertzen ditu: zehaztapen orokorra (erabiltzaile guztien zehaztapenen batazbestekoa) eta data bakoitzean burututako ariketen portzentaia, egindako ariketa guztiekiko.
+
+Inprimatu botoiak bi funtzio ezberdin egiten uzten du: pantailan dagoen irudia (grafika barne) pantailara pasa edo datu guztien zerrendaketa testu formatuan. Zerrendaketa aukeratzen bada, bi aukera gehiago daude: zerrendatik aukeratutako sesioaren emaitzak inprimatu edo sesio guztien laburpenak inprimatu.
+
+
+
+
+{bmc linia.bmp}
+
+{bmc back.bmp}INDEX   Aurkibidera itzuli
+
+
+#+$
+Pakete eta ariketen txotenak.
+
+
+Leiho honetan erabiltzaileen emaitzak ariketa pakete zehatz batekiko edo paketeko ariketa zehaz batekiko beha daitezke. Pantailaren goiko ezkerreko bi zerrendek, kalkulatuko den pakete ala hariketa aukeratzen uzten dute.
+
+Informea erabiltzaile guztiei buruz, talde zehatz bateko erabiltzaileei buruz ala erabiltzaile bakar bati buruz izan daiteke.
+
+Hemendik: Honera: botoiak leiho batera eramaten zaitu non txostenaren denboraldia adieraz bait daiteke. 
+
+Saioak zerrendak, daten arabera taldekatuta, erabiltzaile batek zenbatetan egin duen guk aukeratutako pakete edo ariketa erakusten du. Zerrendako elementuetan klik eginez, data horretan ateratako emaitzen laburpena agertzen da: Egindako ariketak, burututako ariketak, erabateko denbora (erabiltzaile guztiek erabilitako denboraren batura eta zehaztapen orokorraren batazbestekoa.
+
+Datu orokorrak taulak hauxe adierazten du: zenbat erabiltzailek egin duten pakete edo ariketa, zenbat sesioetan agertu den, egindako ariketen kopurua, burututako ariketak, erabateko denbora eta zehaztapen orokorraren batazbestekoa. 
+
+Paketearen eboluzioa grafikak bi aldagai aurkezten ditu denboran zehar: zehaztapen orokorra (data bakoitzean ateratako zehaztapen orokorraren batazbestekoa) eta burututako ariketen portzentaia egindako ariketa guztiekiko
+
+Emaitzen  banaketak bost zutabetan taldekatzen ditu ariketan edo pakete zehatz batetan ateratako emaitzak. Ezkerreko zutabeak emaitza bajuenak zenbatean atera diren adierazten du (%0-tik %20-raino) eta ezkerrekoak berriz, emaitza altuenak zenbatetan atera diren esaten digu (%80-tik %100-raino).
+ 
+Erabiltzaileen sailkapena, paketea edo hariketa egin duten erabiltzaile guztien zehaztapen orokorraren batazbestekotik lortzen da. Garrantzitsua da Arik., zutabean arreta jartzea. Bertan erabiltzaileak, paketearen ariketak zenbatetan egin dituen adierazten da. Erabiltzaile batek behin hariketa bat emaitza on batez egingo balu, pakete osoa hainbat aldiz errore batzuekin egin duen erabiltzaile baten aurretik geratuko litzateke zerrendan. Erabiltzaile baten portaera zehatza (pakete batekiko) ongi jakiteko, gomendagarria da baita erabiltzailearen txostenak leihoa kontsultatzea ere.
+
+Inprimatu botoiak bi funtzio ezberdin ditu: pantailan dagoen irudiaren inprimaketa (grafikak barne) edo datuen zerrendaketa testu formatuan. Zerrendaketa aukeratzen bada, bi aukera gehiago daude: zerrendatik aukeratutako sesioaren emaitzak inprimatu edo sesio guztien laburpenak inprimatu.
+
+{bmc linia.bmp}
+
+{bmc back.bmp}INDEX   Aurkibidera itzuli
+
+
+#+$
+Datu basea trinkotu
+
+
+Datu baseko fitxategia haundituz joaten da nahiz eta datuak garbitu edo erabiltzaileak eta taldeak ezabatu.
+
+Noizean behin komeni da mantenuko operazio bat egitea, hots, baliozkoak ez diren datuak fitxategitik ezabatzea. Datu baserako sarrera azkarragoa izango da noizbehinka egiten bada hau.
+
+Gomendatzen da bestalde, operazio hau egin aurretik,CLICDB.MDB fitxategiko segurtasun kopia bat egitea. Elektrizitate eten bat edo sistemaren oker batek datu basea suntsi bait dezake.  
+
+Operazio hau ez da egin behar sareko beste erabiltzaileak ari badira datu basea erabiltzen. 
+
+Datu basea haunditu bada, trinkoketa minutu batzuk luza daiteke.
+
+{bmc linia.bmp}
+
+{bmc back.bmp}INDEX   Aurkibidera itzuli
+
+
+#+$
+ClicDB-ri parametrodun deia
+
+
+Hauek dira ClicDB-ri deitzen dioten ikonoen agindu lerroan aukeran sar daitezken parametroak:
+
+/DB:datu basea
+ClicDB-k CLIC.INI-ko fitxategiko reportBase parametrotik datu basearen kokapena lortzen du, baina aukerako beste datu basekin lan egitera behar daiteke, haren bidea eta izena paramotro honetan idatziz.
+Adibidez, agindu lerro honek:
+CLICDB.EXE T:\INFCLIC\FROGA.MDB
+... programak, FROGA.MDB T:\INFCLIC karpetako datu basea erabiltzen behartuko luke. Parametro honez zehaztutako datu baseek, Klikeko txosten sistemaren formatu  berdina izan beharko dute. Frogak egin nahi izanez gero CLICDB.MDB fitxategiaren kopia batetik hastea gomendatzen da.
+
+/USER:userId
+Parametro hau agindu lerroan agertzerakoan, ClicDB-k userId zenbaki kodea duen erabiltzailearen txostenen pantaila, zuzenean erakusten du. Erabiltzaile bakoitzaren kodeak kontsulta daitezke, erabailtzaile eta taldeen mantenimendua pantailara joanez.
+Adibidez, agindu lerro honek:
+CLICDB.EXE /USER:35
+... 35 kodea duen erabiltzailearen txostenen pantaila agertaraziko luke. Kode honekin erabiltzailerik ez balego, errore mezu bat agertuko litzateke. ClicDB-ri parametro honekin deitzen zaionean, beste erabiltzaileen txostenak kontsultatzeko aukera eta baita programaren beste pantailetarako sarrera blokeatuta dago. Funtzio honen zergatia hauxe litzateke: ikasle bakoitzari bere txostenak kontsultatzeko aukera ematen zaio agindu honekin baina datu basean dagoen informazioa ezin izango du aldatu. Klikek, Txostenak-Oraingo erabiltzailearen txostenen menua aktibatzen denean.
+
+
+Bi parametro hauek agindu lerro berberan konbina daitezke tarte txuri batez banatuz. 
+{bmc linia.bmp}
+
+{bmc back.bmp}INDEX   Aurkibidera itzuli
+
+-----------
+CLICPAC
+-----------
+# $ + 
+
+
+{bml clic0000.BMP}
+KlikPak
+2.2 bertsioa
+Francesc Busquets, 1998
+fbusquets@pie.xtec.es
+http://www.xtec.es/recursos/clic
+
+
+{bmc clic0001.BMP} Zer egiten du KlikPak-ek?Zer_egiten_du_KlikPak_ek
+
+{bmc clic0001.BMP} Paketeen edukia ikustekoIDH_Paketen_edukia_ikusteko
+
+{bmc clic0001.BMP} Klik pakete trinkoak sortzekoIDH_Klik_pakete_trinkoak_sortzeko
+
+{bmc clic0001.BMP} PCC paketeak destrinkotzekoIDH_PCC_paketeak_destrinkotzeko
+
+{bmc clic0001.BMP} PAC pakete arruntak kopiatzekoIDH_PAC_pakete_arruntak_kopiatzeko
+
+{bmc clic0001.BMP} PAC eta PCC paketen arteko desberdintasunakPAC_eta_PCC_paketen_arteko_desberdintasunak
+
+
+# $ + 
+Zer egiten du KlikPak-ek?
+
+
+KlikPak Klik 2.2 bertsioaren programa osagarria da eta oinarrizko lau funtzio hauek betetzen ditu:
+
+{bmc clic0001.BMP}	Klik paketeen edukia ikusi (PAC eta PCC fitxategiak)
+
+{bmc clic0001.BMP}	Klik pakete trinkoak (PCC) sortu pakete arrunteetatik (PAC) abiatuta
+
+{bmc clic0001.BMP}	PCC paketeak destrinkotu, eta formatu arrunta bihurtu.
+
+{bmc clic0001.BMP}	Pakete arruntak (PAC) kopiatu karpeta batetik bestera, eta, bide batez, haiekin batera funtzionatu ahal izateko beharrezkoak diren fitxategi guztiak eraman.
+
+{bmc clic0003.BMP}
+
+{bmc clic0002.BMP}IDH_KlikPak   Aurkibidera itzuli
+
+
+# $ + 
+Paketen edukia ikusteko
+
+
+Klik pakete batek dituen fitxategiak ikusteko hurrengo pausuak eman behar dira:
+
+{bmc clic0001.BMP}	Aurrena ikusi nahi den paketea (PAC edo PCC) aukeratu.
+
+{bmc clic0001.BMP}	Paketea dagoen unitatean eta direktorioan kokatu.
+
+{bmc clic0001.BMP}	Egin klik behin bakarrik izenaren gainean. Programak analizatu eginen du paketea eta barruan dauden fitxategi guztien zerrenda erakutsiko du.
+
+Fitxategi horietako batzuen argibideak nahi izanez gero, klik egin behar da izenaren gainean. Irudien kasuan (BMP eta GIF fitxategiak) eskuineko leihoan irudi txikia agertuko da. Testuei dagokienean testua erakusten du, eta ariketa bada (PUZ, ASS. SOP eta CRW fitxategiak) haien funtzionamenduan azaltzen diren aldagaien zerrenda agertuko da.
+
+Pakete honek oso egitura konplexua badu edota direktorio desberdinetan dauden ariketak aukeratzen badira, komenigarria da Ez arakatu paketearen direktoriotik kanpo aukerari ematea.
+
+{bmc clic0003.BMP}
+
+{bmc clic0002.BMP}IDH_KlikPak   Aurkibidera itzuli
+
+
+# $ + 
+Klik pakete trinkoak sortzeko
+
+
+Klik pakete trinkoa sortzeko pakete arrunt batetik abiatuko gara (PAC luzapena duten fitxategiak). Klik pakete trinkoek fitxategi bakar batean ezartzen dituzte funtzionatzeko beharrezkoak diren fitxategi guztiak: ariketak, testuak, irudiak, loturiko beste paketeak... multimedia fitxategiak izan ezik (soinuak, bideoak...) eta kanpoko beste fitxategiak (laguntzak, write testuak, programak, DLLak, etab.); azken fitxategi hauek bereizturik agertu beharko dira Windows programak interpretatu ahal izateko.
+
+Klik pakete trinkoak sortzeko hurrengo pausuak eman behar dira:
+
+{bmc clic0001.BMP}	Aukeratu ondoko fitxategi mota: "Klik pakete arrunta (PAC)"
+
+{bmc clic0001.BMP}	Ariketen paketea dagoen unitatea eta direktorioa aukeratu.
+
+{bmc clic0001.BMP}	Egin klik trinkotu nahi dugun paketearen izenaren gainean. Loturiko pakete sorta bada, pakete nagusia aukeratu beharko da.
+
+{bmc clic0001.BMP}	Paketearen edukiaren analisia bukatzen denean, Trinkotu botoiari emanen diogu.
+
+{bmc clic0001.BMP}	Ondoren agertuko den pantailan pakete trinkotuan egon behar duten fitxategiak aukeratuko ditugu eta horretarako Sartu edo Baztertu botoiak erabiliko dira. Paketeak erabiltzen baditu beste direktorioetan dauden materialak, direktorio nagusian ez dauden fitxategiak automatikoki baztertzeko aukera ere agertuko da.
+
+{bmc clic0001.BMP}	Era berean, pakete trinkoaren deskribapen zehatza ezar daiteke, eta proposatutako izena edo direktorioa aldatu. Arazorik ez izateko komenigarria izaten da fitxategien luzapena ez aldatzea: Kliken pakete trinkoek beti eramaten dute PCC luzapena.
+
+{bmc clic0001.BMP}	Parametro guztiak behin finkatuz gero, klik egin Pakete trinkoa sortu botoriaren gainean.
+
+Programak PCC fitxategiarekin bukatzen duenean barnean dituen fitxategi guztiak disko gogorretik ezabatzea proposatuko du. Komenigarria izaten da aukera hau onartzea disko gogorrean toki librea uzteko.
+
+{bmc clic0003.BMP}
+
+{bmc clic0002.BMP}IDH_KlikPak   Aurkibidera itzuli
+
+
+# $ + 
+PCC paketeak destrinkotzeko
+
+
+Klikek pakete trinkoa (PCC fitxategiak) erabiltzen duenean ariketak editatzeko aukerak desaktibaturik agertzen dira. Zerbait aldatu nahi badugu jatorrizko formatura (PAC) itzuli beharko dugu.
+
+Pakete trinkoa PAC formatura itzultzeko hurrengo pausuak eman behar dira:
+
+{bmc clic0001.BMP}	Aukeratu ondoko fitxategi mota: "Klik pakete trinkoa (PCC)"
+
+{bmc clic0001.BMP}	Paketea dagoen unitatea eta direktorioa aukeratu.
+
+{bmc clic0001.BMP}	Egin klik destrinkotu nahi dugun paketearen izenaren gainean.
+
+{bmc clic0001.BMP}	Paketearen edukiaren analisia bukatzen denean, Destrinkotu botoiari emanen diogu.
+
+{bmc clic0001.BMP}	Paketearen edukia ateratzeko unitatea eta direktorioa aukeratu. Programak, berez, PCC fitxategia proposatzen du.
+
+{bmc clic0001.BMP}	Destrinkotzeko fitxategiak aukeratu. Hasieran guztiak agertuko dira markaturik, baina, agian, haietako batzuk bakarrik interesa zaizkigu. Aukera anitzak egin daitezke tekla berezi batzuk sakatuz [Kontrola] edo [Maiuskulak] eta bitartean fitxategien izenetan klik eginez.
+
+{bmc clic0001.BMP}	Behin fitxategiak aukeratuz gero, Atera botoiari eman.
+
+Programak sortuko ditu aukeratutako fitxategiak helburu direktorioan. Ekintza honek ez du fitxategirik ezabatzen pakete trinkotik, haietako kopia eginen du. Pakete trinkotik fitxategi guztiak ateratzen baditugu, komenigarria izaten da PCC fitxategia eskuz ezabatzea, disko gogorrean toki librea uzteko.
+
+{bmc clic0003.BMP}
+
+{bmc clic0002.BMP}IDH_KlikPak   Aurkibidera itzuli
+
+
+# $ + 
+PAC pakete arruntak kopiatzeko
+
+
+Programak duen funtzioetako bat zera da: Klik arrunt (PAC) baten paketean aukeratutako dauden elementuak kopiatzea karpeta desberdin batean. Ekintza honen bidez jakin dezakegu zein diren ariketetan erabiltzen ez diren fitxategiak, eta disko gogorrean toki librea utzi.
+
+Paketea kopiatzeko segitu beharreko pausuak hauek dira:
+
+{bmc clic0001.BMP}	Aukeratu fitxategi hau: "Klik pakete arruntak (PAC)"
+
+{bmc clic0001.BMP}	Paketea dagoen unitatea eta direktorioa aukeratu.
+
+{bmc clic0001.BMP}	Egin klik kopiatu nahi dugun paketearen izenaren gainean. Loturiko pakete sorta bada, pakete nagusia aukeratu beharko da.
+
+{bmc clic0001.BMP}	Paketearen edukiaren analisia bukatzen denean, Kopiatu botoiari emanen diogu.
+
+{bmc clic0001.BMP}	Unitatea eta direktorioa aukeratu, han fitxategiak kopiatzeko. Jatorrizko paketea dagoena ezin da aukeratu. Direktorio garbia, beste fitxategirik ez duena, aukeratzea proposatzen dugu. KlikPak-etik ezin da direktoriorik sortu, baina ekintza hori egin daiteke Windows 3.1-en Fitxategi Kudeatzailetik, edo Windows 9Xren esploratzailetik.
+
+{bmc clic0001.BMP}	Kopiatzeko fitxategiak aukeratu (guztiak markatzea da komenigarria), eta Kopiatu botoiari emanen diogu.
+
+Behin paketea kopiatuta egonda beste direktorioan komenigarria da funtzionatzen duen frogatzea. Dena ongi badabil, ezaba dezakegu jatorrizko direktorioan zegoena.
+
+{bmc clic0003.BMP}
+
+{bmc clic0002.BMP}IDH_KlikPak   Aurkibidera itzuli
+
+
+# $ + 
+PAC eta PCC paketen arteko desberdintasunak
+
+
+Klik pakete trinkoek (PCC luzapena duten fitxategiak) bil ditzakete fitxategi bakar batean ariketa pakete osoa exekutatzeko beharrezkoak diren material guztiak, baina badira salbuespen gutxi batzuk:
+
+Multimedia fitxategiek (WAV, AVI, MIDI, etab.) pakete trinkotik kanpo egon behar dute Windows programak interpretatu ahal izateko.
+
+Fitxategi lagungarriek ere (WRI, DLL, EXE, etc.) haien berezko formatua mantendu behar dute.
+
+Ez da ezinbestekoa pakete baten material guztiak PCC fitxategian sartzea. Nahiago badugu, beste fitxategiak ere utz ditzakegu jatorrizko formatuan. Klikek, pakete trinkoa erabiltzen ari denean, behar dituen materialak PCC fitxategian bilatuko ditu. Aurkitzen ez baditu kanpoan bilatuko ditu, eta han ez badaude., errore mezua emanen digu.
+
+Ariketak eta paketeak ezin dira aldatu PCC paketean dauden bitartean. Aldaketak egin nahi badira, edo barneko egitura ikertu, destrinkotu beharko da eta jatorrizko PAC formatuan kargatu. Aldaketak eginda daudenean, komenigarria izaten da trinkotzea berriro.
+
+Loturiko paketeak trinkotu badira, PCC fitxategia kargatzean martxan jarriko den lehenengo paketea beti izanen da pakete trinkotzeko momentuan lehentasuna izan duena.
+
+PCC fitxategiek ez dituzte datuak trinkotzen (ZIP-en moduan), barneko fitxategi guztien informazioa lotzen dute. Hala ere, PCC pakete trinkoen erabilpenak disko gogorreko espazioa aurrezten du; bazterreko okupazioa murrizten baitu. Bazterreko okupazio hori kokatzeko taulen sistemak (FAT) eragiten du, eta hori izaten da MS-DOS eta Windows 95 sistemek erabiltzen duten bidea.
+
+Klik ariketek fitxategi txiki asko erabiltzen dute. Disko gogorrak FATen bidez antolatzen dituzte fitxategi horiek eta behar duten espazio baino gehiago betetzen dute. Espazio hau disko handienetan 30 Kb-era heldu daiteke. Disko gogorrak "clusters" izeneko gelaxkatan daude antolaturik, eta hauetan gordetzen dira fitxategiak. Fitxategi bakoitzak, gutxienez, "cluster" bat betetzen du (ezin da beste batekin egon, oso txikia izan arren). Horregatik lerro bakarreko testuak, teorikoki 60 karaktere bakarrik dituena, disko gogorrean 30.000 beteko ditu. PCC paketen bidez gutxitu daiteke hein handi batean bazterreko espazioaren galera (zenbait kasutan 1 eta 1.000ren arteko aldea egon daiteke).
+
+{bmc clic0003.BMP}
+
+{bmc clic0002.BMP}IDH_KlikPak   Aurkibidera itzuli
+
+
+
+
+
+
+
+-----------------
+ARITH2
+-----------------
+#$+
+
+{bml logoarit.bmp}Buru kalkuluko ariketen sortzailea Klik 2.2 programarentzat
+
+
+Laguntza dokumentu honetan ondoko gaiei buruzko argibideak aurkituko dituzu:
+
+{bmc bquadrat.bmp}CONFIGURE	Konfiguratzeko elementuakCONFIGURE
+{bmc bquadrat.bmp}FUNCIONAMENT	Arith2 moduluaren funtzionamenduaFUNCIONAMENT
+{bmc bquadrat.bmp}COMCREAR	Nola sortu ariketak Arith 2-ren bidez?COMCREAR
+
+
+#$+
+Konfiguratzeko elementuak
+
+Egizu klik elementuen gainean beraien funtzionamenduei buruzko argibideak izateko:
+
+{bml dialeg.shg}
+
+#
+Hamartarrak:
+
+Atal honetan eragiketak sortzean erabiliko diren hamartar kopurua zehazten da. Emaitzan lortuko den hamartar kopurua A eta B eragileetan edo gaietan egindako aukerak markatuko du.
+
+
+#
+Baldintzak:
+
+Atal honetan gai bat bestea baino handiagoa edo txikiagoa ezar daiteke. Erabilitako irizpidea mugakTOPIC_LIMOP izeneko atalarekin kontrajarria bada eragiketa nuluakTOPIC_OPNUL. lortuko ditugu.
+
+
+#
+Eragiketa nuluak:
+
+Eragiketak zoriz sortu nahi ditugunean, baldintzak gehiegi murrizten direnean, askotan, haien emaitza zero izanen da edota emaitza errepikatua. Kasu hauetan murrizten dituzten baldintzak (mugak, baldintzak, zenbaki hamartarrak) zabaltzea da egokiena emaitza ahalik eta desberdinenak lortzeko.
+
+
+#
+Ordena:
+
+Atal honetan aukera izanen dugu egiten diren eragiketak idazteko edukineko fitxategietan goranzko edota beherazko ordenean. Funtzio honek balio handia du "buruhausgarriak" motako eragiketetan, multzo bakarreko elementuak ordenatzen dituelako, eta identifikatzeko ariketetan elementu txikiagoa edo handiagoa aurkitu behar delako.
+
+
+#
+Bikoiztuak saihestu:
+
+Ordenatzeko motaren bat aukeratu bada eragiketak egiteko, interesgarria izan daiteke saihestea emaitza errepikatuak, ariketak ebazteko unean errazago egiteko. Hala ere, ariketak sortzeko baldintzak oso murriztuta badaude, edo eragiketa nuluakTOPIC_OPNUL sortzeko aukera badago emaitza bikoiztua eman daiteke.
+
+
+#
+Emaitzaren mugak:
+
+Atal honetan emaitzetarako kontutan hartzeko mugak -bai goikoa, bai behekoa- zehazten dira. Hemen ezarritako mugak eragileetan ezarritakoekin kontrajartzen badira eragiketa nuluakTOPIC_OPNUL lor ditzakegu.
+
+
+#
+"Buruko"rik gabe:
+
+Zenbaki osoak eta positiboak batu edo kentzen ditugunean, aukera honi ematen badiogu, lortuko ditugun eragiketetan ez dira hamarrekorik geratuko bururako algoritmoaren inongo momentuan. Honek esan nahi du digitoen batura edo kendura ez dela inoiz izango 9 baino handiagoa.
+
+
+#
+Eragiketak:
+
+Atal honetan sortutako ariketetan sartuko diren eragiketak aukeratzen dira. Gutxienez, ariketa bat aukeratu behar da.
+
+
+#
+Ezezaguna:
+
+Ezezagunaren kokapena aukeratzen da honetan. Emaitza izan daiteke (A @ B = ?), lehenengo gaia (? @ B = C), bigarrena (A @ ? = C), edo eragiketa mota (A ? B = C). Gutxienez aukera bati ekin beharko zaio.
+
+
+#
+Alderantzizko adierazpena:
+
+Gelaxka hau aukeratuz gero, eragiketa guztiak C = A @ B formatuan agertuko dira eta ez arruntagoa den A @ B = C formatuan.
+
+
+#
+Gaien mugak:
+
+A eta B gaien sorrera kontrolatzeko A y B goiko muga eta beheko muga ezarri behar dira. Muga hauek -9999 eta 9999ren artean daude. Lehenengo mugak bigarrena baino txikiagoa edo berdina izan behar du beti.
+
+Gai hauetan edota emaitzetan oso muga murritzak ezarriz gero, eragiketa nuluakTOPIC_OPNUL edo errepikatuak lor ditzakegu.
+
+
+#
+0, 1 edo -1 erabiliz:
+
+Aukeran, noiz behinka interesgarria izan daiteke 0, 1 edo -1 zenbakiak agertzea nahiz eta beheko eta goiko mugen artean ez izan. Zenbaki hauetako bakoitzak badu %10eko aukera gaien artean ateratzeko zorizko sortzailean, eta horretaz landa goiko eta beheko mugen artean egoteagatik normalean izango lituzkeenak.
+
+
+#
+Zerrendako bat:
+
+Beste era bat eragile gisa erabiliko diren zenbakiak finkatzeko zera hau dugu: zerrenda hau aktibatu eta agertuko diren zenbakiak idatzi, beti ere  ";" (punto eta koma) ikurrak bereizturik. Zerrendan idatziko diren zenbakiek zenbaki osoak izan behar dituzte. Aukera hau hautatuz gero mugen aukera baztertuko da eta 0, 1 eta -1 sartuko dira.
+
+
+#$+
+Arith 2 moduluaren funtzionamendua
+
+Arith2 modulua Klik 2.2 programarentzako ariketen sortzaile automatikoa. Haren funtzioa zera da: Klikeko buru kalkuluko ariketetan beharrezkoak diren fitxategiak sortzea. Fitxategi hauetan zoriz sortutako eragiketa aritmetikoak idatziko dira  konfiguratzeko tresnanCONFIGUREezarritako parametroen arabera.
+
+Ariketak sortzeko ezar daitezkeen baldintzak hauek dira:
+
+Eragiketa mota: 	EragiketaTOPIC_OPER hauen artean batuketa, kenketa, biderkaketa y zatiketa aukera daitezke, edo haien arteko konbinaketa.
+
+Adierazpenak: 	EzezagunaTOPIC_INCOG gaietako edozein izan daiteke, emaitza edo, baita ere, eragilea. Eragiketak alderantziz ere idatz daitezke (C=A@B en vez de A@B=C).
+
+Gaien mugak: 	Gaiak mugatzekoTOPIC_LIMOP goiko eta beheko mugak ezar daitezke, edota zerrenda itxia idatzi nahi diren zenbakiekin. Aukeran ere, 0, 1 eta -1 izan daitezke hautatzen direnak.
+
+Hamartar kopurua: 	Arith2 moduluak sor ditzakeen eragiketetan zenbaki osoak, arrazionalak eta hamartarrakTOPIC_DECIMALS ager daitezke ehuneraino.
+
+Eragileen baldintzak: 	Nahi izanez gero, eragile bat bestea baino handiagoa izan daitekeTOPIC_CONDI.
+
+Emaitzaren baldintzak: 	Emaitzaren kasuan ere mugakTOPIC_LIMRES ezar daitezke. Emaitzan lortuko dugun hamartar kopurua eragileetan aukeratutakoaren araberakoa izanen da. Eragiketa multzoa behin sortuz gero, programak ordenaTOPIC_ORDRE ditzake edukinaren fitxategietan. Aukera hau oso interesgarria izan daiteke buruhausgarriak edota identifikatzeko ariketak sortzeko. Zenbaki positiboen arteko batuketa eta kenketetan "burukorik gabe"TOPIC_NOPORT funtzioa aktibatu daiteke.
+
+#$+
+Nola sortu ariketak Arith 2-ren bidez?
+
+Buru kalkuluko ariketak sortzeko Arith2 moduluaren bidez ondoko urratsak eraman daitezke:
+
+-	Lan-direktorioa sortu, bertan eginen dira ariketak.
+
+-	ARITH2.DLL eta ARITH2.HLP fitxategiak kopiatu aurreko urratsean egindako direktorioan.
+
+-	Martxan jarri Klik 2.2 programa eta erabili Aukerak | Aukera orokorrak laneko direktorioa aldatzeko.
+
+-	Erabili  menuko Fitxategiak | Ariketa berria elkarketa sortzeko.
+
+-	"A" leihoko edukin moduan aukeratu  Testua eta aukeratu zerrendako edozein fitxategia. Testuko fitxategirik ez badago sortu berria, horretarako aktibatu  Edukia editatu botoia. Fitxategi berria sortu eta bertan edozein testu idatzi (ez da ariketan aterako) eta gorde edozein izenarekin. Adibidez, TESTUA.TXT.
+
+-	Aukeratu TESTUA.TXT edukin ariketaren atal guztietan ("A leihoa", "B leihoa" eta "A leihoaren soluzioa").
+
+-	Doitu gelaxka kopurua, mezuak, letra-mota... Klikeko beste edozein ariketetan bezala.
+
+-	Aktibatu Aukerak... funtzioa eta markatu Birsortze automatikoa gelaxka. Aukeratu zerrendan arith2.dll fitxategia eta sakatu Konfigurazioa botoia.
+
+-	Doitu Arith2ko  konfiguratzeko aukerakCONFIGURE dauden aukerak, eta onartu egindako eragiketak.
+
+-	Frogatu ariketaren funtzionamendua eta doitu ondoko menuen bidez: Aukerak | Eragiketaren aukerak (Ctrl + O) eta Edizioa | Ariketa editatu (Ctrl + E).
+
+Arith2rekin buruhausgarriak ere egin daitezke. Kasu honetan programak duen ordenatzekoTOPIC_ORDRE aukeraren bat erabili behar da.
+
+
+#$K 
+{bml logoarit.bmp}Sortzaile automatikoa: buru kalkuluko edukina duten ariketak
+
+
+Eragiketa matematiko hauek zoriz sortzen dira ariketa hasten den aldiro, edo bandera berdea sakatzen dugunean.
+
+Buru kalkuluko ariketak nola sortzen diren ikusteko aktibatu menuan dauden Aukerak - Ariketen aukerak y begiratu Birsortze automatikoa atalean.
+
+Klikeko laguntzan zabalago azaltzen da nola funtzionatzen duen  ARITH2.DLLINDEX moduluak. Honek kalkuluko ariketak automatikoki sortzen ditu.
+

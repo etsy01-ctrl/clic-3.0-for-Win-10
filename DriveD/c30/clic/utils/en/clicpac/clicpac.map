@@ -1,0 +1,5 @@
+#define INDEX 0
+#define COMPACT 100
+#define DESCOMP 200
+#define COPIA 300
+#define VISUA 400

@@ -1,0 +1,4 @@
+Nas sopas de letras hai que encontrar palabras agachadas, que poden estar escritas en calquer dirección.
+Tamén existe a opción de que a medida que se van achando as palabras descóbrese unha información asociada.
+A información asociada pode ser textual, gráfica, sonora...
+Para verdes como se fixeron as actividades que forman o paquete podedes pulsar [CTRL]+E

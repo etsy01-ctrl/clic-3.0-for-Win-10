@@ -1,0 +1,4 @@
+Fahrrad|Rad
+Auto|Automobil
+Lastwagen|Lastkraftwagen|LKW
+Motorrad|Moped

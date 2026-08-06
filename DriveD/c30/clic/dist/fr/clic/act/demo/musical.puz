@@ -1,0 +1,27 @@
+120
+Mise en ordre de morceaux musicaux
+‡
+21,8,0,0,400,0,0,0,0,3,2,1,34,Arial
+FFFFFF,000000,808080,0
+21,8,0,0,400,0,0,0,0,3,2,1,34,Arial
+FFFFFF,000000,808080,0
+20,8,0,0,700,0,0,0,0,3,2,1,34,Arial
+C0C0C0,000000,808080,0
+0,0,0,1,C0C0C0,C0C0C0,0,-1,0,0,0
+
+Ceci est un puzzle musical. Il faut remettre dans l'ordre les différentes parties du morceau de musique.
+ça marche !{sants.mid}
+2439
+140;140
+100;100
+0
+
+
+0
+
+
+sants.txt
+1
+4
+2
+0

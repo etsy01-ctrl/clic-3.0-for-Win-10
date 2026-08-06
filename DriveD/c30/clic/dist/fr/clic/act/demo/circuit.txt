@@ -1,0 +1,4 @@
+{circuit1.bmp}
+{circuit2.bmp}
+{circuit3.bmp}
+{circuit4.bmp}

@@ -1,0 +1,873 @@
+*** Installation Started 5/13/97 16:32 ***
+Title: Wise 4.0 Installation
+Source: L:\INSTAL\WISE\SETUP40.EXE
+Made Dir: C:\DevTools\WISE
+File Copy: C:\DevTools\WISE\WISE32.EXE
+RegDB Key: .wse
+RegDB Val: Wise.Document
+RegDB Key: Wise.Document
+RegDB Val: Wise Document
+RegDB Key: Wise.Document\shell\open\command
+RegDB Val: C:\DevTools\WISE\WISE32.EXE %1
+RegDB Key: Wise.Document\DefaultIcon
+RegDB Val: C:\DevTools\WISE\WISE32.EXE,4
+RegDB Key: Software\GLBS\Wise Installation System\4.0
+RegDB Val: C:\DevTools\WISE
+RegDB Name: InstallDir
+RegDB Root: 2
+File Copy: C:\DevTools\WISE\WISE.HLP
+File Copy: C:\DevTools\WISE\README.WRI
+File Copy: C:\DevTools\WISE\UNWISE.EXE
+Made Dir: C:\DevTools\WISE\STUB
+File Copy: C:\DevTools\WISE\STUB\STUB.EXE
+Made Dir: C:\DevTools\WISE\ADVANCED
+File Copy: C:\DevTools\WISE\ADVANCED\WISE0001.DLL
+Made Dir: C:\DevTools\WISE\BDEINST
+File Copy: C:\DevTools\WISE\BDEINST\BDEINST.DLL
+File Copy: C:\DevTools\WISE\BDEINST\IDAPINST.DLL
+File Copy: C:\DevTools\WISE\BDEINST\IDAPI.CNF
+File Copy: C:\DevTools\WISE\ADVANCED\CTL3D.DLL
+File Copy: C:\DevTools\WISE\ADVANCED\VSHARE.386
+File Copy: C:\DevTools\WISE\ADVANCED\W32INST.DLL
+File Copy: C:\DevTools\WISE\ADVANCED\DOSINST.EXE
+File Copy: C:\DevTools\WISE\ADVANCED\REBOOTNT.EXE
+Made Dir: C:\DevTools\WISE\SAMPLE
+File Copy: C:\DevTools\WISE\SAMPLE\CDROM.WSE
+File Copy: C:\DevTools\WISE\SAMPLE\CHECKVGA.WSE
+File Copy: C:\DevTools\WISE\SAMPLE\COMPONEN.WSE
+File Copy: C:\DevTools\WISE\SAMPLE\CUSTOM.WSE
+File Copy: C:\DevTools\WISE\SAMPLE\SAMPLE.WSE
+File Copy: C:\DevTools\WISE\SAMPLE\UPGRADE.WSE
+File Copy: C:\DevTools\WISE\SAMPLE\BDEINSTL.WSE
+File Copy: C:\DevTools\WISE\SAMPLE\SUBCOMP.WSE
+File Copy: C:\DevTools\WISE\SAMPLE\WIZARD.WSE
+File Copy: C:\DevTools\WISE\SAMPLE\ADDFONT.WSE
+File Copy: C:\DevTools\WISE\SAMPLE\VB4WIN16.WSE
+File Copy: C:\DevTools\WISE\SAMPLE\VB4WIN32.WSE
+File Copy: C:\DevTools\WISE\SAMPLE\ODBCINST.WSE
+File Copy: C:\DevTools\WISE\SAMPLE\PROMPT.WSE
+File Copy: C:\DevTools\WISE\SAMPLE\VB_DDE.WSE
+File Copy: C:\DevTools\WISE\SAMPLE\INTRBASE.WSE
+File Copy: C:\DevTools\WISE\SAMPLE\WIZARD.BMP
+Made Dir: C:\DevTools\WISE\DIALOGS
+File Copy: C:\DevTools\WISE\DIALOGS\SAMPLE1.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\SAMPLE2.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\SAMPLE3.DLG
+Made Dir: C:\DevTools\WISE\DIALOGS\TEMPLATE
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\COMPNENT.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\DIRBROWS.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\DIRPRMPT.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\PROGMAN.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\RADIO.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\SERIAL.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\README.DLG
+Made Dir: C:\DevTools\WISE\DIALOGS\TEMPLATE\DEFAULT
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\DEFAULT\COMPNENT.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\DEFAULT\DIRBROWS.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\DEFAULT\DIRPRMPT.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\DEFAULT\PROGMAN.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\DEFAULT\RADIO.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\DEFAULT\SERIAL.DLG
+Made Dir: C:\DevTools\WISE\DIALOGS\TEMPLATE\JAZZY
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\JAZZY\COMPNENT.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\JAZZY\DIRBROWS.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\JAZZY\DIRPRMPT.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\JAZZY\PROGMAN.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\JAZZY\RADIO.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\JAZZY\SERIAL.DLG
+Made Dir: C:\DevTools\WISE\DIALOGS\TEMPLATE\MODERN
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\MODERN\COMPNENT.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\MODERN\DIRBROWS.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\MODERN\DIRPRMPT.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\MODERN\PROGMAN.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\MODERN\RADIO.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\MODERN\SERIAL.DLG
+Made Dir: C:\DevTools\WISE\DIALOGS\TEMPLATE\THREED
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\THREED\COMPNENT.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\THREED\DIRBROWS.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\THREED\DIRPRMPT.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\THREED\PROGMAN.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\THREED\RADIO.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\THREED\SERIAL.DLG
+Made Dir: C:\DevTools\WISE\DLL
+File Copy: C:\DevTools\WISE\DLL\CHECKVGA.DEF
+File Copy: C:\DevTools\WISE\DLL\CHECKVGA.DLL
+File Copy: C:\DevTools\WISE\DLL\CHECKVGA.C
+File Copy: C:\DevTools\WISE\DLL\PROMPT.C
+File Copy: C:\DevTools\WISE\DLL\PROMPT.DEF
+File Copy: C:\DevTools\WISE\DLL\PROMPT.RC
+File Copy: C:\DevTools\WISE\DLL\RESOURCE.H
+File Copy: C:\DevTools\WISE\DLL\RESTART.MAK
+File Copy: C:\DevTools\WISE\DLL\RESTART.DEF
+File Copy: C:\DevTools\WISE\DLL\RESTART.C
+File Copy: C:\DevTools\WISE\DLL\RESTART.DLL
+File Copy: C:\DevTools\WISE\DLL\WISEDLL.H
+File Copy: C:\DevTools\WISE\DLL\CHECKVGA.MAK
+File Copy: C:\DevTools\WISE\DLL\PROMPT.MAK
+File Copy: C:\DevTools\WISE\DLL\PROMPT.DLL
+File Copy: C:\DevTools\WISE\DLL\GETCPU32.DEF
+File Copy: C:\DevTools\WISE\DLL\PROMPT.VCW
+File Copy: C:\DevTools\WISE\DLL\PROMPT.RES
+File Copy: C:\DevTools\WISE\DLL\GETCPU32.C
+File Copy: C:\DevTools\WISE\DLL\GETCPU32.MAK
+File Copy: C:\DevTools\WISE\DLL\GETCPU32.VCP
+File Copy: C:\DevTools\WISE\DLL\PROMPT.WSP
+File Copy: C:\DevTools\WISE\DLL\GETCPU32.DLL
+Made Dir: C:\DevTools\WISE\DLL\DELPHI
+File Copy: C:\DevTools\WISE\DLL\DELPHI\DLLSAMPL.OPT
+File Copy: C:\DevTools\WISE\DLL\DELPHI\DLLSAMPL.PAS
+File Copy: C:\DevTools\WISE\DLL\DELPHI\DLLSAMPL.RES
+File Copy: C:\DevTools\WISE\DLL\DELPHI\DLLSAMPL.DCU
+File Copy: C:\DevTools\WISE\DLL\DELPHI\DLLSAMPL.DLL
+File Copy: C:\DevTools\WISE\DLL\DELPHI\DLLSAMPL.DPR
+Made Dir: C:\DevTools\WISE\DDE
+File Copy: C:\DevTools\WISE\DDE\MAINFORM.FRM
+File Copy: C:\DevTools\WISE\DDE\VBDDE.MAK
+File Copy: C:\DevTools\WISE\DDE\VBDDE.EXE
+Shell Link: C:\WINDOWS\Menú Inici\Programes\Wise Installation System 32.lnk
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Wise 4.0
+RegDB Val: Wise Installation System 4.0
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Wise 4.0
+RegDB Val: C:\DEVTOOLS\WISE\UNWISE.EXE C:\DEVTOOLS\WISE\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+INI New: Created INI
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Preferences
+INI Item: ExcludeSys
+INI Val: USER.DLL, KERNEL.DLL, SHELL.DLL, TOOLHELP.DLL, VER.DLL, LZEXPAND.DLL, GDI.DLL, KEYBOARD.DLL, COMMDLG.DLL, WIN87EM.DLL, DDEML.DLL,
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Preferences
+INI Item: ExcludeSys32
+INI Val: COMCTL32.DLL, COMDLG32.DLL, USER32.DLL, KERNEL32.DLL, ADVAPI32.DLL, GDI32.DLL, DSKAPI32.DLL, ICM32.DLL, IMM32.DLL, LZ32.DLL, RICHED32.DLL, SHELL32.DLL, SAGE.DLL, VERSION.DLL, WINSPOOL.DRV, WINMM.DLL, URL.DLL,
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Settings
+INI Item: LastFile
+INI Val: 
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language0
+INI Item: Name
+INI Val: U.S. English
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Settings
+INI Item: LangTitle
+INI Val: Select Language
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Settings
+INI Item: LangText
+INI Val: (Please select the language that you would like to use during the installation.||Die Installation unterstützt verschiedene Sprachen. |Wählen Sie eine Sprache aus der unten aufgeführten Liste aus.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language4
+INI Item: Name
+INI Val: Deutsch
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language4
+INI Item: Msg0
+INI Val: (Die Datei konnte nicht geöffnet werden. Vergewissern Sie sich, daß noch Raum auf dem Datenträger zur Verfügung steht und daß Sie auf das Zielverzeichnis zugreifen können.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language4
+INI Item: Msg1
+INI Val: (Die Installation wurde abgebrochen!|)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language4
+INI Item: Msg2
+INI Val: (Datei konnte nicht geschrieben werden. Die Festplatte ist eventuell voll!)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language4
+INI Item: Msg3
+INI Val: (Kopieren von )
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language4
+INI Item: Msg4
+INI Val: (Datei)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language4
+INI Item: Msg5
+INI Val: (Das externe Programm %s konnte nicht ausgeführt werden.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language4
+INI Item: Msg6
+INI Val: (Die DLL-Bibliothek konnte nicht geladen werden.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language4
+INI Item: Msg7
+INI Val: (Die Installationsdatei ist beschädigt!)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language4
+INI Item: Msg8
+INI Val: (Wählen Sie den Pfadnamen für )
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language4
+INI Item: Msg9
+INI Val: (Verzeichnis:)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language4
+INI Item: Msg10
+INI Val: (Manuelle Installation)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language4
+INI Item: Msg11
+INI Val: (Um die Software zu installieren, brauchen Sie einen zusätzlichen freien Speicher von %ld KB im Laufwerk %c: . Löschen Sie alle überflüssigen Dateien, und versuchen Sie die Installation erneut. )
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language4
+INI Item: Msg12
+INI Val: (Das Verzeichnis %s existiert bereits. Möchten Sie die Installation trotzdem in diesem Verzeichnis vornehmen?)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language4
+INI Item: Msg13
+INI Val: (Legen Sie eine neue Diskette ein.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language4
+INI Item: Msg14
+INI Val: (Pfadname für Quelle:)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language4
+INI Item: Msg15
+INI Val: (Legen Sie die Installationsdiskette #%d in das Diskettenlaufwerk ein, und klicken Sie auf OK.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language4
+INI Item: Msg16
+INI Val: (Klicken Sie auf OK, um mit der Installation fortzufahren.|Klicken Sie auf Abbrechen, um die Installation abzubrechen.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language4
+INI Item: Msg17
+INI Val: (Fehler )
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language4
+INI Item: Msg18
+INI Val: (Installieren)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language4
+INI Item: Msg19
+INI Val: (Wählen Sie in der folgenden Liste die Dateien aus, die Sie extrahieren wollen. Klicken Sie auf OK, um die Dateien zu extrahieren. Klicken Sie auf Abbrechen, um die Installation zu beenden.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language4
+INI Item: Msg20
+INI Val: (Es existiert bereits eine Datei mit diesem Namen.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language4
+INI Item: Msg21
+INI Val: (Der angegebene Verzeichnisname ist ungültig.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language4
+INI Item: Msg22
+INI Val: (Die Datei  %s ist in Gebrauch und kann nicht installiert werden. Schließen Sie alle anderen Anwendungen, und versuchen Sie die Installation erneut. Klicken Sie auf Ignorieren, wenn Sie die Datei nicht installieren wollen. Klicken Sie auf Abbrechen, um die Installation abzubrechen.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language4
+INI Item: Msg23
+INI Val: (Starten Sie Ihr System neu, um die Installation abzuschließen. Klicken Sie auf OK, um den Computer neu zu starten. Klicken Sie auf Abbrechen, um ohne Neustart zu Windows zurückzukehren.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language4
+INI Item: Msg24
+INI Val: (Notwendiger Platz auf dem Datenträger:)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language4
+INI Item: Msg25
+INI Val: (Freier Speicherplatz:)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language4
+INI Item: Msg26
+INI Val: (Die Datei  %s konnte nicht geöffnet werden.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language4
+INI Item: Msg28
+INI Val: (Abbrechen)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language4
+INI Item: Msg29
+INI Val: (Datei wird installiert)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language4
+INI Item: Msg30
+INI Val: (Lauf&werke)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language4
+INI Item: Msg31
+INI Val: (Möchen Sie die Installation abbrechen?)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language4
+INI Item: Msg32
+INI Val: (Paßwort)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language4
+INI Item: Msg33
+INI Val: (Diese Installation wird durch ein Paßwort geschützt. Geben Sie das Paßwort für die Installation in das unten aufgeführte Feld ein. )
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language4
+INI Item: Msg34
+INI Val: (Es wurde ein falsches Paßwort eingegeben. Geben Sie das Paßwort erneut ein, oder klicken Sie auf Abbrechen, um die Installation abzubrechen. )
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language4
+INI Item: Msg35
+INI Val: (Ja)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language4
+INI Item: Msg36
+INI Val: (Nein)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language4
+INI Item: Msg37
+INI Val: (Beim Installieren einer Datei ist ein E/A-Fehler aufgetreten. Dieser Fehler wird in der Regel durch fehlerhafte Installationsmedien oder durch eine beschädigte Installationsdatei verursacht.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language4
+INI Item: Msg38
+INI Val: (Abbrechen)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language4
+INI Item: Msg39
+INI Val: (Wiederholen)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language4
+INI Item: Msg40
+INI Val: (Ignorieren)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language3
+INI Item: Name
+INI Val: Français
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language3
+INI Item: Msg0
+INI Val: (Impossible d'ouvrir le fichier, veuillez vérifier si votre disque est saturé et que vous avez accès au répertoire de destination.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language3
+INI Item: Msg1
+INI Val: (Installation interrompue !)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language3
+INI Item: Msg2
+INI Val: (Impossible d'écrire ce fichier, il se peut que votre disque soit saturé !)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language3
+INI Item: Msg3
+INI Val: (Copie en cours )
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language3
+INI Item: Msg4
+INI Val: (du fichier)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language3
+INI Item: Msg5
+INI Val: (Impossible d'exécuter le programme externe %s.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language3
+INI Item: Msg6
+INI Val: (Impossible de charger la bibliothèque DLL.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language3
+INI Item: Msg7
+INI Val: (Fichier d'installation altéré !)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language3
+INI Item: Msg8
+INI Val: (Sélectionner le chemin du)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language3
+INI Item: Msg9
+INI Val: (Répertoire :)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language3
+INI Item: Msg10
+INI Val: (Installation manuelle)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language3
+INI Item: Msg11
+INI Val: (Ce logiciel nécessite %ld ko d'espace supplémentaire sur votre unité pour pouvoir être chargé. Veuillez supprimer de votre unité tous fichiers inutiles et relancez l'installation. )
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language3
+INI Item: Msg12
+INI Val: (Le répertoire %s existe déjà, désirez-vous quand même effectuer l'installation dans ce répertoire ?)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language3
+INI Item: Msg13
+INI Val: (Veuillez insérer une nouvelle disquette)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language3
+INI Item: Msg14
+INI Val: (Chemin source :)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language3
+INI Item: Msg15
+INI Val: (Veuillez placer la disquette d'installation #%d dans le lecteur de disquettes et appuyer sur le bouton OK.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language3
+INI Item: Msg16
+INI Val: (Veuillez appuyer sur le bouton OK pour continuer.|Appuyez sur Annuler pour interrompre l'installation.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language3
+INI Item: Msg17
+INI Val: (Erreur)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language3
+INI Item: Msg18
+INI Val: (Installer)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language3
+INI Item: Msg19
+INI Val: (Veuillez sélectionner les fichiers dans la liste ci-dessous pour effectuer l'extraction. Appuyez sur le bouton OK pour extraire les fichiers. Appuyez sur le bouton Annuler pour quitter.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language3
+INI Item: Msg20
+INI Val: (Un fichier portant le même nom existe déjà.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language3
+INI Item: Msg21
+INI Val: (Le nom de répertoire indiqué est incorrect.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language3
+INI Item: Msg22
+INI Val: (Le fichier %s est en cours d'utilisation et ne peut être installé. Veuillez quitter toutes les autres applications et refaire un essai. Appuyez sur Ignorer pour ne pas installer le fichier ou sur Annuler pour arrêter l'installation.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language3
+INI Item: Msg23
+INI Val: (Le système doit être redémarré pour terminer l'installation. Appuyez sur le bouton OK pour relancer l'ordinateur. Appuyez sur Annuler pour revenir à Windows sans redémarrer l'ordinateur.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language3
+INI Item: Msg24
+INI Val: (Espace disque nécessaire :)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language3
+INI Item: Msg25
+INI Val: (Espace libre :)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language3
+INI Item: Msg26
+INI Val: (Impossible d'ouvrir le fichier %s.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language3
+INI Item: Msg28
+INI Val: (Annuler)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language3
+INI Item: Msg29
+INI Val: (Installation en cours)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language3
+INI Item: Msg30
+INI Val: (&Unités)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language3
+INI Item: Msg31
+INI Val: (Désirez-vous arrêter l'installation ?)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language3
+INI Item: Msg32
+INI Val: (Mot de passe)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language3
+INI Item: Msg33
+INI Val: (Cette installation est protégée par mot de passe. Veuillez introduire le mot de passe d'installation dans le champ ci-dessous.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language3
+INI Item: Msg34
+INI Val: (Le mot de passe introduit est incorrect. Veuillez introduire le mot de passe correct ou appuyer sur Annuler pour arrêter l'installation.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language3
+INI Item: Msg35
+INI Val: (Oui)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language3
+INI Item: Msg36
+INI Val: (Non)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language3
+INI Item: Msg37
+INI Val: (Une erreur d'E-S s'est produite lors de l'installation d'un fichier. Ceci est en général provoqué par une mauvaise qualité du support ou le fichier d'installation endommagé.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language3
+INI Item: Msg38
+INI Val: (Quitter)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language3
+INI Item: Msg39
+INI Val: (Recommencer)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language3
+INI Item: Msg40
+INI Val: (Ignorer)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language8
+INI Item: Name
+INI Val: Italiano
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language8
+INI Item: Msg0
+INI Val: (Impossibile aprire il file; controllare che il disco non sia pieno e che sia possibile accedere alla directory di destinazione. )
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language8
+INI Item: Msg1
+INI Val: (Installazione interrotta!)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language8
+INI Item: Msg2
+INI Val: (Impossibile scrivere sul file, il disco potrebbe essere pieno!)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language8
+INI Item: Msg3
+INI Val: (Copiatura del file)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language8
+INI Item: Msg4
+INI Val: (in corso)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language8
+INI Item: Msg5
+INI Val: (Impossibile eseguire il programma esterno %s.||)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language8
+INI Item: Msg6
+INI Val: (Impossibile caricare la libreria DLL.|)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language8
+INI Item: Msg7
+INI Val: (Il file di installazione è corrotto!|)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language8
+INI Item: Msg8
+INI Val: (Selezionare il percorso per la|)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language8
+INI Item: Msg9
+INI Val: (Directory:)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language8
+INI Item: Msg10
+INI Val: (Installazione manuale)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language8
+INI Item: Msg11
+INI Val: (Per installare questo software sono necessari %ld K di byte liberi addizionali sull'unità disco %c:. Rimuovere i file non necessari e riprovare. )
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language8
+INI Item: Msg12
+INI Val: ( La directory  %s esiste già. Si desidera installare comunque? )
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language8
+INI Item: Msg13
+INI Val: (Inserire il dischetto)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language8
+INI Item: Msg14
+INI Val: (Percorso di origine:)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language8
+INI Item: Msg15
+INI Val: (Inserire il dischetto di installazione #%d nell'unità a dischetti e premere il pulsante OK.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language8
+INI Item: Msg16
+INI Val: (Per continuare premere il pulsante OK. Per sospendere l'installazione premere il pulsante Annulla.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language8
+INI Item: Msg17
+INI Val: (Errore)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language8
+INI Item: Msg18
+INI Val: (Installazione)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language8
+INI Item: Msg19
+INI Val: (Selezionare i file che si desidera estrarre dall'elenco sottostante. Per estrarre i file premere il pulsante OK. Per uscire premere il pulsante Annulla.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language8
+INI Item: Msg20
+INI Val: (Un file avente lo stesso nome esiste già.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language8
+INI Item: Msg21
+INI Val: (Il nome della directory specificata non è valido.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language8
+INI Item: Msg22
+INI Val: (Il file %s è in uso e non può essere installato. Uscire da tutte le altre applicazioni e riprovare. Per non installare il file premere ignora, per annullare l'installazione premere cancella.||)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language8
+INI Item: Msg23
+INI Val: (Per completare l'installazione riavviare questo sistema. Per riavviare il computer premere il pulsante OK. Per tornare a Windows senza riavviare il computer premere il pulsante Annulla. |)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language8
+INI Item: Msg24
+INI Val: (Spazio su disco necessario:)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language8
+INI Item: Msg25
+INI Val: (Spazio libero rimanente:)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language8
+INI Item: Msg26
+INI Val: ( Impossibile aprire il file %s. )
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language8
+INI Item: Msg28
+INI Val: (Annulla)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language8
+INI Item: Msg29
+INI Val: (Installazione in corso)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language8
+INI Item: Msg30
+INI Val: (Unità disco)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language8
+INI Item: Msg31
+INI Val: (Si desidera abbandonare questa installazione?)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language8
+INI Item: Msg33
+INI Val: (Questa  installazione è protetta da password. Immettere la password di installazione nel campo sottostante.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language8
+INI Item: Msg34
+INI Val: (La password digitata non è corretta. Immettere la password corretta o premere Annulla per interrompere l'installazione.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language8
+INI Item: Msg35
+INI Val: (Sì|)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language8
+INI Item: Msg37
+INI Val: (Errore I/O durante l'installazione di un file. Questo errore è di solito causato da un mezzo di installazione guasto o da un file di installazione corrotto. )
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language8
+INI Item: Msg38
+INI Val: (Esci)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language8
+INI Item: Msg39
+INI Val: (Riprova)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language8
+INI Item: Msg40
+INI Val: (Ignora|)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language6
+INI Item: Name
+INI Val: Español
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language6
+INI Item: Msg0
+INI Val: (No se ha podido abrir el archivo. Por favor, compruebe que el disco no esté lleno y que se tenga acceso al directorio de destino.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language6
+INI Item: Msg1
+INI Val: (Instalación anulada.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language6
+INI Item: Msg2
+INI Val: (No se ha podido escribir el archivo. Puede que el disco esté lleno.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language6
+INI Item: Msg3
+INI Val: (Copiando)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language6
+INI Item: Msg4
+INI Val: (el archivo)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language6
+INI Item: Msg5
+INI Val: (No se ha podido ejecutar el programa externo %s.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language6
+INI Item: Msg6
+INI Val: (No se ha podido cargar la biblioteca DLL.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language6
+INI Item: Msg7
+INI Val: (El archivo de instalación está dañado.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language6
+INI Item: Msg8
+INI Val: (Seleccione la ruta de acceso del)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language6
+INI Item: Msg9
+INI Val: (directorio:)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language6
+INI Item: Msg10
+INI Val: (Instalación manual)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language6
+INI Item: Msg11
+INI Val: (Para poder instalar este software se requieren %ld K bytes adicionales de espacio libre en la unidad %c:. Retire los archivos que sean innecesarios e inténtelo de nuevo.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language6
+INI Item: Msg12
+INI Val: (Este directorio %s ya existe. ¿Desea realizar la instalación en ese directorio de todas maneras?)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language6
+INI Item: Msg13
+INI Val: (Inserte otro disco)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language6
+INI Item: Msg14
+INI Val: (Ruta de acceso de origen:)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language6
+INI Item: Msg15
+INI Val: (Coloque el disco de instalación #%d en la unidad de discos flexibles y haga clic en el botón Aceptar.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language6
+INI Item: Msg16
+INI Val: (Haga clic en el botón Aceptar si desea continuar.|Haga clic en el botón Cancelar si desea anular la instalación.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language6
+INI Item: Msg18
+INI Val: (Instalación)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language6
+INI Item: Msg19
+INI Val: (Seleccione en la lista que aparece abajo los archivos que se van a instalar. Para extraer los archivos, haga clic en Aceptar. Para salir, haga clic en Cancelar.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language6
+INI Item: Msg20
+INI Val: (Ya existe un archivo con ese nombre.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language6
+INI Item: Msg21
+INI Val: (Se ha indicado un nombre de directorio inválido.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language6
+INI Item: Msg22
+INI Val: (No se puede instalar el archivo %s porque está en uso. Cierre todas las demás aplicaciones e inténtelo de nuevo. Haga clic en Ignorar para que no se instale el archivo y en Anular para cancelar la instalación.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language6
+INI Item: Msg23
+INI Val: (Para completar la instalación se debe reiniciar el sistema. Haga clic en Aceptar para reiniciar el equipo. Haga clic en Cancelar para volver a Windows sin reiniciarlo.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language6
+INI Item: Msg24
+INI Val: (Espacio requerido en el disco:)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language6
+INI Item: Msg25
+INI Val: (Espacio libre restante:)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language6
+INI Item: Msg26
+INI Val: (No se ha podido abrir el archivo %s.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language6
+INI Item: Msg27
+INI Val: (Aceptar)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language6
+INI Item: Msg28
+INI Val: (Cancelar)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language6
+INI Item: Msg29
+INI Val: (Instalándose)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language6
+INI Item: Msg30
+INI Val: (Uni&dades)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language6
+INI Item: Msg31
+INI Val: (¿Desea anular la instalación?)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language6
+INI Item: Msg32
+INI Val: (Contraseña)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language6
+INI Item: Msg33
+INI Val: (Esta instalación está protegida con una contraseña. Escriba la contraseña de la instalación en el campo situado abajo.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language6
+INI Item: Msg34
+INI Val: (Ha escrito una contraseña incorrecta. Por favor, escriba la contraseña o haga clic en Cancelar para anular la instalación.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language6
+INI Item: Msg35
+INI Val: (Sí)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language6
+INI Item: Msg37
+INI Val: (Se ha producido un error de E/S mientras se estaba instalando un archivo. Esto ocurre normalmente porque está dañado el medio de instalación o uno de los archivos de instalación.)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language6
+INI Item: Msg38
+INI Val: (Anular)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language6
+INI Item: Msg39
+INI Val: (Reintentar)
+INI File: C:\WINDOWS\WISE.INI
+INI Sect: Language6
+INI Item: Msg40
+INI Val: (Ignorar)
+*** Installation Started 9/4/97 9:16 ***
+Title: Wise 4.0i Upgrade
+Source: C:\INTERNET\FITXERS\ZIP\WISE4UPG.EXE
+File Copy: C:\DevTools\WISE\WISE32.EXE
+File Copy: C:\DevTools\WISE\WISE.HLP
+File Copy: C:\DevTools\WISE\README.WRI
+File Copy: C:\DevTools\WISE\UNWISE.EXE
+File Copy: C:\DevTools\WISE\STUB\STUB.EXE
+File Copy: C:\DevTools\WISE\ADVANCED\WISE0001.DLL
+File Copy: C:\DevTools\WISE\ADVANCED\WISE0002.DLL
+File Copy: C:\DevTools\WISE\BDEINST\BDEINST.DLL
+File Copy: C:\DevTools\WISE\BDEINST\BDEINS32.DLL
+File Copy: C:\DevTools\WISE\BDEINST\IDAPIN32.DLL
+File Copy: C:\DevTools\WISE\BDEINST\IDAPI32.CNF
+File Copy: C:\DevTools\WISE\ADVANCED\W32INST.DLL
+File Copy: C:\DevTools\WISE\SAMPLE\BDEINSTL.WSE
+File Copy: C:\DevTools\WISE\SAMPLE\CDROM.WSE
+File Copy: C:\DevTools\WISE\SAMPLE\CHECKVGA.WSE
+File Copy: C:\DevTools\WISE\SAMPLE\COMPONEN.WSE
+File Copy: C:\DevTools\WISE\SAMPLE\CUSTOM.WSE
+File Copy: C:\DevTools\WISE\SAMPLE\SAMPLE.WSE
+File Copy: C:\DevTools\WISE\SAMPLE\UPGRADE.WSE
+File Copy: C:\DevTools\WISE\SAMPLE\BDE32.WSE
+File Copy: C:\DevTools\WISE\SAMPLE\SUBCOMP.WSE
+File Copy: C:\DevTools\WISE\SAMPLE\WIZARD.WSE
+File Copy: C:\DevTools\WISE\SAMPLE\ADDFONT.WSE
+File Copy: C:\DevTools\WISE\SAMPLE\VB4WIN16.WSE
+File Copy: C:\DevTools\WISE\SAMPLE\VB4WIN32.WSE
+File Copy: C:\DevTools\WISE\SAMPLE\ODBCINST.WSE
+File Copy: C:\DevTools\WISE\SAMPLE\PROMPT.WSE
+File Copy: C:\DevTools\WISE\SAMPLE\VB_DDE.WSE
+File Copy: C:\DevTools\WISE\SAMPLE\INTRBASE.WSE
+File Copy: C:\DevTools\WISE\SAMPLE\ODBC32.WSE
+File Copy: C:\DevTools\WISE\SAMPLE\MSACCE32.WSE
+File Copy: C:\DevTools\WISE\SAMPLE\WIZARD.BMP
+File Copy: C:\DevTools\WISE\DIALOGS\SAMPLE3.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\SAMPLE1.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\SAMPLE2.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\SERIAL.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\COMPNENT.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\DIRBROWS.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\DIRPRMPT.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\PROGMAN.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\RADIO.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\README.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\DEFAULT\COMPNENT.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\DEFAULT\DIRBROWS.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\DEFAULT\DIRPRMPT.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\DEFAULT\PROGMAN.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\DEFAULT\RADIO.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\DEFAULT\SERIAL.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\JAZZY\DIRPRMPT.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\JAZZY\COMPNENT.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\JAZZY\DIRBROWS.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\JAZZY\PROGMAN.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\JAZZY\RADIO.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\JAZZY\SERIAL.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\MODERN\DIRPRMPT.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\MODERN\COMPNENT.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\MODERN\DIRBROWS.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\MODERN\PROGMAN.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\MODERN\RADIO.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\MODERN\SERIAL.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\THREED\COMPNENT.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\THREED\DIRBROWS.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\THREED\DIRPRMPT.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\THREED\PROGMAN.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\THREED\RADIO.DLG
+File Copy: C:\DevTools\WISE\DIALOGS\TEMPLATE\THREED\SERIAL.DLG

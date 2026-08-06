@@ -1,0 +1,60 @@
+119
+Completar una taula
+‡
+21,8,0,0,400,0,0,0,0,3,2,1,34,Arial
+FFFFFF,000000,808080,0
+16,7,0,0,700,0,0,0,0,3,2,1,34,Arial
+FF0000,FFFFFF,000000,1
+17,7,0,0,400,0,0,0,0,3,2,1,34,Arial
+C0C0C0,000000,808080,0
+1,1,1,0,C0C0C0,C0C0C0,-1,-1,2,0,0
+
+Exemple de taula amb tabuladors: Completeu aquestes sèries
+Fabulós! Fabulosa! Fabulosos! Fabuloses!
+2435
+540;140
+340;100
+0
+
+
+0
+
+
+14,6,0,0,400,0,0,0,0,3,2,1,34,Arial
+FFFFFF,000000,808080,0
+FF0000,FFFFFF,FFFFFF,0000FF
+0,406,3,6,2,0,26
+Avaluació
+118,30,0,1,Masculí sing.	118,30,0,1,Femení sing.	118,30,0,0,Masculí plural	118,30,0,0,Femení plural
+tranquil	_,0,1,15,0,0,140,100,1,tranquil·latranquil·la	_,0,1,15,0,0,140,100,1,tranquilstranquils	_,0,1,15,0,0,140,100,1,tranquil·lestranquil·les
+morisc	_,0,1,15,0,0,140,100,1,moriscamorisca	_,0,1,15,0,0,140,100,1,moriscos|moriscsmoriscos	_,0,1,15,0,0,140,100,1,morisquesmorisques
+_,0,1,15,0,0,140,100,1,roigroig	roja	_,0,1,15,0,0,140,100,1,rojos|roigsrojos	_,0,1,15,0,0,140,100,1,rogesroges
+_,0,1,15,0,0,140,100,1,genuígenuí	_,0,1,15,0,0,140,100,1,genuïnagenuïna	genuïns	_,0,1,15,0,0,140,100,1,genuïnesgenuïnes
+_,0,1,15,0,0,140,100,1,durdur	_,0,1,15,0,0,140,100,1,duradura	_,0,1,15,0,0,140,100,1,dursdurs	dures
+gris	_,0,1,15,0,0,140,100,1,grisagrisa	_,0,1,15,0,0,140,100,1,grisosgrisos	_,0,1,15,0,0,140,100,1,grisesgrises
+_,0,1,15,0,0,140,100,1,negrenegre	_,0,1,15,0,0,140,100,1,negranegra	negres	_,0,1,15,0,0,140,100,1,negresnegres
+_,0,1,15,0,0,140,100,1,descalçdescalç	_,0,1,15,0,0,140,100,1,descalçadescalça	_,0,1,15,0,0,140,100,1,descalçosdescalços	descalces
+_,0,1,15,0,0,140,100,1,grocgroc	groga	_,0,1,15,0,0,140,100,1,grocsgrocs	_,0,1,15,0,0,140,100,1,groguesgrogues
+_,0,1,15,0,0,140,100,1,pobrepobre	_,0,1,15,0,0,140,100,1,pobrapobra	pobres	_,0,1,15,0,0,140,100,1,pobrespobres
+
+297,43,0,1,{autors1.gif}
+‡
+El gènere de l'adjectiu (masculí i femení) i el nombre (singular i plural) depenen del nom que acompanyen: un calaix «buit», uns calaixos «buits», unes capses «buides».
+
+La regla general per a la formació del gènere i el nombre de l'adjectiu és com la del substantiu:
+
+• Masculí = Femení + «a»
+• Singular = Plural + «s»
+
+La majoria d'adjectius tenen una forma per al masculí i una altra per al femení; és a dir, tenen dues terminacions:
+
+- Hem de tenir en compte les modificacions ortogràfiques que hi pot haver: cec-cega-cecs-cegues; mut-muda-muts-mudes; oblic-obliqua-oblics-obliqües.
+ 
+- Els adjectius masculins acabats en -s, -ç, -x, -ix, -tx formen el plural acabat en -os: rus-russos; dolç-dolços; convex-convexos.
+
+- Entre els mots acabats en -s n'hi ha que la poden duplicar: gras-grassa-grassos-grasses; ros-rossa-rossos-rosses. N'hi ha d'altres que mantenen una sola s: gris-grisa-grisos-grises
+
+- Els adjectius masculins acabats en -sc, -st, -xt, -ig admeten una doble forma del plural: fresc-frescs o fresc-frescos; trist-trists o trist-tristos.
+‡
+LLegiu la norma ortogràfica i cliqueu al text per començar l'exercici
+‡

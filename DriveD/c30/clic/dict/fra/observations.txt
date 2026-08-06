@@ -1,0 +1,8 @@
+"Mélanger les mots à au sein des paragraphes"
+--> "Mélanger les mots parmi les paragraphes"
+
+"Premier de la liste"
+--> "Un de la liste"
+
+"porter"
+

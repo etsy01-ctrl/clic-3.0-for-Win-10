@@ -1,0 +1,5 @@
+
+Das Ziel der Puzzles ist das Ordnen von Elementen eines Informationsblocks. Diese Informationen können Texte, Grafiken oder Geräusche sein. 
+Die Puzzles können in vier verschiedenen Arten präsentiert werden: "vertauschen", "verschieben", "ordnen" und "Memory".
+Um zu sehen wie die Übungen, die in dieser Übungssammlung beinhaltet sind, hergestellt wurden, klicken Sie auf [CTRL]+E
+

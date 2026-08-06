@@ -1,0 +1,4 @@
+{Fahrrad.bmp}{bicycle.wav}
+{Auto.bmp}{car.wav}
+{Lastwag.bmp}{lorry.wav}
+{Motorrad.bmp}{motorcyc.wav}

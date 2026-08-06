@@ -1,0 +1,15 @@
+233 - Immediate shuffle - sofort Mischen
+328 - Unknow (incògnita) - Eingabefelder
+345 - komprimierte Clic Sammlungen (*.PCC)
+405 - dekomprimieren
+413 - komprimierte Dateien in:
+424 - Separate (descompactar) - vergrößern
+431 - dekomprimiert...
+452 - Compact - (compactar) - Verdichten
+480 - (Belonging to: - (referenciat per - (bezugnehmend auf: 
+656 - Only interpret - nur überprüfen ***
+660 - Consider punctuation marks - Satzzeichen bewerten
+671 - Exploration field: - Bereich:
+743 - Do not explore pack threadings - Untersucht keine Rückmeldungen von Sammlungen
+799 - Generic user - ??? 
+848 - Clic 3.0 report database management module - Führendes Modul der Datenbank der Berichte von Clic 3.0 ***

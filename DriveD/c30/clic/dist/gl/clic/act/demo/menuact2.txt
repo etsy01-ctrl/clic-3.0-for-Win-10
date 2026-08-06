@@ -1,0 +1,5 @@
+NOVO: Actividades de texto{menutxa.pac}
+Crebacabezas{menupuz.pac}
+Asociacións{menuass.pac}
+Sopas de letras{menusop.pac}
+Encrucillados{menucrw.pac}

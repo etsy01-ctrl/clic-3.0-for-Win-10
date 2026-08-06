@@ -1,0 +1,4 @@
+Testu-ariketetan testu baten zenbait elementu zuzendu, bete, ordenatu edo identifikatu behar da.
+Badira sei motatako testu-ariketa: hutsuneak bete, testua osatu, hitzak eta letrak identifikatu eta hitzak eta paragrafoak ordenatu.
+Ariketen elementuak grafikoa, entzutezkoak eta laguntza-elementuak izan daitezke.
+Paketea osatzen duten ariketak nola dauden eginak ikusi nahi izanez gero [CTRL]+E sakatu.

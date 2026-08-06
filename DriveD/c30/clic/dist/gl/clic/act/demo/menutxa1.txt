@@ -1,0 +1,4 @@
+As actividades de texto son exercicios relacionados con corrixir, completar, ordenar ou identificar determinados elementos dun texto.
+Eis as seis modalidades diferentes de exercicios de texto: encher ocos, completar texto, identificar letras o palabras e ordenar palabras ou parágrafos.
+Os exercicios poden inserir obxectos gráficos e/ou sonoros, mesmo diversos elementos de axuda.
+Con [CTRL]+E poderás ver como se fixeron as actividades que forman el paquete

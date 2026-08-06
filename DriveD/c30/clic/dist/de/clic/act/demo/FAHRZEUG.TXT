@@ -1,0 +1,4 @@
+{Fahrrad.bmp}
+{Auto.bmp}
+{Lastwag.bmp}
+{Motorrad.bmp}

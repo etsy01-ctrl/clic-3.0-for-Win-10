@@ -1,0 +1,26 @@
+[OPTIONS]
+COMPRESS=HIGH
+OLDKEYPHRASE=no
+WARNING=3
+REPORT=ON
+TITLE=ClicPac
+CONTENTS=INDEX
+
+[CONFIG]
+BrowseButtons()
+CreateButton("BotoTanca", "&Sortir", "Exit()")
+
+[FILES]
+CLICPAC.RTF
+
+[BITMAPS]
+..\..\rcomu\clicpac.bmp
+..\..\rcomu\bola.bmp
+..\..\rcomu\back.bmp
+..\..\rcomu\linia.bmp
+
+[WINDOWS]
+main=,(300, 10, 713, 800), 0, (255, 255, 255), (255, 255, 128)
+
+[MAP]
+#include <clicpac.map>

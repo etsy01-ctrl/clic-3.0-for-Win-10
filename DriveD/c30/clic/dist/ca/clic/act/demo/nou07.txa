@@ -1,0 +1,37 @@
+119
+
+‡
+21,8,0,0,400,0,0,0,0,3,2,1,34,Arial
+C0C0C0,000000,808080,0
+21,8,0,0,400,0,0,0,0,3,2,1,34,Arial
+C0C0C0,000000,808080,0
+21,8,0,0,400,0,0,0,0,3,2,1,34,Arial
+C0C0C0,000000,808080,0
+0,0,0,0,C0C0C0,C0C0C0,-1,-1,1,0,0
+
+Dissenys de botons
+
+18759
+470;140
+290;100
+0
+
+
+0
+
+
+21,8,0,0,400,0,0,0,0,3,2,1,34,Arial
+FFFFFF,000000,808080,0
+FF0000,C0C0C0,FFFFFF,0000FF
+0,918,3,6,0,30,16
+Avaluació
+Ž370,140,0,1,{botons.gif}Ž
+També podeu triar entre tres dissenys diferents per als botons:
+• Botons grans amb caixa
+• Botons en forma d'icones
+• Icones transparents que es pinten damunt la pantalla amb el color de lletra de la caixa de missatges
+‡
+
+‡
+
+‡

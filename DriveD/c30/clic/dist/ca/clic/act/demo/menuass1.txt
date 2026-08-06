@@ -1,0 +1,4 @@
+L'objectiu de les activitats d'associació és descobrir les relacions entre els elements de dos conjunts diferents d'informació.
+La informació a relacionar pot presentar-se com a text, gràfics, sons, animacions, vídeo... o qualsevol altre tipus de recurs multimèdia.
+També s'inclouen en aquest apartat algunes activitats especials, com les pantalles d'informació o les de resposta escrita.
+Per veure com han estat fetes les activitats que formen el paquet podeu prémer [CTRL]+E

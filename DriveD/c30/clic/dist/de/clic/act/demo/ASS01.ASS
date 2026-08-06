@@ -1,0 +1,45 @@
+120
+Einfache Text-Grafik-Zuordnung
+‡
+27,11,0,0,700,0,0,0,0,3,2,1,34,Arial
+FF0000,FFFFFF,000000,1
+18,7,0,0,400,0,0,0,0,3,2,1,34,Arial
+FF0000,000000,808080,0
+24,11,0,0,700,0,0,0,0,3,2,1,34,Arial
+C0C0C0,000000,808080,0
+1,0,0,1,80FFFF,FF0000,-1,-1,0,0,0
+
+Das ist eine einfache Zuordnung zwischen Text und Grafik. Das Fenster wurde in rechteckige Teile aufgeteilt.
+{great.bmp}
+2116
+100;100
+70;70
+0
+Distribución de tierras en el mundo
+DEMO.HLP
+0
+
+
+1
+3
+4
+Länder.TXT
+Karte.gif
+1
+0
+0
+1
+3
+4
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11

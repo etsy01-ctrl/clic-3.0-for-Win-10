@@ -1,0 +1,4 @@
+Bicycle|Bike
+Car|Automobile
+Lorry|Van
+Motorbike|Motorcycle

@@ -1,0 +1,2 @@
+El Clic ja permet IMPRIMIR, amb funcions d'escalat i posicionament de la imatge en el paper.
+Podeu fer-ho des del menú "Fitxers" o incorporant un botó a les activitats com el que es mostra aquí.

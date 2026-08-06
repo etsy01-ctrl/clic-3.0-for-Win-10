@@ -1,0 +1,4 @@
+El objetivo de los rompecabezas es ordenar los elementos de un conjunto de información que ha sido barajado.
+Esta información puede ser textual, gráfica o sonora.
+Los rompecabezas se pueden plantear en cuatro modalidades distintas llamadas: "intercambio", "doble", "agujero" y "memoria".
+Para ver como se han hecho las actividades que forman el paquete podéis pulsar [CTRL]+E

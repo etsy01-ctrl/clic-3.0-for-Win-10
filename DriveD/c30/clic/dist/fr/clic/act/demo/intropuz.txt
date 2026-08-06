@@ -1,0 +1,3 @@
+L'objectif des puzzles est de remettre dans l'ordre les éléments d'une information qui a été brouillée.
+Cette information peut être textuelle, graphique ou sonore.
+Les puzzles peuvent être présentés dans quatre différentes modalités, appelées : " échange ", " double ", " trou " et " mémoire ". 

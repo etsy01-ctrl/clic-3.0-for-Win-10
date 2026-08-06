@@ -1,0 +1,4 @@
+Aurretik nahasirik izan den argibide-edukin baten ordenazioa da buruhausgarrien helburu nagusia.
+Argibidea entzunezko, begizko eta idatzizkoa izan daiteke.
+Buruhausgarriak lau motatakoak izan daitezke: "elkartrukea", "bikoitza", "oroimena" eta "zuloa".
+Paketean agertzen diren ariketak nola egin diren ikusteko [CTRL]+E sakatu. 

@@ -1,0 +1,8 @@
+générateur
+interrupteur ouvert
+interrupteur fermé
+lampe
+diode
+résistance
+led
+moteur

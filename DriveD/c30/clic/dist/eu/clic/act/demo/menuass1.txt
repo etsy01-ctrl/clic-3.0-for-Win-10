@@ -1,0 +1,4 @@
+Bi argibide-edukin ezberdinen elementuen arteko erlazioa aurkitzea da elkarketen helburu nagusia.
+Erlazionatzeko argibidea idatzizkoa, grafikoa eta entzutezkoa, animazioa... edo edozein multimedia-baliabide izan daiteke.
+Atal honetan zenbait ariketa berezi ere sartu ditugu, idatzizko erantzunaren argibide-pantailak alegia.
+Paketea osatzen duten ariketak nola egin diren ikusteko [CTRL]+E sakatu.

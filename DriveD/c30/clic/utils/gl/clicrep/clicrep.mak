@@ -1,0 +1,12 @@
+CLICREP.FRM
+CLICREP.BAS
+C:\WINDOWS\SYSTEM\THREED.VBX
+IDENT.FRM
+NEWUSR.FRM
+NEWGRP.FRM
+ProjWinSize=83,558,191,195
+ProjWinShow=2
+Command="DB:d:\C30\clic\clicdb.mdb"
+IconForm="ClicRep"
+Title="ClicRep"
+ExeName="CLICREP.EXE"

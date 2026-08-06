@@ -1,0 +1,4 @@
+The text activities are exercises in which you must correct, complete, order or identify determined elements of a text.
+There are six different forms of text exercises: blank filling,text completion, identifying letters or words and ordering words or paragraphs.
+The exercises may include graphics and sound, as well as different help elements.
+With [CTRL]+E you can see how the different activities which form the pack are made.

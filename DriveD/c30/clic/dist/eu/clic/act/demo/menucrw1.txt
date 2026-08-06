@@ -1,0 +1,3 @@
+Klikeko gurutzegramak edozein aldizkari edo egunkaritan agertzen direnak bezalakoak dira. Klik-en, gelaska bakoitzean gurutzatzen diren definizioak automatikoki agertzen zaizkigu.
+Definizioak idatzizkoak izaten badira ere, entzunezko eta musikalak ere izan daitezke.
+Paketearen ariketak nola egin diren ikusteko [CTRL]+E sakatu.

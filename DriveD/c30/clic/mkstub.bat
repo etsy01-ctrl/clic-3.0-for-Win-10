@@ -1,0 +1,4 @@
+TASM /zn WSTUB
+TLINK /x WSTUB
+
+

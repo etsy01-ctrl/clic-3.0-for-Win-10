@@ -1,0 +1,4 @@
+{gene1.bmp}
+{gene2.bmp}
+Aucun : la lampe ne peut pas s'allumer
+

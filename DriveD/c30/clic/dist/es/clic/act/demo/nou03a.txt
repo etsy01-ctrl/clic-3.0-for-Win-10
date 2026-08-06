@@ -1,0 +1,2 @@
+Clic ya permite IMPRIMIR, con funciones de escalado y posicionamiento de la imagen en el papel.
+La impresión puede realizarse desde el menú "Archivo" o incorporando un botón en las actividades, como el que se muestra aquí.

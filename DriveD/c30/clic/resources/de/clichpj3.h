@@ -1,0 +1,1 @@
+CreateButton("BotoTanca", "&Schlieﬂen", "Exit()")

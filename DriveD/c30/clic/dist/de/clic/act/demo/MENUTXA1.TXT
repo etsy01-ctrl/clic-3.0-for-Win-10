@@ -1,0 +1,4 @@
+Textübungen sind Übungen, bei denen man festgelegte Textteile korrigieren, fertigstellen, ordnen oder finden muss.
+Es gibt sechs verschiedene Arten von Textübungen: Das Ausfüllen von Lückentexten, das Fertigstellen bzw. Ergänzen von Texten, das Finden von Wörtern und Buchstaben und das Ordnen von Wörtern oder Absätzen.
+Die Übungen können Grafiken und Sounds sowie verschiedene Hilfestellungen enthalten.
+Durch Drücken von [CTRL]+E kann man sehen, wie die verschiedenen Übungen, die in der Übungssammlung beinhaltet sind, zusammengestellt wurden.

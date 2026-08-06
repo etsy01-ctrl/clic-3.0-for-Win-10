@@ -1,0 +1,9 @@
+#define INDEX 0
+#define QUEES 100
+#define SISTEMA 200
+#define ESTRUCTURA 300
+#define USRGRP 400
+#define INFGRP 500
+#define INFUSR 600
+#define INFPAC 700
+#define COMPACT 800

@@ -1,0 +1,5 @@
+Das Ziel der Zuordnungsübungen ist es, eine Beziehung zwischen den verschiedenen Elementen der Informationsblöcken herzustellen.
+Die Information, die in Verbindung gebracht wird, kann als Text, als Grafik, als Geräusch, als Animation oder als irgend eine andere Art von Multimediahilfsmittel präsentiert werden. 
+In dieser Übungssammlung sind auch einige spezielle Übungen beinhaltet, wie zum Beispiel die Darstellung von Information oder eine schriftliche Rückmeldung des Programms.
+Um zu sehen, wie diese Übungen, die in der Übungssammlung beinhaltet sind, hergestellt worden sind, klicken Sie auf [CTRL]+E
+

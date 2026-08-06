@@ -1,0 +1,40 @@
+120
+Dictation
+‡
+19,7,0,0,400,0,0,0,0,3,2,1,18,Times New Roman
+FFFFFF,000000,808080,0
+21,8,0,0,400,0,0,0,0,3,2,1,34,Arial
+FFFFFF,800000,000000,0
+21,8,0,0,400,0,0,0,0,3,2,1,34,Arial
+FFFFFF,800000,808080,0
+1,1,0,0,FFFFFF,FFFFFF,-1,-1,2,300,56
+nuria.gif
+Dictation: The valley of Núria{nuria.wav}
+Perfect!
+12355
+323;20
+285;20
+0
+
+
+0
+
+
+18,8,0,0,700,0,0,0,0,3,2,1,34,Arial
+FFFFFF,800000,000000,0
+FF0000,FFFFFF,FFFFFF,0000FF
+0,790,4,6,2,0,3
+Corregir l'exercici
+20,30,0,0,{minialt2.gif}{nuria.wav from 0 to 3084} _,0,1,100,0,0,20,20,1,El valle de Núria está situado en la vertiente meridional del Pirineo Oriental|El valle de Nuria está situado en la vertiente meridional del Pirineo OrientalThe valley of Núria is on the southern side of the Eastern Pyrenees , 20,20,0,0,{minialt.gif}{nuria.wav from 3084 to 4432} _,0,1,100,0,0,20,20,1,al Norte de Cataluña|al norte de Cataluñain the North of Cataluña.
+20,30,0,0,{minialt2.gif}{nuria.wav from 5026 to 6511} _,0,1,100,0,0,20,20,1,No hay ninguna carretera que llegue hasta allíThere isn't a road to get there: 20,20,0,0,{minialt.gif}{nuria.wav from 6899 to 8795} _,0,1,100,0,0,20,20,1,el único medio de transporte es un tren cremallerathe only means of transport is a funicular 20,20,0,0,{minialt.gif}{nuria.wav from 8864 to 10349} _,0,1,100,0,0,20,20,1,que supera empinados desniveleswhich climbs the steep slopes.
+20,30,0,0,{minialt2.gif}{nuria.wav from 10699 to 14872} _,0,1,100,0,0,20,20,1,El viaje en tren nos permite descubrir un recorrido de gran belleza y muy espectacularThe journey in the funicular takes us through an extremely beautiful and spectacular landscape. 20,20,0,0,{minialt.gif}{nuria.wav from 15215 to 17888} _,0,1,100,0,0,20,20,1,Los viajeros contemplan majestuosas montañasThe passengers enjoy the view of the majestic mountains, 20,20,0,0,{minialt.gif}{nuria.wav from 18002 to 19305} _,0,1,100,0,0,20,20,1,refrescantes saltos de aguarefreshing waterfalls, 20,20,0,0,{minialt.gif}{nuria.wav from 19305} _,0,1,100,0,0,20,20,1,y en algun momento viven la emoción de atravesar precipicios de gran alturaand occasionally feel the thrill of crossing deep precipices.
+‡
+
+Here's an example of how to include a dictation in a text activity.
+
+Click here to begin the activity. You will first hear the whole text and then you have to write the dictation bit by bit. 
+
+ATTENTION: For reasons of space, the sound has been compressed in MPEG-3 format, which only works in Windows 95/98/NT. In Windows 3.x an error message in the sound system will appear.
+‡
+Dictation example
+‡

@@ -1,0 +1,4 @@
+Els mots encreuats són com els que podem trobar a qualsevol diari o revista...
+... amb l'avantatge que les definicions de les paraules que es creuen a cada casella es presenten immediatament en clicar-hi al damunt.
+Les definicions acostumen a ser textuals, però també poden ser musicals o sonores.
+Per veure com han estat fetes les activitats que formen el paquet podeu prémer [CTRL]+E

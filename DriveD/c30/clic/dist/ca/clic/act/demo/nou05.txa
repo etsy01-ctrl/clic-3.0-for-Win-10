@@ -1,0 +1,52 @@
+119
+
+‡
+18,9,0,0,400,0,0,0,0,3,2,1,34,Arial
+80FFFF,800000,C0C0C0,0
+15,5,0,0,400,0,0,0,0,3,2,1,34,Arial
+80FFFF,000080,FFFFFF,0
+27,11,0,0,700,0,0,0,0,3,2,1,34,Arial
+80FFFF,800000,C0C0C0,0
+0,0,0,1,80FFFF,FFFFFF,-1,-1,1,0,0
+
+Caselles amb nous tipus de continguts multimèdia i ordres especials
+
+18759
+620;66
+456;42
+0
+
+
+0
+
+
+28,11,0,0,400,0,0,0,0,3,2,1,34,Arial
+80FFFF,008000,808080,0
+FF0000,C0C0C0,FFFFFF,0000FF
+0,918,3,6,0,30,16
+Avaluació
+Les caselles poden contenir nous tipus de crides a continguts multimèdia i ordres especials
+
+Enregistrament i reproducció de sons:
+
+Ž180,42,0,1,Si tens el micròfon connectat prova a enregistrar una paraula clicant en aquesta casella:Ž  Ž66,42,1,0,{rec0 5}Ž Ž120,42,0,1,Després escolta el resultat clicant aquí:Ž  Ž66,42,1,0,{rec0 play}Ž
+
+Ž180,42,0,1,Es poden utilitzar fins a 10 enregistraments simultanis en cada activitat:Ž  Ž66,42,1,0,{rec1 5}Ž Ž66,42,1,0,{rec1 play}Ž      Ž66,42,1,0,{rec2 5}Ž Ž66,42,1,0,{rec2 play}Ž
+
+Reproducció de fitxers multimèdia per fragments:
+
+Ž180,42,0,1,Aquesta casella fa sonar només els compassos 25 al 30 d'un fitxer MIDI:Ž  Ž66,42,1,0,{mozart.mid from 288 to 347}Ž Ž160,42,0,1,... i aquesta altra reprodueix només una paraula d'un fitxer WAV llarg:Ž Ž66,42,1,0,{nuria.wav from 14300 to 15273}Ž
+
+Crida a programes externs:
+
+Ž180,42,0,1,Si cliques en aquesta casella posaràs en marxa la calculadora del Windows:Ž  Ž66,42,1,0,{calc.exe}Ž
+
+Sortir del Clic:
+
+Ž180,60,0,1,També és possible sortir del Clic clicant en una casella, o en acabar una activitat si feu la crida en el missatge final:Ž  Ž66,42,1,0,{exit}Ž
+
+‡
+
+‡
+
+‡

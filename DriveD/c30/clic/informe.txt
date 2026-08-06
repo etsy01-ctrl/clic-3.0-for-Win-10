@@ -1,0 +1,509 @@
+********************************************
+
+
+4/12/1998 19:44
+
+FITXER       Temps Intents Enc. Resolt Prec.
+--------------------------------------------
+--------------------------------------------
+
+Activitats fetes: 0
+Resoltes: 0 (0%)
+Temps total: 00:00:00
+Precisió global: 0%
+
+********************************************
+
+
+4/12/1998 19:46
+
+FITXER       Temps Intents Enc. Resolt Prec.
+--------------------------------------------
+--------------------------------------------
+
+Activitats fetes: 0
+Resoltes: 0 (0%)
+Temps total: 00:00:00
+Precisió global: 0%
+
+********************************************
+
+
+4/12/1998 19:47
+
+FITXER       Temps Intents Enc. Resolt Prec.
+--------------------------------------------
+MENUACT.ASS      1     0     0    -     0%
+ASS01.ASS        9     5     3    -    15%
+ASS02.ASS        6     3     3    -    25%
+ASS04.ASS        8     4     4    X   100%
+ASS05.ASS        1     1     1    X   100%
+ASS06.ASS        1     0     0    -     0%
+ASS07.ASS        1     0     0    -     0%
+ASS08.ASS        2     0     0    -     0%
+ASS11.ASS        2     0     0    -     0%
+--------------------------------------------
+
+Activitats fetes: 9
+Resoltes: 2 (22%)
+Temps total: 00:00:31
+Precisió global: 26%
+
+********************************************
+
+
+4/12/1998 19:53
+
+FITXER       Temps Intents Enc. Resolt Prec.
+--------------------------------------------
+MENUACT.ASS      1     0     0    -     0%
+--------------------------------------------
+
+Activitats fetes: 1
+Resoltes: 0 (0%)
+Temps total: 00:00:01
+Precisió global: 0%
+
+********************************************
+
+
+4/12/1998 19:57
+
+FITXER       Temps Intents Enc. Resolt Prec.
+--------------------------------------------
+MENUACT.ASS      1     0     0    -     0%
+ASS01.ASS        2     0     0    -     0%
+ASS02.ASS        1     0     0    -     0%
+ASS04.ASS        3     5     1    -     5%
+ASS05.ASS        3     1     1    X   100%
+ASS06.ASS       23     9     8    X    88%
+ASS07.ASS       20    11     8    X    72%
+ASS08.ASS        4     1     1    -    25%
+ASS11.ASS        6     1     1    -    25%
+ASS12.ASS        2     0     0    -     0%
+--------------------------------------------
+
+Activitats fetes: 10
+Resoltes: 3 (30%)
+Temps total: 00:01:05
+Precisió global: 31%
+
+********************************************
+
+
+4/12/1998 20:17
+
+FITXER       Temps Intents Enc. Resolt Prec.
+--------------------------------------------
+NOU02.ASS        0     0     0    -     0%
+NOU03.ASS        1     0     0    -     0%
+NOU05.ASS        1     0     0    -     0%
+NOU07.ASS        1     0     0    -     0%
+NOU08.SOP        1     0     0    -     0%
+NOU09.ASS        0     0     0    -     0%
+NOU10.ASS        1     0     0    -     0%
+MENUACT.ASS      1     0     0    -     0%
+ASS01.ASS        7     3     3    -    25%
+ASS02.ASS        2     0     0    -     0%
+ASS04.ASS        6     0     0    -     0%
+ASS05.ASS        1     0     0    -     0%
+ASS06.ASS        1     0     0    -     0%
+ASS07.ASS        1     0     0    -     0%
+ASS08.ASS        2     0     0    -     0%
+ASS11.ASS        1     0     0    -     0%
+ASS12.ASS        1     0     0    -     0%
+ASS13.ASS        1     0     0    -     0%
+MENUACT.ASS      3     0     0    -     0%
+MENUACT.ASS      1     0     0    -     0%
+--------------------------------------------
+
+Activitats fetes: 20
+Resoltes: 0 (0%)
+Temps total: 00:00:33
+Precisió global: 1%
+
+********************************************
+
+
+4/12/1998 20:39
+
+FITXER       Temps Intents Enc. Resolt Prec.
+--------------------------------------------
+MENUACT.ASS      1     0     0    -     0%
+ASS01.ASS        4     2     2    -    16%
+ASS02.ASS        6     3     3    -    25%
+ASS04.ASS        1     0     0    -     0%
+--------------------------------------------
+
+Activitats fetes: 4
+Resoltes: 0 (0%)
+Temps total: 00:00:12
+Precisió global: 10%
+
+********************************************
+
+
+4/12/1998 20:50
+
+FITXER       Temps Intents Enc. Resolt Prec.
+--------------------------------------------
+--------------------------------------------
+
+Activitats fetes: 0
+Resoltes: 0 (0%)
+Temps total: 00:00:00
+Precisió global: 0%
+
+********************************************
+
+
+4/12/1998 20:51
+
+FITXER       Temps Intents Enc. Resolt Prec.
+--------------------------------------------
+--------------------------------------------
+
+Activitats fetes: 0
+Resoltes: 0 (0%)
+Temps total: 00:00:00
+Precisió global: 0%
+
+********************************************
+
+
+4/12/1998 20:51
+
+FITXER       Temps Intents Enc. Resolt Prec.
+--------------------------------------------
+--------------------------------------------
+
+Activitats fetes: 0
+Resoltes: 0 (0%)
+Temps total: 00:00:00
+Precisió global: 0%
+
+********************************************
+
+
+4/12/1998 20:53
+
+FITXER       Temps Intents Enc. Resolt Prec.
+--------------------------------------------
+--------------------------------------------
+
+Activitats fetes: 0
+Resoltes: 0 (0%)
+Temps total: 00:00:00
+Precisió global: 0%
+
+********************************************
+
+
+4/12/1998 20:54
+
+FITXER       Temps Intents Enc. Resolt Prec.
+--------------------------------------------
+MENUACT.ASS      3     0     0    -     0%
+ASS01.ASS        1     0     0    -     0%
+ASS02.ASS        1     0     0    -     0%
+--------------------------------------------
+
+Activitats fetes: 3
+Resoltes: 0 (0%)
+Temps total: 00:00:05
+Precisió global: 0%
+
+********************************************
+
+
+4/12/1998 20:56
+
+FITXER       Temps Intents Enc. Resolt Prec.
+--------------------------------------------
+MENUACT.ASS      2     0     0    -     0%
+ASS01.ASS        1     0     0    -     0%
+ASS02.ASS        2     0     0    -     0%
+--------------------------------------------
+
+Activitats fetes: 3
+Resoltes: 0 (0%)
+Temps total: 00:00:05
+Precisió global: 0%
+
+********************************************
+
+
+4/12/1998 20:59
+
+FITXER       Temps Intents Enc. Resolt Prec.
+--------------------------------------------
+MENUACT.ASS      2     0     0    -     0%
+ASS01.ASS        1     0     0    -     0%
+ASS02.ASS        1     0     0    -     0%
+ASS04.ASS        2     0     0    -     0%
+--------------------------------------------
+
+Activitats fetes: 4
+Resoltes: 0 (0%)
+Temps total: 00:00:06
+Precisió global: 0%
+
+********************************************
+
+
+4/12/1998 21:0
+
+FITXER       Temps Intents Enc. Resolt Prec.
+--------------------------------------------
+MENUACT.ASS      1     0     0    -     0%
+CRW01.CRW        1     0     0    -     0%
+CRW02.CRW        3     0     0    -     0%
+NOU02.ASS        1     0     0    -     0%
+NOU03.ASS        1     0     0    -     0%
+--------------------------------------------
+
+Activitats fetes: 5
+Resoltes: 0 (0%)
+Temps total: 00:00:07
+Precisió global: 0%
+
+********************************************
+
+
+4/12/1998 21:2
+
+FITXER       Temps Intents Enc. Resolt Prec.
+--------------------------------------------
+MENUACT.ASS      4     0     0    -     0%
+--------------------------------------------
+
+Activitats fetes: 1
+Resoltes: 0 (0%)
+Temps total: 00:00:04
+Precisió global: 0%
+
+********************************************
+
+
+4/12/1998 21:5
+
+FITXER       Temps Intents Enc. Resolt Prec.
+--------------------------------------------
+MENUACT.ASS      1     0     0    -     0%
+ASS01.ASS        1     0     0    -     0%
+ASS02.ASS        0     0     0    -     0%
+ASS04.ASS        1     0     0    -     0%
+ASS05.ASS        1     0     0    -     0%
+ASS06.ASS        0     0     0    -     0%
+ASS07.ASS        2     0     0    -     0%
+ASS08.ASS        1     0     0    -     0%
+ASS11.ASS       27     0     0    -     0%
+3DIR.ASS         1     0     0    -     0%
+3DIR_2.ASS       1     0     0    -     0%
+3DIR_3.ASS       1     0     0    -     0%
+3DIR_6.ASS       0     0     0    -     0%
+3DIR_4.ASS       1     0     0    -     0%
+3DIR_5.ASS       1     0     0    -     0%
+4DIR_I1.ASS      1     0     0    -     0%
+4DIR_I3.ASS      0     0     0    -     0%
+4DIR_I8.ASS      1     0     0    -     0%
+4DIR_I2.ASS      1     0     0    -     0%
+4DIR_I7.ASS      1     0     0    -     0%
+4DIR_I9.ASS      3     0     0    -     0%
+8DIR3.ASS        1     0     0    -     0%
+8DIR4.ASS        1     0     0    -     0%
+8DIR1.ASS        1     0     0    -     0%
+8DIR2.ASS        3     0     0    -     0%
+AM_AV2.ASS       5     0     0    -     0%
+AM_AV4.ASS       2     0     0    -     0%
+AM_AV5.ASS       1     0     0    -     0%
+AM_AV3.ASS       1     0     0    -     0%
+AM_AV7.ASS       1     0     0    -     0%
+AM_AV6.ASS       1     0     0    -     0%
+DR_ES1.ASS       1     0     0    -     0%
+DR_ES2.ASS       3     0     0    -     0%
+--------------------------------------------
+
+Activitats fetes: 33
+Resoltes: 0 (0%)
+Temps total: 00:01:07
+Precisió global: 0%
+
+********************************************
+
+
+6/12/1998 18:56
+
+FITXER       Temps Intents Enc. Resolt Prec.
+--------------------------------------------
+MENUACT.ASS      1     0     0    -     0%
+SOP01.SOP        1     0     0    -     0%
+SOP02.SOP        1     0     0    -     0%
+SOP03.SOP        1     0     0    -     0%
+MENUACT.ASS      2     0     0    -     0%
+--------------------------------------------
+
+Activitats fetes: 5
+Resoltes: 0 (0%)
+Temps total: 00:00:06
+Precisió global: 0%
+
+********************************************
+
+
+8/12/1998 20:50
+
+FITXER       Temps Intents Enc. Resolt Prec.
+--------------------------------------------
+3DIR.ASS         1     0     0    -     0%
+3DIR_2.ASS       1     0     0    -     0%
+3DIR_3.ASS       1     0     0    -     0%
+3DIR_6.ASS       1     0     0    -     0%
+3DIR_4.ASS       1     0     0    -     0%
+3DIR_5.ASS       1     0     0    -     0%
+4DIR_I1.ASS      1     0     0    -     0%
+4DIR_I3.ASS      0     0     0    -     0%
+4DIR_I8.ASS     14     8     8    X   100%
+4DIR_I2.ASS     11     7     7    -    58%
+4DIR_I7.ASS      3     0     0    -     0%
+4DIR_I9.ASS      0     0     0    -     0%
+8DIR3.ASS        1     0     0    -     0%
+8DIR4.ASS        1     0     0    -     0%
+8DIR1.ASS        1     0     0    -     0%
+8DIR2.ASS        6     0     0    -     0%
+--------------------------------------------
+
+Activitats fetes: 16
+Resoltes: 1 (6%)
+Temps total: 00:00:44
+Precisió global: 9%
+
+********************************************
+
+
+9/12/1998 17:23
+
+FITXER       Temps Intents Enc. Resolt Prec.
+--------------------------------------------
+--------------------------------------------
+
+Activitats fetes: 0
+Resoltes: 0 (0%)
+Temps total: 00:00:00
+Precisió global: 0%
+
+********************************************
+
+
+9/12/1998 17:23
+
+FITXER       Temps Intents Enc. Resolt Prec.
+--------------------------------------------
+MENUACT.ASS      2     0     0    -     0%
+ASS01.ASS       18     0     0    -     0%
+ASS02.ASS        1     0     0    -     0%
+ASS01.ASS        1     0     0    -     0%
+ASS02.ASS        8     0     0    -     0%
+ASS02.ASS        3     0     0    -     0%
+ASS02.ASS        2     0     0    -     0%
+ASS01.ASS       84     0     0    -     0%
+********************************************
+
+
+9/12/1998 17:31
+
+FITXER       Temps Intents Enc. Resolt Prec.
+--------------------------------------------
+--------------------------------------------
+
+Activitats fetes: 0
+Resoltes: 0 (0%)
+Temps total: 00:00:00
+Precisió global: 0%
+
+********************************************
+
+
+9/12/1998 17:32
+
+FITXER       Temps Intents Enc. Resolt Prec.
+--------------------------------------------
+MENUACT.ASS      1     0     0    -     0%
+ASS01.ASS       96     0     0    -     0%
+--------------------------------------------
+
+Activitats fetes: 2
+Resoltes: 0 (0%)
+Temps total: 00:01:37
+Precisió global: 0%
+
+********************************************
+
+
+9/12/1998 17:47
+
+FITXER       Temps Intents Enc. Resolt Prec.
+--------------------------------------------
+MENUACT.ASS      0     0     0    -     0%
+ASS01.ASS       57     0     0    -     0%
+--------------------------------------------
+
+Activitats fetes: 2
+Resoltes: 0 (0%)
+Temps total: 00:00:57
+Precisió global: 0%
+
+********************************************
+
+
+9/12/1998 17:50
+
+FITXER       Temps Intents Enc. Resolt Prec.
+--------------------------------------------
+MENUACT.ASS      0     0     0    -     0%
+ASS01.ASS        8     0     0    -     0%
+--------------------------------------------
+
+Activitats fetes: 2
+Resoltes: 0 (0%)
+Temps total: 00:00:08
+Precisió global: 0%
+
+********************************************
+
+
+9/12/1998 17:52
+
+FITXER       Temps Intents Enc. Resolt Prec.
+--------------------------------------------
+MENUACT.ASS      0     0     0    -     0%
+ASS01.ASS       54     0     0    -     0%
+--------------------------------------------
+
+Activitats fetes: 2
+Resoltes: 0 (0%)
+Temps total: 00:00:54
+Precisió global: 0%
+
+********************************************
+
+
+9/12/1998 20:49
+
+FITXER       Temps Intents Enc. Resolt Prec.
+--------------------------------------------
+3DIR.ASS         1     0     0    -     0%
+3DIR_2.ASS       0     0     0    -     0%
+3DIR_3.ASS       1     0     0    -     0%
+3DIR_6.ASS       1     0     0    -     0%
+3DIR_4.ASS       1     0     0    -     0%
+3DIR_5.ASS       1     0     0    -     0%
+4DIR_I1.ASS      1     0     0    -     0%
+4DIR_I3.ASS      3     0     0    -     0%
+--------------------------------------------
+
+Activitats fetes: 8
+Resoltes: 0 (0%)
+Temps total: 00:00:09
+Precisió global: 0%
+

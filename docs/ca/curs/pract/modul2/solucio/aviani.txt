@@ -1,0 +1,4 @@
+{cervol0.gif}{cervol.avi}
+{granota0.gif}{granota.avi}
+{zebra0.gif}{zebra.avi}
+{os0.gif}{os.avi}

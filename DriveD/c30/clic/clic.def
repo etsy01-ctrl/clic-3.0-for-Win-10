@@ -1,0 +1,8 @@
+NAME           CLIC
+DESCRIPTION    'Conjunt Logic d`Integracio Curricular'
+EXETYPE        WINDOWS
+STUB           'WSTUB.EXE'
+CODE           PRELOAD MOVEABLE DISCARDABLE
+DATA           PRELOAD MOVEABLE MULTIPLE
+HEAPSIZE       35328
+STACKSIZE      17408

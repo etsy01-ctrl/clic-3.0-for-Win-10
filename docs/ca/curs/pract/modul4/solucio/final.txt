@@ -1,0 +1,3 @@
+Felicitats!!!
+Has arribat al final del paquet de sumes i restes
+{exit}

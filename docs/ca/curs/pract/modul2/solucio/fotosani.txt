@@ -1,0 +1,4 @@
+{elefant.gif}
+{lleopard.gif}
+{llop.gif}
+{dofi.gif}

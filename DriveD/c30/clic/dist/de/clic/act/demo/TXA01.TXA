@@ -1,0 +1,37 @@
+120
+Lückentext Früchte  
+‡
+21,8,0,0,400,0,0,0,0,3,2,1,34,Arial
+FFFFFF,000000,808080,0
+24,13,0,0,700,0,0,0,0,3,2,1,49,Courier New
+FFFFFF,A00000,C0C0C0,1
+21,8,0,0,400,0,0,0,0,3,2,1,34,Arial
+FFFFFF,808000,808080,0
+1,1,0,0,FFFFFF,C0C0C0,-1,-1,1,0,0
+
+Setze die Namen der Früchte ein!
+Du weißt schon viel!
+2435
+540;140
+350;140
+0
+
+
+0
+
+
+16,6,0,0,700,0,0,0,0,3,2,1,34,Arial
+A00000,FFFFFF,000000,1
+FF0000,FFFFFF,FFFFFF,0000FF
+0,918,3,6,0,30,36
+Avaluació
+140,140,0,1,{Orange.gif}	140,140,0,0,{Kirsche.gif}	140,140,0,0,{Birne.gif}
+      _,0,6,6,0,0,140,140,1,Orange  Orange  	_,0,8,8,0,0,140,140,1,Kirsche|Kirschen     Kirsche	     _,0,5,5,0,0,140,140,1,BirneBirne
+140,140,0,0,{Zitrone.gif}	140,140,0,0,{Melone.gif}	140,140,0,0,{Trauben.gif}
+        _,0,7,7,0,0,140,140,1,ZitroneZitrone	_,0,13,13,0,0,140,140,1,Wassermelone|Wassermelonen|Melone|Melonen Wassermelone          _,0,11,11,0,0,140,140,1,Weintrauben|Weintraube   Weintrauben
+
+‡
+
+‡
+
+‡

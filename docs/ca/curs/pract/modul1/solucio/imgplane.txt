@@ -1,0 +1,10 @@
+{mercuri.gif}
+{venus.gif}
+{terra.gif}
+{mart.gif}
+{jupiter.gif}
+{saturn.gif}
+{ura.gif}
+{neptu.gif}
+{pluto.gif}
+

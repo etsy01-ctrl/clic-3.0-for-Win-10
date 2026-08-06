@@ -1,0 +1,41 @@
+120
+Activité de texte avec des blancs à combler et des indications
+‡
+18,8,0,0,400,0,0,0,0,3,2,1,34,Arial
+C0C0C0,000000,400080,0
+22,9,0,0,700,0,0,0,0,3,2,1,34,Arial
+C0C0C0,0000FF,FFFFFF,0
+20,8,0,0,700,0,0,0,0,3,2,1,34,Arial
+C0C0C0,000000,808080,0
+1,1,0,0,C0C0C0,C0C0C0,-1,-1,1,0,0
+
+Remplissage des blancs avec indications
+Très bien !
+6471
+560;140
+330;100
+0
+
+
+0
+
+
+16,6,0,0,700,0,0,0,0,3,2,1,34,Arial
+FF0000,FFFFFF,000000,1
+FF0000,C0C0C0,FFFFFF,0000FF
+0,918,3,6,0,30,2
+Evaluación
+500,100,0,1,Remplacer les blancs de ces phrases avec les mots dérivés des indications.
+•  J'ai vécu une année dans la _,0,8,8,1,0,80,30,0,esseulement|solitudeseulsolitude de la montagne.
+
+•  Il m'est difficile de calculer avec précision la _,0,4,4,1,0,80,30,0,datedaterdate de cette construction.
+
+•  Le _,0,10,10,1,0,100,30,0,mécanicienmécaniquemécanicien pousse la locomotive à sa vitesse maximale.
+
+•  A l'_,0,12,12,1,0,80,30,0,observatoire|Observatoireobserverobservatoire, ils installent un nouveau téléscope pour suivre la comète. 
+
+‡
+
+‡
+
+‡

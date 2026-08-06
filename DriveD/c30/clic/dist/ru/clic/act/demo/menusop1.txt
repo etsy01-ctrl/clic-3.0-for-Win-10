@@ -1,0 +1,4 @@
+In the Word searches you have to find the hidden words, which may be written in any direction.
+There is also the option that, as you find the words you uncover associated information.
+The associated information may be textual, graphic,or sound.
+To see how the activities that form the pack have been made press [CTRL]+E

@@ -1,0 +1,8 @@
+màxim local
+f'(x)=0, x>0
+punt d'inflexió
+(0,0)
+x=6
+f(x)= -12
+x=0
+f(x)=0, x<0

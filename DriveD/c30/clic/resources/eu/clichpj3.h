@@ -1,0 +1,1 @@
+CreateButton("BotoTanca", "&Irten", "Exit()")

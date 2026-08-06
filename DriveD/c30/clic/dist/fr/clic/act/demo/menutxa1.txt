@@ -1,0 +1,4 @@
+Las actividades de texto son ejercicios consistentes en corregir, completar, ordenar o identificar determinados elementos de un texto.
+Hay seis modalidades diferentes de ejercicios de texto: llenar huecos, completar texto, identificar letras o palabras y ordenar palabras o párrafos.
+Los ejercicios pueden incluir objectos gráficos y sonoros, así como diversos elementos de ayuda.
+Con [CTRL]+E podrás ver como están hechas las actividades que forman el paquete

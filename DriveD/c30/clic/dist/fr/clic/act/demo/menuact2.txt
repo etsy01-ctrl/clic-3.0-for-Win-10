@@ -1,0 +1,5 @@
+Activités de texte{textes.pac}
+Puzzles{puzzles.pac}
+Associations{assoc.pac}
+Mots mélés{motsm.pac}
+Mots croisés{motsc.pac}

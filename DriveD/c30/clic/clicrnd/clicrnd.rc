@@ -1,0 +1,27 @@
+/* --------------------------------
+	CLICRND.RC
+	-------------------------------- */
+
+#include "clicrndr.h"
+
+DIALOG_CONFIGURE DIALOG 6, 14, 137, 92
+STYLE DS_MODALFRAME | WS_POPUP | WS_VISIBLE | WS_CAPTION
+CAPTION "Sample"
+FONT 8, "MS Sans Serif"
+{
+ PUSHBUTTON "OK", IDOK, 19, 65, 42, 19
+ PUSHBUTTON "Cancel", IDCANCEL, 75, 65, 42, 19
+ CHECKBOX "Vowels", IDC_VOWELS, 40, 10, 60, 12, BS_AUTOCHECKBOX | WS_TABSTOP
+ CHECKBOX "Consonants", IDC_CONSONANTS, 40, 25, 60, 12, BS_AUTOCHECKBOX | WS_TABSTOP
+ CHECKBOX "Numbers", IDC_NUMBERS, 40, 41, 60, 12, BS_AUTOCHECKBOX | WS_TABSTOP
+}
+
+
+STRINGTABLE
+{
+ IDS_NOOP, "ERROR: You must select at least one option!"
+ IDS_INVACT, "This kind of activity is not supported by CLICRND"
+ IDS_BADVER, "ERROR: You are using an old version of CLICRND"
+}
+
+

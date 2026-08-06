@@ -1,0 +1,52 @@
+119
+
+‡
+18,9,0,0,400,0,0,0,0,3,2,1,34,Arial
+80FFFF,800000,C0C0C0,0
+15,5,0,0,400,0,0,0,0,3,2,1,34,Arial
+80FFFF,000080,FFFFFF,0
+27,11,0,0,700,0,0,0,0,3,2,1,34,Arial
+80FFFF,800000,C0C0C0,0
+0,0,0,1,80FFFF,FFFFFF,-1,-1,1,0,0
+
+Casillas con nuevos tipos de contenido multimedia y órdenes especiales
+
+18759
+620;66
+456;42
+0
+
+
+0
+
+
+28,11,0,0,400,0,0,0,0,3,2,1,34,Arial
+80FFFF,008000,808080,0
+FF0000,C0C0C0,FFFFFF,0000FF
+0,918,3,6,0,30,16
+Avaluació
+Las casillas pueden contener nuevos tipos de llamadas a contenidos multimedia y órdenes especiales
+
+Grabación y reproducción de sonidos:
+
+Ž185,42,0,1,Si tienes el micrófono conectado prueba a grabar una palabra haciendo clic en esta casilla:Ž  Ž66,42,1,0,{rec0 5}Ž Ž120,42,0,1,Después escucha el resultado haciendo clic aquí:Ž  Ž66,42,1,0,{rec0 play}Ž
+
+Ž185,42,0,1,Se pueden utilizar hasta 10 grabaciones simultáneas en cada actividad:Ž  Ž66,42,1,0,{rec1 5}Ž Ž66,42,1,0,{rec1 play}Ž      Ž66,42,1,0,{rec2 5}Ž Ž66,42,1,0,{rec2 play}Ž
+
+Reproducción de archivos multimedia por fragmentos:
+
+Ž185,42,0,1,Esta casilla hace sonar solamente los compases 25 al 30 de un archivo MIDI:Ž  Ž66,42,1,0,{mozart.mid from 288 to 347}Ž Ž160,42,0,1,... y esta otra reproduce solamente dos palabras de un archivo WAV largo:Ž Ž66,42,1,0,{nuria.wav from 15800 to 16664}Ž
+
+Llamada a programas externos:
+
+Ž185,42,0,1,Haciendo clic en esta casilla se pone en marcha la calculadora de Windows:Ž  Ž66,42,1,0,{calc.exe}Ž
+
+Salir de Clic:
+
+Ž185,70,0,1,También es posible salir de Clic activando una casilla, o al acabar una actividad si la llamada se realiza en el mensaje final:Ž  Ž66,42,1,0,{exit}Ž
+
+‡
+
+‡
+
+‡

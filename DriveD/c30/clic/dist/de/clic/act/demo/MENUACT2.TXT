@@ -1,0 +1,5 @@
+Textübungen{menutxa.pac}
+Puzzles{menupuz.pac}
+Zuordnungen{menuass.pac}
+Wörter suchen{menusop.pac}
+Kreuzworträtsel{menucrw.pac}

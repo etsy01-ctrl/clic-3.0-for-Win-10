@@ -1,0 +1,92 @@
+{\rtf1\ansi\ansicpg1252\uc1 \deff0\deflang1033\deflangfe3082{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}{\f11\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}MS Sans Serif;}{\f62\froman\fcharset238\fprq2 Times New Roman CE;}{\f63\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f65\froman\fcharset161\fprq2 Times New Roman Greek;}{\f66\froman\fcharset162\fprq2 Times New Roman Tur;}{\f67\froman\fcharset186\fprq2 Times New Roman Baltic;}{\f68\fswiss\fcharset238\fprq2 Arial CE;}{\f69\fswiss\fcharset204\fprq2 Arial Cyr;}{\f71\fswiss\fcharset161\fprq2 Arial Greek;}{\f72\fswiss\fcharset162\fprq2 Arial Tur;}{\f73\fswiss\fcharset186\fprq2 Arial Baltic;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{\nowidctlpar\widctlpar\adjustright \f11\fs20\cgrid \snext0 Normal;}{\*\cs10 \additive Default Paragraph Font;}}{\info{\operator Josu Jimenez Maia}{\creatim\yr1999\mo3\dy19\hr9\min10}{\revtim\yr1999\mo3\dy19\hr9\min41}{\version6}{\edmins27}{\nofpages3}{\nofwords1100}{\nofchars6271}{\*\company Euskal Eskola Publiko Berria   S O R T Z E N}{\nofcharsws7701}{\vern73}}\margl1701\margr1701\margt1417\margb1417 \endnotes\aendnotes\aftnstart0\hyphhotz0\aftnnar\lytprtmet\hyphcaps0\viewkind4\viewscale100\pgbrdrhead\pgbrdrfoot \fet0\sectd \linex0\headery709\footery709\colsx709\endnhere\sectdefaultcl {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang{\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}\pard\plain \nowidctlpar\widctlpar\tx283\tx637\adjustright \f11\fs20\cgrid {\b\f1\fs24\lang1034 
+\par }\pard \nowidctlpar\widctlpar\tx283\tx637\adjustright {\b\f1\fs24\lang1034 KLIK 3.0 SAREAN INSTALATZEKO ARGIBIDEAK}{\f1\lang1034 
+\par 
+\par }{\i\f1\lang1034 
+\par Komenigarria da dokumentu hau inprimatzea eta arretaz irakurtzea Klik }{\i\f1\lang1034 3.0 instalatu baino lehen sarean}{\i\f1\lang1034  konektaturiko gela batean}{\i\f1\lang1034 .}{\i\f1\lang1034 
+\par }{\f1\lang1034 
+\par 
+\par Klik 3.0k txostenak egiteko sistema berria dauka eta Access 1.1 datu-basea erabiltzen du. Ordenadoreak sarean konektaturik dituzten geletan komenigarria da lan-estazio guztietan datu-base bakar bat erabiltzea, eta ez bakoitzak bere disko gogorrean berea izatea. Informazioaren zentralazio honek abantaila hauek ditu:
+\par 
+\par - Ikasleek gelan dagoen edozein ordenadore erabil dezakete Klik ariketak egiteko: beti talde eta erabiltzaile zerrenda bera agertuko zaie eta haien datuak toki bateratu batera joanen dira. Ikasleek eginiko lanaren txostenak begiratzen dutenean saio guztietan metaturiko datuak agertuko zaizkie, eta ez du inolako garrantzirik izanen saio bakoitza ordenadore batean zein bestean egin duten.
+\par 
+\par - Irakasleak datu-basearen mantenimendua edota ikasle bakoitzaren garape}{\f1\lang1034 na ordenadore bakar batetik jarrai}{\f1\lang1034  dezake, eta ez du zertan joan beharrik mahai batetik bestera talde bakoitzak zer egin duen begiratzeko.
+\par 
+\par - Informazioaren segurtasun kopiak egiteko lana erraztu eginen da, datu guztiak }{\f1\lang1034 fitxategi }{\f1\lang1034 bakar batean egonen baitira sarearen zerbitzarian.
+\par 
+\par }{\b\f1\lang1034 KlikDB}{\f1\lang1034  programak aukera emanen die irakasleei datu-basearen mantenimendua egiteko: erabiltzaileen altak eta bajak, kontsultak... eta abar.
+\par }\pard \nowidctlpar\widctlpar\tx283\tx637\adjustright {\f1\lang1034 
+\par }\pard \nowidctlpar\widctlpar\tx283\tx637\adjustright {\f1\lang1034 Ikasleek aukera izanen dute KlikDB}{\f1\lang1034 ren}{\f1\lang1034  pantailetako batera joateko era ez-zuzen baten bidez (Klik-aren menuko }{\b\f1\lang1034 Oraingo erabiltzailearen txostenak}{\f1\lang1034 ), baina era honetan ez dute aukerarik izanen datu-b}{\f1\lang1034 asean aldaketak egiteko. Ikaslee}{\f1\lang1034 k }{\f1\lang1034 kudeatzeko funtziotara jo ez dezaten}{\f1\lang1034  komenigarria izanen da KlikDB ikonoaren}{\f1\lang1034  sarearen zerbitzarian baizik }{\f1\lang1034 ez agertzea.
+\par 
+\par Instalatzeko prozesua egiten den bitartean hiru galdera agertuko dira sareko txostenen sistemaren inplementazioari buruz:
+\par 
+\par - Instalatzaileak galdetuko du ea datu-basea ordenadore bakar batean zentralizatu nahi den. Erantzuna baiezkoa bada eman beharko zaio zerbitzariaren karpeta bateratuaren izena eta kokapena, geroago azalduko den bezala.
+\par 
+\par }{\f1\lang1034 - }{\f1\lang1034 Bigarrenez galdetu du ea automatikoki aktibatuko den txostenen sistema Klik martxan jartzen den al}{\f1\lang1034 diro. Gelan logikoena izanen litzateke}{\f1\lang1034  BAI}{\f1\lang1034  aukeratzea}{\f1\lang1034 . Beti aldatu daiteke erabaki hau ordenadore bako}{\f1\lang1034 itzeko aukera orokorreko menura}{\f1\lang1034  joanez gero.
+\par 
+\par - Azken galdera }{\b\f1\lang1034 ClicDB}{\f1\lang1034  programaren ikonoari buruzkoa da. Aipatu bezala, ikono honek bidea emanen digu mantenimendua eta datu-basearen aldaketak egiteko aukera }{\f1\lang1034 ematen duen programa aktibatzeko. Normalean EZ aukeratuko}{\f1\lang1034  dugu, Klik programa zerbitzarian instalatzen dugunean izan ezik, KlikDB programak irakasleen erabilpenerako soilik izan beharko lukeelako.
+\par 
+\par Dokumentu honetan zenbait suposizio egiten dira tokiko sarearen konfigurazioari buruz:
+\par 
+\par - Zerbitzariak }{\b\f1\lang1034 C:\\BATERA }{\b\f1\lang1034  }{\f1\lang1034 izeneko karpeta duela suposatzen da
+\par 
+\par - Suposatu ere suposatzen dugu karpeta bateratu honek ordenadore guztiei eskubidea ematen diela irakurtzeko eta idazteko.
+\par }\pard \nowidctlpar\widctlpar\tx283\tx637\adjustright {\f1\lang1034 
+\par }\pard \nowidctlpar\widctlpar\tx283\tx637\adjustright {\f1\lang1034 - }{\f1\lang1034 S}{\f1\lang1034 uposatzen da}{\f1\lang1034  o}{\f1\lang1034 rdenadoreek }{\b\f1\lang1034 T:}{\f1\lang1034  letra egokituta}{\f1\lang1034  }{\f1\lang1034 dutela}{\f1\lang1034  }{\f1\lang1034 zerbitzariaren }{\b\f1\lang1034 C:\\BATERA}{\f1\lang1034  karpetari}{\b\f1\lang1034  }{\f1\lang1034 
+\par 
+\par - Eta azkenez suposatzen da Klik programa C:\\KLIK karpetan instalatuko dela ordenadore guztietan.
+\par 
+\par Baliteke zure sareak ez izatea honelako konfigurazioa: agian Klik beste karpeta batean instalatu nahi da (adibidez, C:\\ARCHIV~1\\KLIK), edo bateratzeko karpeta BATERA ez izatea, edota C: unitatean ez egotea, edo ordenadoreek T: ez bezalako beste letra batean ikustea karpeta. Honela bada, dokumentu honetan egiten diren zitak (bai karpetenak, bai unitateenak) aldatu beharko dituzu eta zure sarearenak ezarri.
+\par 
+\par Hauek dira eman beharreko pausoak Klikaren txostenen sistema sarean zuzen-zuzen instalatzeko:
+\par 
+\par }\pard \fi-283\li283\nowidctlpar\widctlpar\tx283\tx637\adjustright {\f1\lang1034 1.\tab Sortu karpeta bat irakurtzeko eta idazteko baimena izanen duten zerbitzariaren toki ezagun batean. Adibidez, zerbitzarian }{\b\f1\lang1034 C:\\BATERA }{\f1\lang1034 izeneko karpeta baldin badago, haren barnean }{\b\f1\lang1034 C:\\BATERA\\TXOSTENA }{\f1\lang1034 izeneko beste karpeta bat sortu beharko da.  Normalean, ordenadoreek bateratzen dituzten haien errekurtsoak letra baten bidez: pentsa dezagun letra hori T: dela. Horrela bada, ordenadorrek honelako karpeta ikusi beharko lukete, }{\b\f1\lang1034 T:\\TXOSTENA}{\f1\lang1034 
+\par 
+\par 2.\tab Froga ezazu ordenadore guztiek ikus dezaketela karpeta hori MS-DOSen sintaxi arrun}{\f1\lang1034 t}{\f1\lang1034 aren bidez. Klik 16 bit-eko aplikazioa da eta ez du }{\b\f1\lang1034 \\\\ZERBITZA\\BATERA\\TXOSTENA}{\f1\lang1034  beza}{\f1\lang1034 lako espresiorik onartzen. Aurreko adibidearekin jarraituz, ziurtatu beharko genuke ordenado guztiak gauza direla ikusteko bateratua dagoen karpeta ondoko sintaxiarekin, }{\b\f1\lang1034 T:\\TXOSTENA}{\f1\lang1034 . Aurkitzen ez bada, seguraski, lotura sortu beharko da sarearen errekurtso bateratuarekin letra baten bidez. W95/98/NT sistemetan erraza izaten da }{\i\f1\lang1034 Windows Arakatzailearen Lanabes}{\f1\lang1034 en}{\i\f1\lang1034  }{\f1\lang1034 menuan dagoen }{\i\f1\lang1034 Sare-unitatearekin konektatu }{\f1\lang1034 funtzioa erabiliz.
+\par 
+\par 3.\tab Instalatu Klik }{\b\f1\lang1034 zerbitzarian}{\f1\lang1034 . Instalatzeko prozesuan erantzun batzuk eman beharko dira:
+\par }\pard \fi-354\li637\nowidctlpar\widctlpar\tx283\tx637\adjustright {\f1\lang1034 
+\par }\pard \fi-354\li637\nowidctlpar\widctlpar\tx283\tx637\adjustright {\f1\lang1034 -\tab Klik tokiko karpetan instalatu nahi dugula (adibidez, C:\\KLIK)
+\par }\pard \fi-354\li637\nowidctlpar\widctlpar\tx283\tx637\adjustright {\f1\lang1034 -\tab Txostenen sistema sarean instalatu nahi ote dugun galderari: }{\b\f1\lang1034 BAI}{\f1\lang1034 
+\par -\tab Datu-basea }{\b\f1\lang1034 C:\\BATERA\\TXOSTENA }{\f1\lang1034 karpetan kokatu nahi dugula.
+\par -\tab Txostenen sistema automatikoki aktibatzeko galderari: }{\b\f1\lang1034 BAI}{\f1\lang1034 
+\par -\tab }{\b\f1\lang1034 KlikDB}{\f1\lang1034  programaren ikonoa sortzeko galderari: }{\b\f1\lang1034 BAI}{\f1\lang1034 
+\par }\pard \li283\nowidctlpar\widctlpar\tx283\tx637\adjustright {\f1\lang1034 
+\par Beste galderak eginen dira, baina ez dute zerikus}{\f1\lang1034 irik txostenen sistemarekin: abi}{\f1\lang1034 bideak instalatu ala ez, KlikPak instalatu...
+\par }\pard \fi-283\li283\nowidctlpar\widctlpar\tx283\tx637\adjustright {\f1\lang1034 
+\par 4.\tab Instalazioa zerbitzarian bukatzen denean jar ezazu martxan }{\b\f1\lang1034 KlikDB}{\f1\lang1034  programa. Momentu honetan hiru aukera izanen dituzu:
+\par 
+\par }\pard \fi-354\li637\nowidctlpar\widctlpar\tx283\tx637\adjustright {\f1\lang1034 a)\tab Alta eskuz eman talde}{\f1\lang1034  }{\f1\lang1034 eta ikasle guztiei.
+\par b)\tab Taldeak bakarrik erregistratu eta utzi ikasleek beraiek haien alta eman dezaten Klik lehenego aldian martxan jartzen dutenean.
+\par c)\tab Ez erregistratu ezer eta askatasun osoa eman ikasleei haien taldeak eta erabiltzaileak sortzeko.
+\par }\pard \li283\nowidctlpar\widctlpar\tx283\tx637\adjustright {\f1\lang1034 
+\par }\pard \li283\nowidctlpar\widctlpar\tx283\tx637\adjustright {\f1\lang1034 Gure aholdua }{\b\f1\lang1034 b}{\f1\lang1034  da. Aukeratu nahiago duzuna eta, bukatzen duzunean, itxi }{\b\f1\lang1034 KlikDB}{\f1\lang1034  programa.
+\par }\pard \fi-283\li283\nowidctlpar\widctlpar\tx283\tx637\adjustright {\f1\lang1034 
+\par 5.\tab Orain beste ordenadoreekin hasiko gara: Klik programa instalatu beharko da guztietan ondoko erantzunak emanez:
+\par 
+\par }\pard \fi-354\li637\nowidctlpar\widctlpar\tx283\tx637\adjustright {\f1\lang1034 -\tab Programa C:\\KLIK karpetan instalatu nahi dugula (edo beste edozein tokiko karpetan)
+\par -\tab Txostenen sistema sarean instalatu nahi ote dugun galderari: }{\b\f1\lang1034 BAI}{\f1\lang1034 
+\par -\tab Datu-basearen karpeta }{\b\f1\lang1034 T:\\TXOSTENA}{\f1\lang1034  dela
+\par -\tab Txostenen sistema automatikoki aktibatzeko galderari: }{\b\f1\lang1034 BAI}{\f1\lang1034 
+\par -\tab }{\b\f1\lang1034 KlikDB}{\f1\lang1034  programaren ikonoa sortzeko galderari: }{\b\f1\lang1034 EZ}{\f1\lang1034 
+\par 
+\par }\pard \fi-283\li283\nowidctlpar\widctlpar\tx283\tx637\adjustright {\f1\lang1034 6.\tab Instalazioa bukatzen denean, 4. pausoan }{\b\f1\lang1034 b}{\f1\lang1034  ez bezalako aukera hautatu badugu Klik martxan jarri beharko da ordenadore guztietan (zerbitzaria barne) eta ondoko lanak egin beharko dira:
+\par 
+\par }\pard \fi-354\li637\nowidctlpar\widctlpar\tx283\tx637\adjustright {\f1\lang1034 -\tab }{\b\f1\lang1034 Aukerak - Aukera orokorrak }{\f1\lang1034 menua aktibatu.
+\par }\pard \fi-354\li637\nowidctlpar\widctlpar\tx283\tx637\adjustright {\f1\lang1034 
+\par }\pard \fi-354\li637\nowidctlpar\widctlpar\tx283\tx637\adjustright {\f1\lang1034 -\tab Seinalatu edo kendu ondoko gelaxkak: }{\b\f1\lang1034 Baimena eman ikasleei erabiltzaile berriak sorzeko}{\f1\lang1034  eta }{\b\f1\lang1034 Talde berriak sortu }{\f1\lang1034 hartutako}{\b\f1\lang1034  }{\f1\lang1034 erabakiaren arabera.
+\par 
+\par -\tab Guztiari baietza eman eta, Klikek galdetzen duenean, aldaketak etorkizunean erabiltzeko gorde dezala esan.
+\par }\pard \fi-283\li283\nowidctlpar\widctlpar\tx283\tx637\adjustright {\f1\lang1034 
+\par 7.\tab Froga ezazu txostenen sistemaren funtzionamendua ordenadore bakoitzetik.
+\par }\pard \nowidctlpar\widctlpar\tx283\tx637\adjustright {\f1\lang1034 
+\par Sarean datu bateratuak dituen beste edozein programak bezala, zerbitzaria gainerako ordenadoreak baino lehen jarri behar da martxan. Zerbitzaria itzalita badago edota sarearen unitateen asignazioa aldatzen bada errore mezua azalduko da Klik programa martxan jartzean.
+\par 
+\par }\pard \nowidctlpar\widctlpar\tx283\tx637\adjustright {\f1\lang1034 Sareko txosten sistemak aktibitate batetik bestera pasatzeko denbora gehixeago eman lezake, aldi berean erabiltzaile askok ibiltzen badu programa }{\f1\lang1034 bereziki}{\f1\lang1034 . Ordenadore azkarrak izanez gero ez da kasik antzemanen.
+\par }\pard \nowidctlpar\widctlpar\tx283\tx637\adjustright {\f1\lang1034 
+\par }\pard \nowidctlpar\widctlpar\tx283\tx637\adjustright {\f1\lang1034 Komenigarria izaten da }{\b\f1\lang1034 KlikDB}{\f1\lang1034  programa erregularki erabiltzea datu-basea trinkotzeko eta beharrezkoa ez den informazioa garbitzeko. Era berean komenigarria izaten da noiz-behinka }{\b\f1\lang1034 KLIKDB.MDB }{\f1\lang1034 fitxate}{\f1\lang1034 giaren segurtasun kopiak egitea zerbitzarian.
+\par 
+\par }{\b\f1\lang1034 KlikDB}{\f1\lang1034 aren datu-basea mantenimendua egin beharko da Klik programa inork erabiltzen ez duenean.
+\par 
+\par }\pard \nowidctlpar\widctlpar\tx283\tx637\adjustright {\f1\lang1034 Argibide gehiago nahi izanez gero, }{\b\f1\lang1034 Klik}{\f1\lang1034  eta }{\b\f1\lang1034 KlikDB}{\f1\lang1034  programen laguntzetara jo.
+\par }\pard \nowidctlpar\widctlpar\tx283\tx637\adjustright {\f1\lang1034 
+\par }}

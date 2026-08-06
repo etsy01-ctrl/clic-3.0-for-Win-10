@@ -1,0 +1,38 @@
+119
+
+‡
+18,8,0,0,400,0,0,0,0,3,2,1,34,Arial
+FFFFFF,000000,808080,0
+21,8,0,0,400,0,0,0,0,3,2,1,34,Arial
+FFFFFF,000000,808080,0
+21,8,0,0,400,0,0,0,0,3,2,1,34,Arial
+FFFFFF,000000,808080,0
+0,0,0,0,FFFFFF,FFFFFF,-1,-1,1,0,0
+
+Sistema de informes
+
+22855
+540;140
+350;100
+0
+
+
+0
+
+
+21,8,0,0,400,0,0,0,0,3,2,1,34,Arial
+FFFFFF,000000,808080,0
+FF0000,C0C0C0,FFFFFF,0000FF
+0,918,3,6,0,30,16
+Avaluació
+Ž200,150,0,1,{clicdb.gif}Ž
+El sistema d'informes se ha remodelado totalmente.
+
+Clic 3.0 utiliza una base de datos en la que se almacena la información de las actividades que hacen los usuarios. En las aulas conectadas en red se puede hacer que todas las estaciones compartan una misma base de datos de informes.
+
+El programa ClicDB, que se incluye con Clic, permite consultar la información de la base de datos y obtener distintos tipos de representaciones gráficas.
+‡
+
+‡
+
+‡

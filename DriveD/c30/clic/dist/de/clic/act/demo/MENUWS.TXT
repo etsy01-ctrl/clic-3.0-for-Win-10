@@ -1,0 +1,4 @@
+Beim "Wörter suchen" muss man versteckte Wörter, die in beliebiger Richtung geschrieben sein können, finden. 
+Es gibt auch die Möglichkeit, dass eine dazupassende Information aufgedeckt wird, wenn man die Wörter gefunden hat.
+Die dazupassende Information kann ein Text, eine Grafik oder ein Sound sein.
+Um zu sehen, wie diese Übungen, die in der Übungssammlung beinhaltet sind, hergestellt worden sind, drücken Sie [CTRL]+E

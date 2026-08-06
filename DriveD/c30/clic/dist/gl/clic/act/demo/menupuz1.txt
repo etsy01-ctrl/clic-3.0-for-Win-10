@@ -1,0 +1,4 @@
+O obxectivo dos crebacabezas é ordear os elementos dun conxunto de información que foi barallado e mesturado.
+Esta información pode ser textual, gráfica ou sonora.
+Os crebacabezas poden plantexarse en catro modalidades distintas chamadas: "intercambio", "dobre", "furado" e "memoria".
+Para verdes como se fixeron as actividades que forman o paquete podedes pulsar [CTRL]+E

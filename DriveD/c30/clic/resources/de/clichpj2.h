@@ -1,0 +1,3 @@
+; Secondary Window
+
+wmapa="Landkarte",(500, 25, 500, 975), 0, (255, 255, 255), (255, 255, 128)

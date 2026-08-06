@@ -1,0 +1,4 @@
+En les sopes cal trobar paraules amagades en un garbuix de lletres, escrites en qualsevol direcció.
+També podeu fer que a mida que es vagin trobant les paraules es descobreixi una informació associada.
+La informació associada pot ser textual, gràfica, sonora...
+Per veure com han estat fetes les activitats que formen el paquet podeu prémer [CTRL]+E

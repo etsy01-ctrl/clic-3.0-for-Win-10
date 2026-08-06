@@ -1,0 +1,3 @@
+Dans les activités de mots mélés, il faut trouver des mots cachés qui peuvent être écrits dans toutes les directions. 
+Une option permet de faire apparaître une information associée à chaque mot caché. 
+Ces informations peuvent être textuelles, graphiques ou sonores...

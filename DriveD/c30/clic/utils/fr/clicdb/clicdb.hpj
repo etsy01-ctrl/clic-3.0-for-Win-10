@@ -1,0 +1,26 @@
+[OPTIONS]
+COMPRESS=HIGH
+OLDKEYPHRASE=no
+WARNING=3
+REPORT=ON
+TITLE=ClicDB
+CONTENTS=INDEX
+
+[CONFIG]
+BrowseButtons()
+CreateButton("BotoTanca", "&Quitter", "Exit()")
+
+[FILES]
+CLICDB.RTF
+
+[BITMAPS]
+..\..\rcomu\clicdb16.bmp
+..\..\rcomu\bola.bmp
+..\..\rcomu\back.bmp
+..\..\rcomu\linia.bmp
+
+[WINDOWS]
+main=,(10, 10, 1000, 900), 0, (255, 255, 255), (255, 255, 128)
+
+[MAP]
+#include <clicdb.map>

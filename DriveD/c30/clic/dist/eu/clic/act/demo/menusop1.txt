@@ -1,0 +1,4 @@
+Letra-zopa hauetan izkutaturik dauden hitzak aurkitu behar dira. Edozein norabidetan idatzirik egon daitezke.
+Beste aldetik, askotan hitzak aurkitzen ditugun ahala, ariketarekin lotuta dagoen argibidea agertuko zaigu.
+Argibide hau idatzizko, grafikoa eta entzunezkoa izan daiteke.
+Paketea osatzen duten ariketak nola egin diren ikusteko [CTRL]+E sakatu. 

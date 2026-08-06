@@ -1,0 +1,16 @@
+LIBRARY          CLICRND
+DESCRIPTION      'Random contents selector for Clic'
+EXETYPE          WINDOWS
+
+CODE             PRELOAD MOVEABLE DISCARDABLE
+DATA             PRELOAD MOVEABLE SINGLE
+
+HEAPSIZE         5120
+STACKSIZE        2048
+
+EXPORTS
+  WEP                 @1   RESIDENTNAME
+  GetClicDllVer       @2
+  RemakeAct           @3
+  ConfigureDllOptions @4
+  IsValidAct          @5

@@ -1,0 +1,5 @@
+NOU: Activitats de text{menutxa.pac}
+Trencaclosques{menupuz.pac}
+Associacions{menuass.pac}
+Sopes de lletres{menusop.pac}
+Mots encreuats{menucrw.pac}

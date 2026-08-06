@@ -1,0 +1,45 @@
+120
+Gap filling exercise
+á
+21,8,0,0,400,0,0,0,0,3,2,1,34,Arial
+FFFFFF,000000,808080,0
+21,8,0,0,400,0,0,0,0,3,2,1,34,Arial
+808000,FFFFFF,000000,0
+21,8,0,0,400,0,0,0,0,3,2,1,34,Arial
+C0C0C0,000000,808080,0
+1,1,0,1,C0C0C0,C0C0C0,-1,-1,1,0,0
+
+A gapfilling activity with initial texts containing errors
+Now they're right!
+-30333
+528;140
+346;100
+0
+
+
+0
+
+
+21,8,0,0,700,0,0,0,0,3,2,1,34,Arial
+808040,FFFFFF,000000,0
+FF0000,FFFFFF,FFFFFF,0000FF
+0,918,3,6,0,30,12
+EvaluaciÛn
+é500,60,1,1,Correct the errors in these sentencesé
+
+The accident was caused by è_,0,6,6,0,0,140,100,1,èexcessèèaccessèèexcessè velocity.
+
+Please è_,0,6,6,0,0,140,100,1,èensureèèinsureèèensureè  that the gas is turned off.
+
+I always è_,0,6,6,1,0,140,50,1,èchooseèèelectèIt's my choiceèchooseè the Blah Party candidate.
+
+This is a rule that has no è_,0,10,10,0,0,140,100,1,èexceptionsèèacceptionsèèexceptionsè.
+
+Smoking can è_,0,6,6,0,0,140,100,1,èaffectèèeffectèèaffectè your health.
+
+I'm è_,0,7,7,0,0,140,100,1,èhopingèèhoppingèèhopingè to see you soon.
+á
+
+á
+
+á

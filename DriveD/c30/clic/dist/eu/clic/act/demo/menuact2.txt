@@ -1,0 +1,5 @@
+BERRIA: Testu-ariketak{menutxa.pac}
+Buruhausgarriak{menupuz.pac}
+Elkarketak{menuass.pac}
+Letra-zopak{menusop.pac}
+Gurutzegramak{menucrw.pac}

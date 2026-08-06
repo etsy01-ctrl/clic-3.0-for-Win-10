@@ -1,0 +1,4 @@
+Planetes{modul1\solucio\planetes.pac}
+Animals{modul2\solucio\animals.pac}
+Solidaritat{modul3\solucio\intermon.pac}
+Càlcul mental{modul4\solucio\calcul1.pac}

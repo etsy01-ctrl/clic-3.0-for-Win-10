@@ -1,0 +1,4 @@
+En las sopas de letras hay que encontrar palabras escondidas, que pueden estar escritas en cualquier dirección.
+También existe la opción de que a medida que se van encontrando las palabras se descubra una información asociada.
+La información asociada puede ser textual, gráfica, sonora...
+Para ver como se han hecho la actividades que forman el paquete podéis pulsar [CTRL]+E

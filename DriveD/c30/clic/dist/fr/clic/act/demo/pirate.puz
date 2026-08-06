@@ -1,0 +1,27 @@
+120
+Puzzle à base de texte
+‡
+38,12,0,0,400,0,0,0,0,3,2,1,18,Times New Roman
+400000,FFFFFF,000000,0
+26,10,0,0,400,0,0,0,0,3,2,1,34,Arial
+C0C0C0,000000,808080,0
+21,8,0,0,400,0,0,0,0,3,2,1,34,Arial
+C0C0C0,000000,808080,0
+1,1,1,1,C0C0C0,C0C0C0,0,-1,0,0,0
+
+Ceci un puzzle de type "échange" à base de texte avec une image solution.
+{Pirata.bmp}
+2435
+150;100
+90;70
+0
+
+
+0
+
+
+pirate.txt
+4
+3
+0
+0

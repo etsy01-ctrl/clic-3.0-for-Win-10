@@ -1,0 +1,67 @@
+
+Novidades na versión 3.0 de Clic	4
+Funcións básicas de Clic	6
+Como cargar unha actividade ou un paquete do disco	6
+Crebacabezas	6
+Tipos de crebacabezas	7
+Asociacións	7
+Sopa de letras	8
+Encrucillados	8
+Actividade de texto	9
+¿Como repetir a mesma actividade?	10
+¿Como pasar a outra actividade?	10
+¿Como pedir axuda para resolver a actividade?	10
+¿Como abandonar o programa?	11
+Creación e modificación de actividades e paquetes	12
+Directorio de traballo	12
+Creación de paquetes de actividades	12
+Encadeamento de paquetes	13
+Creación de crebacabezas	14
+Creación de asociacións	15
+Asignación de relacións	17
+Creación de sopas de letras	18
+Creación de encrucillado	18
+Creación de actividades de texto	19
+Definición de incógnitas en actividades de texto	22
+Creación automática de incógnitas	23
+Definición de cadriños	24
+Opcións de avaliación	24
+Selección do tipo de letra	26
+Vincular gráficos, recursos multimedia e ordes especiais	27
+Organización dos arquivos	30
+Opcións da actividade	31
+Gravar unha actividade ou un paquete	33
+Outras funcións do programa	34
+Imprimir	34
+Opcións globais	35
+Cursor automático	36
+O arquivo "CLIC.INI"	37
+Base de datos de informes	38
+Nome do usuario	39
+Informe de actividade	39
+Chamada a Clic con parámetros	40
+Xeración automática de actividades	41
+Especificacións do sistema de xeración automática de actividades	41
+O módulo de xeración de actividades de cálculo mental ARITH2	45
+Funcionamento do módulo Arith2	45
+¿Como crear actividades con Arith2?	46
+Elementos do diálogo de configuración	47
+A utilidade ClicDB	49
+¿Qué fai o programa ClicDB?	49
+Funcionamento do sistema de informes de Clic	49
+Estructura da base de datos	51
+Mantemento de usuarios e grupos	52
+Informes de grupo	53
+Informes de usuario	53
+Informes de paquetes e actividades	54
+Compactar a base de datos	55
+Chamada a ClicDB con parámetros	55
+A utilidade ClicPac	57
+¿Que fai ClicPac?	57
+Visualización do contido dos paquetes	57
+Creación de paquetes Clic compactos	57
+Descompactación de paquetes PCC	58
+Copia de paquetes normais PAC	58
+Diferencias entre os paquetes PAC e PCC	59
+Anexo: Instruccións para a instalación de Clic 3.0 en rede	60
+

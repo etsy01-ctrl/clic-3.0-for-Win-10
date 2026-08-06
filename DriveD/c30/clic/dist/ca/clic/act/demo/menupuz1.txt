@@ -1,0 +1,4 @@
+L'objectiu dels trencaclosques és ordenar els elements d'un conjunt d'informació que ha estat barrejat.
+Aquesta informació pot ser textual, gràfica o sonora.
+Els trencaclosques es poden plantejar en quatre modalitats diferents, anomenades: "intercanvi", "doble", "forat" i "memòria".
+Per veure com han estat fetes les activitats que formen el paquet podeu prémer [CTRL]+E
