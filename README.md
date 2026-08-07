@@ -1,7 +1,7 @@
 # Clic 3.0
 Authoring tool for educational activities, precursor to [JClic](https://projectes.xtec.cat/clic)
 
-![Clic 3.0](clic30.png)
+![Clic 3.0](media/clic30.png)
 
 ## What is this?
 
