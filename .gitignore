@@ -1,0 +1,5 @@
+# Ignore .obj files, except wstub.obj (must be compiled with Borland Macro Assembler, not included)
+*.obj
+*.OBJ
+!/src/clic/wstub.obj
+
