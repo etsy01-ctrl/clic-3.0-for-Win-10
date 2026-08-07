@@ -1,1 +1,0 @@
-CreateButton("BotoTanca", "&Sortir", "Exit()")
