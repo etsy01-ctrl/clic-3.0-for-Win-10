@@ -3,3 +3,13 @@
 *.OBJ
 !/src/clic/wstub.obj
 
+# Backup IDE files
+*.~DE
+
+# Generated EXE and DLL files
+*.EXE
+*.DLL
+
+# Generated ".res" files (from ".rc")
+/src/clic/**/*.res
+
