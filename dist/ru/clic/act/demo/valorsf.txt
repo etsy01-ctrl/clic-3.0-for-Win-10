@@ -1,8 +1,0 @@
- local maximum
-f'(x)=0, x>0
- inflexion point
-(0,0)
-x=6
-f(x)= -12
-x=0
-f(x)=0, x<0

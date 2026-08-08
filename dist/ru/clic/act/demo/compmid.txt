@@ -1,4 +1,0 @@
-{mozart.mid}
-{novena.mid}
-{bach.mid}
-{bressol.mid}

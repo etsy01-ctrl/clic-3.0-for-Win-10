@@ -1,4 +1,0 @@
-{foca.wav}
-{oveja.wav}
-{gallo.wav}
-{vaca.wav}

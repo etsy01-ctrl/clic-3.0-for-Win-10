@@ -1,4 +1,0 @@
-{bici.bmp}
-{cotxe.bmp}
-{camio.bmp}
-{moto.bmp}

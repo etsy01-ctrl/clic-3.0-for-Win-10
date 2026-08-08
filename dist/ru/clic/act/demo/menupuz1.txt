@@ -1,4 +1,0 @@
-The aim of the puzzles is to put the elements of a block of information in order.  
-This information may be textual, graphic or sound.
-The puzzles may be presented in four different modes:"exchange", "double", "hole" and "memory".
-To see how the activities that form this pack have been made press [CTRL]+E

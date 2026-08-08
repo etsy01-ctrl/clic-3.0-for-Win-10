@@ -1,4 +1,0 @@
-{bici.bmp}{bycicle.wav}
-{cotxe.bmp}{car.wav}
-{camio.bmp}{lorry.wav}
-{moto.bmp}{motorcyc.wav}

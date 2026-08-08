@@ -1,5 +1,0 @@
-Text activities{menutxa.pac}
-Puzzles{menupuz.pac}
-Associations{menuass.pac}
-Word searches{menusop.pac}
-Crosswords{menucrw.pac}

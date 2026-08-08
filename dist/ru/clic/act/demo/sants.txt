@@ -1,4 +1,0 @@
-{sants.mid from 0 to 128}
-{sants.mid from 129 to 259}
-{sants.mid from 260 to 372}
-{sants.mid from 372 to 514}
