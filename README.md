@@ -7,6 +7,8 @@ Authoring tool for educational activities, precursor to [JClic](https://projecte
 
 "Clic" is an older authoring tool of educational activities created in 1992 by [Francesc Busquets](https://github.com/frncesc). This is an application for 16-bit Windows architecture that only works on older versions of this operating environment (3.1, 95, 98, NT and XP).
 
+The software is available in Catalan, Spanish, Basque, Galician, French, English and German.
+
 The goal of this software repository is only to preserve the source code as part of the history of the Clic project.
 
 In 2002, [JClic](https://projectestac.github.io/jclic) (developed in Java) replaced Clic. All applications created with the original application could be imported by this new authoring tool.
@@ -21,15 +23,17 @@ All applications in the project ([Clic](https://github.com/frncesc/clic), [JClic
 
 To run "Clic" you will need to install a Windows 3.1-XP operating system. We recommend using [Wine](https://www.winehq.org/), which is available for Linux and MacOS, or a similar emulator system.
 
-You will also need the executable files, which can be found in the [Releases](../../releases/) section of this repository. These files are packaged in different ZIP files, one for each available language, along with a collection of sample activities.
+You will also need the executable files, which can be found in the _[Releases](../../releases/)_ section of this repository. These files are packaged in different ZIP files, one for each available language, along with a collection of sample activities, a manual in PDF format and the full app installer.
 
 To run the program, unzip the ZIP file of your choice to any directory and run this command:
 
 ```bash
+$ cd clic
 $ wine clic.exe
 ```
+To run the other programs in the package (clicpac, clicdb, etc.) you will need to use the full installer.
 
-For more details on how the program works, see the documents in the "/docs" directory.
+For more details on how the program works, see the PDF manual and other content located in the "/docs" directory.
 
 ## History
 

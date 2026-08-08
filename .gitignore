@@ -13,3 +13,7 @@
 # Generated ".res" files (from ".rc")
 /src/clic/**/*.res
 
+# Distribution files (provided in the "Releases" section)
+/dist
+
+
