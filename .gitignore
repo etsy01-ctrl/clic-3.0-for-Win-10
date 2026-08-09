@@ -16,4 +16,6 @@
 # Distribution files (provided in the "Releases" section)
 /dist
 
+# Non-redistributable tools
+/tools/other
 
