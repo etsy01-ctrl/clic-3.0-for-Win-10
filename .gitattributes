@@ -1,0 +1,4 @@
+# Native player artifacts; keep historical source attributes unchanged.
+/dist/ClicPlayer.exe binary
+/src/resources/assets/*.png binary
+/tools/*.ps1 text eol=crlf

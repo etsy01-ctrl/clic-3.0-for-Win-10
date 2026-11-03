@@ -19,3 +19,19 @@
 # Non-redistributable tools
 /tools/other
 
+
+# Native Windows player
+/build/
+/src/clic.ini
+/src/resources/assets/*.bgra
+!/dist/
+/dist/*
+!/dist/ClicPlayer.exe
+!/dist/CLIC.INI
+*.map
+*.tds
+*.tmp
+Thumbs.db
+.DS_Store
+.env
+.env.*

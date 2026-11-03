@@ -1,5 +1,7 @@
 # Clic Player para Windows 10
 
+**[Descargar ClicPlayer.exe](https://github.com/etsy01-ctrl/clic-3.0-for-Win-10/raw/refs/heads/main/dist/ClicPlayer.exe)** · **[Ver carpeta dist](dist/)**
+
 Reproductor nativo Win32 de actividades Clic 3.0, con portada e interfaz propias. Motor original conservado; no incluye editor.
 
 ## Portada y apariencia
@@ -52,3 +54,13 @@ Requiere Borland C++ 4 para Win32 y `rc.exe` del Windows SDK.
 ```
 
 Resultado: `dist\ClicPlayer.exe`. El build convierte el PNG con alpha a recurso BGRA para el dibujo nativo. Arte original y prompts: `src/resources/assets/`.
+## Código base y licencia
+
+Basado en [frncesc/clic](https://github.com/frncesc/clic), de Francesc Busquets. Licencia original conservada en [LICENSE](LICENSE).
+
+## Estructura del repositorio
+
+- `dist/`: player compilado y ajustes predeterminados.
+- `src/*.cpp`, `src/runtime-*`, `src/resources/`: port actual del player Win32.
+- `tools/build.ps1`: compilación del player actual.
+- `src/clic/`, `docs/`, `media/` y demás carpetas históricas: código y material original conservados.
